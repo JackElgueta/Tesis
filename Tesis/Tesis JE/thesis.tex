@@ -1,0 +1,201 @@
+% Ejemplo del uso de la template para escribir tesis/memorias de la Universidad Diego Portales.
+%
+% Eviar bugs a: Adín Ramírez, adin.ramirez (at) mail.udp.cl
+
+% Puede generar borradores si omite la opción "final" de la clase.
+% \documentclass{udpthesis}
+\documentclass[final]{udpthesis}
+
+% Establecemos el sistema para uso del español
+% Babel ya esta cargado dentro de updthesis
+\usepackage[T1]{fontenc}%    output
+\usepackage[utf8]{inputenc}% input
+\usepackage{lmodern}
+\usepackage{multirow, array} % para las tablas
+\usepackage{float}
+\clubpenalty=10000
+\widowpenalty=10000
+% Leyendas
+\usepackage[font=footnotesize,labelfont=bf,labelsep=period]{caption}
+
+% Agregue acá otros paquetes que le sean de utilidad
+% Matemáticas
+\usepackage{amsmath}
+
+% Gráficos
+\usepackage{graphicx}
+\graphicspath{ {imagenes/} {entrevistas/}}
+\usepackage[font=footnotesize,labelformat=simple]{subfig}
+% Cambiamos el formato de las leyendas: finalizan en punto, y en negrita.
+\captionsetup{labelsep=period,labelfont=bf}
+% Habilitamos el uso de paréntesis al citar las figuras con subfiguras dentro, e.g., Fig. 1(a)
+\renewcommand\thesubfigure{(\alph{subfigure})}
+\renewcommand\thesubtable{(\alph{subtable})}
+\newcommand{\subfigureautorefname}{\figureautorefname}
+
+% Código
+% Para generar código fuente usar listings.sty
+%\usepackage{listings}
+%\usepackage{tikz}
+%\lstset{
+%  language=[LaTeX]TeX,
+%  breaklines=true,
+%  basicstyle=\tt\scriptsize,
+%  keywordstyle=\color{blue},
+%  identifierstyle=\color{magenta},
+%  commentstyle=\color{green!40!black},
+%  % frame 
+%  frame=tb,
+%  captionpos=t,
+%  xleftmargin=1em,
+%  numbersep=0.3em,
+%  numbers=left,
+%  framexleftmargin=1.1em,
+%  framexrightmargin=0pt,
+%  % additional letters for accents in spanish
+%  literate=%
+%    {á}{{\'{a}}}1
+%    {é}{{\'{e}}}1
+%    {í}{{\'{i}}}1
+%    {ó}{{\'{o}}}1
+%    {ú}{{\'{u}}}1
+%    {ñ}{{\~{n}}}1
+%    {Ñ}{{\~{N}}}1
+%}
+%
+%\renewcommand{\lstlistingname}{Código}% Listing -> Código
+%\DeclareCaptionFormat{listing}{\rule{\dimexpr\linewidth\relax}{0.4pt}\par\vskip1pt#1#2#3}
+%\captionsetup[lstlisting]{format=listing,singlelinecheck=false, margin=0pt,position=bottom}
+
+% O para generar algoritmos en pseudocódigo usar algpseudocode.sty
+%\usepackage{algorithm}
+%\usepackage{algpseudocode}
+%\makeatletter
+%\renewcommand{\ALG@name}{Algoritmo}% Algorithm -> Algoritmo
+%\makeatother
+%\captionsetup[algorithm]{font=footnotesize,labelsep=period}
+
+% Referencias (este paquete ordena y comprime las referencias)
+\usepackage{cite}
+
+% Un paquete para generar texto. REMUEVA ESTE PAQUETE AL UTILIZAR ESTA PLANTILLA.
+\usepackage{blindtext}
+
+
+% Establecemos el tema a utilizar. 
+% Debe existir el archivo udpthesisEIT.sty en su sistema TeX para poder utilizarlo.
+% Por ejemplo, para utilizar el tema de magíster de la EIT deben de utilizar
+% \udptheme{EIT-MS}
+\udptheme{EIT}
+
+
+\begin{document}
+%% Inicio de la portada
+\frontmatter
+
+% Título del tema (no más de 12 palabras)
+\title{Propuesta de modelo predictivo para la deserción universitaria aplicado a carreras de ingeniería}
+% para precisar aún más su tema, use un subtítulo
+%\subtitle{Subtítulo explicativo del tema}
+
+% El autor(es) de la tesis
+\author{Jack Elgueta}
+\email{jack.elgueta@mail.udp.cl}% utilice un correo que revise después de graduado
+
+% o una lista de autores separados con comas
+%\author{Juan Bar, José Foo}
+%\email{juan.bar@mail.udp.cl, jose.foo@mail.udp.cl}
+
+% Fecha a aparecer en la tesis
+\date{2016}
+
+% Profesor guía
+\professor{Juan Duarte}
+% Comité
+\committee{Andrea Nieto}
+
+% Dedicatoria
+\dedicatory{Dedico esta tesis a mi familia, especialmente a mi padre, que de un modo u otro siempre ha dado su apoyo en mis peores momentos.}
+
+% Agradecimientos
+\acknowledgment{Agradezco a todos los profesores que de un modo u otro me han otorgado el conocimiento para la elaboración de este trabajo, especialmente a mi profesor guía Juan Duarte.}
+
+% Abstrac en inglés
+\abstract{%<- evita nueva linea en el abstract
+According to statistics of the Servicio de Información de Educación Superior (SIES, 2015) of the Ministry of Education reveal that over 30 \% of young people retires in the first year Career (3 of 10). In the second year this figure rises to 43 \%. Among the 20 career with the highest desertion in the country, the first and second year are the first year, 7 career engineering a dropout percentage of 36 \%, and for the second year, 12 career of engineering with a dropout percentage on 47 \%. \\
+
+According to the above problems, a study based on research on factors influencing dropout of students in engineering careers, public institutions and private will be exposed. Order to generate a predictive model proposal, based on data from students in both contexts.\\
+
+The model building will take into account factors used in other studies that determine a student's desertion, but is mainly based on three concepts. The first, Customer Intelligence, where constructs are determined on assessment of students desertion issue, thus it is expected to reach identifying variables to generate the model. The second, Business Intelligence, with which the data provided by the institutions will be processed, finding the variables identified with Customer Intelligence. And third, Data Mining, which grant the knowledge of attrition patterns in the data.
+}
+
+% Resumen
+\resumen{%<- evita nueva linea en el resumen 
+%El resumen no debe contener menos de 100 palabras ni mas de 300 palabras.
+Según datos estadísticos del Servicio de Información de Educación Superior (SIES, 2015) del Ministerio de Educación revelan que sobre un 30 \% de los jóvenes se retira el primer año de la carrera (3 de cada 10). Al segundo año esta cifra asciende a un 43 \%. Entre las 20 carreras con mayor deserción del país, al primer y segundo año, se encuentran al primer año, 7 carreras de ingeniería con un porcentaje de deserción sobre el 36 \%, y para el segundo año, 12 carreras de ingenierías con un porcentaje de deserción sobre el 47 \%.\\
+
+De acuerdo a la problemática anteriormente mencionada, se expondrá un estudio basado en investigaciones, sobre factores que influyen en la deserción de los alumnos en las carreras de ingeniería, de instituciones públicas, como privadas. Con el fin de generar una propuesta de modelo predictivo de la deserción, basados en datos de alumnos de ambos contextos.\\
+
+El modelo a construir tendrá en cuenta factores utilizados en otras investigaciones que determinan deserción de un alumno, pero se basará principalmente de tres conceptos. El primero, Inteligencia del Cliente, en donde se determinarán constructos, sobre apreciación de los estudiantes del tema deserción, con ello se espera llegar a la identificación de variables para generar el modelo. El segundo, Inteligencia de Negocio, con el cual se procesarán los datos otorgados por las instituciones, encontrando las variables identificadas con Inteligencia del Cliente. Y tercero, Minería de Datos, el cual otorgará el conocimiento de patrones de deserción en los datos.\\
+
+}
+
+% Generamos la portada
+\makecover
+
+% Indices y listas
+\tableofcontents% tabla de contenido
+\listoftables%    índice de tablas
+\listoffigures%   índice de figuras
+% puede agregar otras listas o índices acá de ser necesario
+
+
+
+% Inicio del contenido
+\mainmatter
+
+% Capítulos y secciones del documento
+% Aca se incluyen los archivos con el texto de los capitulos
+% Incluyo el archivo cap-intro.tex
+\part{Marco Teórico}
+\input{cap-intro}
+% Incluyo el archivo cap-tema.tex
+\input{cap-desercion}
+% incluya otros archivos según su necesidad
+% \input{archivo}
+\input{cap-IC}
+\input{cap-DM}
+% \input{cap-TECDM}
+\part{Desarrollo}
+\input{cap-Des}
+
+
+% Iniciamos el resto de secciones adicionales al contenido: referencias y apendices
+\backmatter
+
+
+% Bibliografía
+% referencias.bib es el archivo con la base de datos bibliografica
+% se recomienda utilizar un manejador de referencias: Jabref (jabref.sourceforge.net)
+% El estilo por defecto es IEEE Transactions
+\bibliographystyle{IEEEtran}
+% Acá puede incluir uno más archivos de referencia
+\bibliography{IEEEabrv,referencias}
+
+
+% Simbología y glosario
+% Utilice un paquete para generar símbolos y glosarios.
+% Por ejemplo: nomencl (http://texdoc.net/pkg/nomencl)
+
+
+% Anexos
+\appendix
+
+% Aca se incluyen los archivos con el texto de los anexos
+% Por ejemplo, anexo.tex
+\input{anexo}
+% puede incluir más archivos de anexos
+% \input{anexo-dos}
+
+\end{document}
+% that's all folks

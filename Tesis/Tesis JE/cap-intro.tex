@@ -1,0 +1,102 @@
+\chapter[Introducción]{Introducción}
+\label{ch:intro}
+
+
+
+\section{Antecedentes y Motivación}
+\label{sec:motivacion}
+
+En Chile el tema deserción se ha transformado en un problema que preocupa tanto para el Ministerio de Educación, instituciones de educación superior y para investigaciones, por este motivo que se han comenzado a examinar modelos y a utilizar sofisticados métodos cuantitativos para entender la deserción en el contexto de educación superior. Algunos trabajos han dado como resultado que el fenómeno deserción es multicausal \cite{acuna}, específicamente, en las características individuales de pre-ingreso, tales como el establecimiento de origen, el promedio de notas y ranking en la enseñanza media, los cuales son mejores predictores de la deserción que el puntaje PSU  \cite{larroucau}. Otros resultados indican que el tipo de establecimiento de educación media impacta en la deserción. Estudiantes provenientes de colegios particulares tienen menores tasas de deserción en los últimos años de la carrera que aquellos provenientes de la educación pública \cite{celis}. También se encontró que a mayor puntaje PSU y a mayor ingreso familiar, menores son las probabilidades de deserción \cite{diaz}. \\
+
+La motivación de esta propuesta es apoyar con información pertinente a las carreras con alto índice de deserción, principalmente carreras de ingeniería. El modelo, aunque en forma basal puede tener un patrón, no es el mismo para instituciones públicas o privadas. Idealmente se usarán datos de ambos contextos. Con el resultado se espera dar información que ayude a ejecutar acciones de tipo preventivas de apoyo tanto al docente como al alumno.\\ 
+
+Es importante destacar que el modelo predictivo se genera a partir de la data existente, basada en la historia de las carreras de ingeniería.\\
+
+%En síntesis, las acciones preventivas se traducen en apoyo académico para alumnos que están en una situación de riesgo académico, y de poder ayudar a salir de esa situación, apuntando a mejorar el rendimiento y disminuir la deserción de los alumnos.\\
+
+
+
+
+
+\section{Contexto}
+\label{sec:contexto}
+La tasa de retención de los estudiantes en educación superior, en especial de primer año, es uno de los indicadores más utilizados a nivel internacional para medir la eficiencia interna de las instituciones de educación, considerando que la mayor parte de los estudiantes desertan al primer año. Por otro lado, la deserción, permanencia y titulación de los estudiantes universitarios se ha transformado en un elemento estratégico para las instituciones en la rendición de cuentas y también para el Ministerio de Educación, al integrar indicadores de eficiencia docente, como la tasa de retención y de titulación, con el fin de medir el uso de recursos del crédito con aval del estado, el cual está destinado al financiamiento estudiantil a partir del año 2006 este distribuye utilizando un modelo que fija un arancel de referencia para cada carrera de las universidades pertenecientes al Consejo de Rectores de Universidades Chilenas (CRUCH).\\
+
+
+De acuerdo con el portal mifuturo.cl del Ministerio de Educación (diciembre, 2015), actualmente existen 157 instituciones reconocidas por el Ministerio de Educación, entre ellas 54 Centros de Formación Técnica (CFT), 43 Institutos Profesionales (IP), 25 Universidades Públicas y 35 Universidades Privadas \cite{instituciones}.\\
+
+En un estudio del SIES del Ministerio de Educación (2014) \cite{Sies2014}, sobre retención señala que:
+
+\begin{itemize}
+    \item Las universidades tienen mayor tasa de retención que los Institutos Profesionales (IP) y los Centros de Formación Técnica (CFT). Alcanzando un 76,6 \% para Universidades, 66,6 \% para IP y 64,5 \% para CFT.
+    
+    \item Las carreras profesionales (con y sin licenciatura) tienen tasas de retención significativamente mayores que las carreras técnicas. Con un 75 \% para las carreras profesionales y un 65,1 \% para carreras técnicas.
+    
+    \item Las instituciones de educación superior acreditadas tienen persistentemente mayor tasa de retención de primer año que aquellas instituciones que no lo están. Las instituciones acreditadas tuvieron una tasa de 72,2 \%, mientras que las sin acreditación un 53,7 \%.
+    
+\end{itemize}
+
+\section{Metodología de la solución}
+\label{sec:descripcion}
+
+Proponer un modelo predictivo que permita identificar los alumnos de carreras de ingeniería con una mayor probabilidad de deserción temprana, de modo que las instituciones puedan generar mecanismos de apoyo.\\
+
+La solución se basa en el trabajo de un conjunto de datos de una institución privada y otra estatal de las facultades de ingeniería de dichas instituciones.\\
+
+Con estos datos, se realizará un proceso de investigación utilizando inteligencia del cliente obteniendo variables para un tablou con el que se busca aplicar técnicas de minería de datos con el fin de determinar la influencia de los datos en el análisis predictivo.\\
+
+Con la información otorgada a través de la investigación y prueba de diferentes modelos, se espera generar una propuesta de modelo predictivo propio. \\
+
+
+\section{Objetivos}
+\label{sec:objetivos}
+
+\subsection{Objetivo general}
+
+Proponer un modelo predictivo para detectar de forma oportuna a alumnos con mayor probabilidad de desertar de la carrera de ingeniería a través de inteligencia del cliente y minería de datos.
+
+\subsection{Objetivos específicos}
+
+\begin{enumerate}
+\item Describir conceptos básicos de inteligencia del cliente, inteligencia de negocio y minería de datos.
+\item Identificar los diferentes factores que afectan la permanencia del estudiante en su carrera académica a través de inteligencia del cliente.
+\item Identificar y clasificar técnicas de minería de datos.
+\item Usar minería de datos para buscar patrones que predigan el comportamiento de deserción.
+\item Desarrollar diferentes modelos que determinen patrones de deserción.
+\item Analizar y validar los modelos desarrollados.
+\item Creación de un software con funcionalidades básicas y entendibles, que muestre los resultados obtenidos en los modelos.
+\end{enumerate}
+
+\section{Metodología de trabajo}
+
+El trabajo será dividido en cuatro fases:
+
+\begin{itemize}
+    \item Fase I
+    
+   En esta fase se trabajará principalmente en la definición y contextualización del problema, analizando el ámbito de la deserción de manera global y a nivel país, este último separado en instituciones estatales e instituciones privadas. Se definirán conceptos básicos de inteligencia del cliente, inteligencia de negocio y de minería de datos, de manera general, para poder analizar las diferentes técnicas de minería de datos. \\
+    
+    Se espera para esta fase tener conocimientos fuertes del tema deserción, minería de datos, inteligencia del cliente e inteligencia de negocio para dar paso a la siguiente fase.\\
+    
+    \item Fase II
+    
+    Se trabajará en entrevistas, aplicando el concepto de inteligencia del cliente para determinar constructos que permitan identificar y determinar variables influyentes en la deserción universitaria.\\   
+    
+    Se espera para esta fase, definir los principales datos que influyen en la predicción de deserción.\\
+    
+    \item Fase III
+    
+    En esta fase se trabajará en la solución, generando diferentes modelos predictivos a través de la herramienta \textit{RapidMiner}, software que permite aplicar varias técnicas de minería de datos. Los modelos se generarán teniendo en cuenta las investigaciones y conclusiones de las fases anteriores. Aplicando fases del proceso de minería de datos y validando los modelos con el conjunto de datos.\\
+    
+    Se espera a partir de los modelos generados, realizar un análisis para determinar el modelo que mejor se adapte a la situación deserción.\\
+    
+    \item Fase IV
+    
+    En esta fase se trabajará en la creación de un software,que muestre de manera visual los resultados obtenidos, trabajando con colores tipo semáforo, donde verde indica una baja probabilidad de deserción, amarillo medio y rojo alto, rangos a definirse en fases previas.\\
+    
+    Se espera un software con funcionalidades básicas y entendibles orientado a usuarios que trabajan con el tema de la deserción.
+
+\end{itemize}
+
+
+%\blindtext[2]

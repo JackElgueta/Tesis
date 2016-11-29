@@ -1,0 +1,41 @@
+\BOOKMARK [0][-]{chapter*.2}{Resumen}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{Abstract}{}% 2
+\BOOKMARK [0][-]{chapter*.5}{Lista de tablas}{}% 3
+\BOOKMARK [0][-]{chapter*.6}{Lista de figuras}{}% 4
+\BOOKMARK [-1][-]{part.1}{I Marco Te\363rico}{}% 5
+\BOOKMARK [0][-]{chapter.1}{Cap\355tulo 1. Introducci\363n}{part.1}% 6
+\BOOKMARK [1][-]{section.1.1}{Antecedentes y Motivaci\363n}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{Contexto}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.3}{Metodolog\355a de la soluci\363n}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.4}{Objetivos}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.4.1}{Objetivo general}{section.1.4}% 11
+\BOOKMARK [2][-]{subsection.1.4.2}{Objetivos espec\355ficos}{section.1.4}% 12
+\BOOKMARK [1][-]{section.1.5}{Metodolog\355a de trabajo}{chapter.1}% 13
+\BOOKMARK [0][-]{chapter.2}{Cap\355tulo 2. Deserci\363n en Chile}{part.1}% 14
+\BOOKMARK [1][-]{section.2.1}{Deserci\363n en Chile}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.1.1}{Estad\355sticas de deserci\363n en Chile}{section.2.1}% 16
+\BOOKMARK [0][-]{chapter.3}{Cap\355tulo 3. Inteligencia del Cliente}{part.1}% 17
+\BOOKMARK [1][-]{section.3.1}{Inteligencia del Cliente}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.1.1}{\277Qu\351 es Inteligencia del Cliente?}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.2}{Estructura de Relacionamiento y CRM}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.3}{Metodolog\355a de la Met\341fora}{section.3.1}% 21
+\BOOKMARK [1][-]{section.3.2}{Inteligencia de Negocio}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{Bases Operacionales}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{Procesos ETL}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.3}{\301rea Staging}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.4}{Base Anal\355tica \(Data Warehouse\)}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.5}{Herramientas de Gesti\363n}{section.3.2}% 27
+\BOOKMARK [0][-]{chapter.4}{Cap\355tulo 4. Miner\355a de Datos}{part.1}% 28
+\BOOKMARK [1][-]{section.4.1}{Miner\355a de Datos}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.1.1}{Fases del Descubrimiento del Conocimiento}{section.4.1}% 30
+\BOOKMARK [1][-]{section.4.2}{T\351cnicas de Miner\355a de Datos}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.3}{RapidMiner}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.4}{Conclusiones Marco Te\363rico}{chapter.4}% 33
+\BOOKMARK [-1][-]{part.2}{II Desarrollo}{}% 34
+\BOOKMARK [0][-]{chapter.5}{Cap\355tulo 5. Inteligencia del Cliente al Tema Deserci\363n}{part.2}% 35
+\BOOKMARK [1][-]{section.5.1}{Entrevistas con Metodolog\355a de Met\341foras}{chapter.5}% 36
+\BOOKMARK [2][-]{subsection.5.1.1}{Constructos}{section.5.1}% 37
+\BOOKMARK [1][-]{section.5.2}{Aplicando Miner\355a de Datos con RapidMiner}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.2.1}{Identificaci\363n de datos y variables}{section.5.2}% 39
+\BOOKMARK [2][-]{subsection.5.2.2}{Modelamiento}{section.5.2}% 40
+\BOOKMARK [0][-]{appendix.Alph1}{Anexo A. Primer anexo}{part.2}% 41

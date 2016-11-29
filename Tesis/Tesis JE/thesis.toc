@@ -1,0 +1,49 @@
+\select@language {spanish}
+\contentsline {chapter}{Resumen}{i}{chapter*.2}
+\contentsline {chapter}{Abstract}{iii}{chapter*.3}
+\contentsline {chapter}{Lista de tablas}{vii}{chapter*.5}
+\contentsline {chapter}{Lista de figuras}{ix}{chapter*.6}
+\contentsline {part}{I\hspace {1em}Marco Te\IeC {\'o}rico}{1}{part.1}
+\contentsline {chapter}{Cap\'{i}tulo 1.\ Introducci\IeC {\'o}n}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Antecedentes y Motivaci\IeC {\'o}n}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Contexto}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Metodolog\IeC {\'\i }a de la soluci\IeC {\'o}n}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objetivos}{5}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Objetivo general}{5}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Objetivos espec\IeC {\'\i }ficos}{6}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Metodolog\IeC {\'\i }a de trabajo}{6}{section.1.5}
+\contentsline {chapter}{Cap\'{i}tulo 2.\ Deserci\IeC {\'o}n en Chile}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Deserci\IeC {\'o}n en Chile}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Estad\IeC {\'\i }sticas de deserci\IeC {\'o}n en Chile}{10}{subsection.2.1.1}
+\contentsline {chapter}{Cap\'{i}tulo 3.\ Inteligencia del Cliente}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Inteligencia del Cliente}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\IeC {\textquestiondown }Qu\IeC {\'e} es Inteligencia del Cliente?}{15}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Estructura de Relacionamiento y CRM}{16}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Metodolog\IeC {\'\i }a de la Met\IeC {\'a}fora}{16}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Inteligencia de Negocio}{18}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Bases Operacionales}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Procesos ETL}{21}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}\IeC {\'A}rea Staging}{22}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Base Anal\IeC {\'\i }tica (Data Warehouse)}{23}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Herramientas de Gesti\IeC {\'o}n}{25}{subsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.5.1}Query $\&$ Reporting}{25}{subsubsection.3.2.5.1}
+\contentsline {subsubsection}{\numberline {3.2.5.2}An\IeC {\'a}lisis OLAP}{25}{subsubsection.3.2.5.2}
+\contentsline {subsubsection}{\numberline {3.2.5.3}Dashboard}{26}{subsubsection.3.2.5.3}
+\contentsline {subsubsection}{\numberline {3.2.5.4}Data Mining o Miner\IeC {\'\i }a de Datos}{26}{subsubsection.3.2.5.4}
+\contentsline {chapter}{Cap\'{i}tulo 4.\ Miner\IeC {\'\i }a de Datos}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}Miner\IeC {\'\i }a de Datos}{27}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Fases del Descubrimiento del Conocimiento}{28}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Recogida de Datos}{29}{subsubsection.4.1.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.2}Modelamiento}{29}{subsubsection.4.1.1.2}
+\contentsline {subsubsection}{\numberline {4.1.1.3}Evaluaci\IeC {\'o}n}{31}{subsubsection.4.1.1.3}
+\contentsline {section}{\numberline {4.2}T\IeC {\'e}cnicas de Miner\IeC {\'\i }a de Datos}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}RapidMiner}{32}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusiones Marco Te\IeC {\'o}rico}{32}{section.4.4}
+\contentsline {part}{II\hspace {1em}Desarrollo}{33}{part.2}
+\contentsline {chapter}{Cap\'{i}tulo 5.\ Inteligencia del Cliente al Tema Deserci\IeC {\'o}n}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Entrevistas con Metodolog\IeC {\'\i }a de Met\IeC {\'a}foras}{35}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Constructos}{36}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Aplicando Miner\IeC {\'\i }a de Datos con \textit {RapidMiner}}{44}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Identificaci\IeC {\'o}n de datos y variables}{44}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Modelamiento}{45}{subsection.5.2.2}
+\contentsline {chapter}{Anexo A.\ Primer anexo}{51}{appendix.Alph1}
