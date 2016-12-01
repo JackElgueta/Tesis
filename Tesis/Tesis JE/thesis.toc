@@ -43,7 +43,7 @@
 \contentsline {chapter}{Cap\'{i}tulo 5.\ Inteligencia del Cliente al Tema Deserci\IeC {\'o}n}{35}{chapter.5}
 \contentsline {section}{\numberline {5.1}Entrevistas con Metodolog\IeC {\'\i }a de Met\IeC {\'a}foras}{35}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Constructos}{36}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Aplicando Miner\IeC {\'\i }a de Datos con \textit {RapidMiner}}{44}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Identificaci\IeC {\'o}n de datos y variables}{44}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Modelamiento}{45}{subsection.5.2.2}
-\contentsline {chapter}{Anexo A.\ Primer anexo}{51}{appendix.Alph1}
+\contentsline {chapter}{Cap\'{i}tulo 6.\ Aplicando Miner\IeC {\'\i }a de Datos con RapidMiner}{47}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Identificaci\IeC {\'o}n de datos y variables}{47}{subsection.6.0.1}
+\contentsline {subsection}{\numberline {6.0.2}Modelamiento}{49}{subsection.6.0.2}
+\contentsline {chapter}{Anexo A.\ Primer anexo}{55}{appendix.Alph1}

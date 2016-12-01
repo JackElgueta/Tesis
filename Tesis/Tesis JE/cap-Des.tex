@@ -4,7 +4,7 @@
 
 Un aspecto importante del concepto de Inteligencia del Cliente, es entender las necesidades del consumidor. En el caso de este trabajo, se manejan los conceptos de IC aplicado a alumnos, para entender sus necesidades y motivaciones en terminar una carrera universitaria.\\
 
-El siguiente desarrollo busca como objetivo ver las motivaciones de los alumnos, para convertirlos en constructos junto a sus asociaciones, los cuales entregarán métricas y variables para analizar el tema deserción. Las métricas y variables definidas en esta sección, ayudará a la selección de datos y construcción de los modelos, para luego aplicar las técnicas de minería de datos con la herramienta RapidMiner a las bases de datos de la entidad pública y privada.
+El siguiente desarrollo busca como objetivo ver las motivaciones de los alumnos, para convertirlos en constructos junto a sus asociaciones, los cuales entregarán métricas y variables para analizar el tema deserción. Las métricas y variables definidas en esta sección, ayudará a la selección de datos y construcción de los modelos, para luego aplicar las técnicas de minería de datos con la herramienta \textit{RapidMiner} a las bases de datos de la entidad pública y privada.
 
 \section{Entrevistas con Metodología de Metáforas}
 
@@ -112,7 +112,14 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-Representa a lo que se dedicará y obtendrá el alumno una vez titulado.\\
+Representa a lo que se dedicará y obtendrá el alumno una vez titulado. Se relaciona al constructo Dinero y se asocian las mismas variables.\\
+
+Variables:\\
+\begin{itemize}
+	\item Empleabilidad al 1er año
+	\item Ingreso promedio al 4to año	
+\end{itemize} 
+
 
 \underline {Constructo 6 - Profesional} \\
 Asociaciones:
@@ -125,9 +132,15 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-Un alumno que valora el ser un profesional, tomará en cuenta el prestigio y excelencia de la institución, como también su formación profesional, por lo que será interesante saber si la institución se encuentra acreditada, 
+Un alumno que valora el ser un profesional, tomará en cuenta el prestigio y excelencia de la institución, como también su formación profesional, por lo que será interesante saber si la institución se encuentra acreditada.\\
 
-Se refiere a el trabajo al cual se dedicará y a la excelencia, generando prestigio y reconocimiento.\\
+Variables:\\
+\begin{itemize}
+	\item Acreditación Institucional
+	\item Carrera Acreditada	
+\end{itemize} 
+
+
 
 \underline {Constructo 7 - Viajes} \\
 Asociaciones:
@@ -162,7 +175,18 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-Hace referencia al tiempo disponible que tendrá, a poder cumplir y hacer lo que siempre le a gustado hacer.\\
+Hace referencia al tiempo disponible que tendrá, a poder cumplir y hacer lo que siempre le a gustado hacer. Es importante para el alumno, que la institución a la cual pertenece disponga de talleres o facilidades que complementen sus estudios con los pasatiempos.\\
+
+%verificar si es por institución o por alumno que haga estos talleres
+
+Variables:\\
+\begin{itemize}
+	\item Talleres deportivos
+	\item Talleres culturales
+	\item Becas deportivas
+	\item Convenios culturales
+\end{itemize}
+
 
 \underline {Constructo 9 - Hogar} \\
 Asociaciones:
@@ -174,7 +198,16 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-Representa independencia y unión familiar a través de la estabilidad económica.\\
+Representa independencia y unión familiar a través de la estabilidad económica. Se asocia a los constructos de Dinero y Familia\\
+
+Variables:\\
+\begin{itemize}
+	\item Empleabilidad al 1er año
+	\item Ingreso promedio al 4to año
+	\item Distancia a universidad (comuna).
+	\item Estudiar 3 primeras prioridades.
+	\item Tiempo medio de encontrar trabajo estudiante egresado.	
+\end{itemize} 
 
 \underline {Constructo 10 - Comida} \\
 Asociaciones:
@@ -199,7 +232,7 @@ Asociaciones:
 
 Definición:\\
 
-Hace referencia a sentirse preparado, a estar seguro en lo que se trabaja y poder cumplir de manera excelente.\\
+Hace referencia a sentirse preparado, a estar seguro en lo que se trabaja y poder cumplir de manera excelente. Es importante para el alumno ver la vinculación con el medio que tiene la institución y las prácticas ofrecidas.\\
 
 
 \underline {Constructo 12 - Superación personal} \\
@@ -237,7 +270,14 @@ Asociaciones:
 
 Definición:\\
 
-Hace referencia a que un titulo certifica las capacidades de una persona, haciéndolas sentir más seguras.\\
+Hace referencia a que un titulo certifica las capacidades de una persona, haciéndolas sentir más seguras. Un alumno que busca seguridad laboral, buscara mejorar sus capacidades con certificaciones, es importante entonces que la institución a la que pertenece certifique los conocimientos del alumno.\\
+
+Variables:\\
+\begin{itemize}
+	\item Certificación
+	\item Acreditación institucional
+	\item Carrera acreditada	
+\end{itemize} 
 
 \underline {Constructo 15 - Conciencia sustentable} \\
 Asociaciones:
@@ -291,6 +331,12 @@ Definición:\\
 
 Representa que un titulo otorga poder estar seguro tanto económicamente como emocional.\\
 
+Variables:\\
+\begin{itemize}
+	\item Apoyo Bienestar estudiantil	
+\end{itemize} 
+
+
 \underline {Constructo 19 - Herramientas} \\
 Asociaciones:
 \begin{enumerate}
@@ -304,54 +350,5 @@ Definición:\\
 
 Hace referencia al aprendizaje obtenido en la etapa universitaria.\\
 
-\section{Aplicando Minería de Datos con \textit{RapidMiner}}
-
-\subsection{Identificación de datos y variables}
-
-Los datos a utilizar en los modelos, son variables extraídas del análisis de los constructos de la sección anterior, además se incluyen variables analizadas al principio del documento sobre la deserción en Chile
-
-\begin{table}[H]
-	\begin{center}
-		\begin{tabular}{|l|l|l|}
-			\hline
-			Variable & Tipo & Descripción \\
-			\hline \hline
-			 &  & \\ \hline
-			 Comuna Residencia &  & \\ \hline
-			 Genero &  & \\ \hline
-			 Edad &  & \\ \hline
-			 Tipo establecimiento de origen &  & \\ \hline
-			 Notas enseñanza media & & \\ \hline
-			 PSU Matemáticas &  & \\ \hline
-			 PSU Lenguaje &  & \\ \hline
-			 PSU Historia &  & \\ \hline
-			 PSU Ciencias &  & \\ \hline
-			 Prioridad de postulación a carrera & & \\ \hline
-			 Reingresante & & \\ \hline
-			 Trabajador & & \\ \hline
-			 
-			 
-			 Tipo Institución &  & \\ \hline
-			 Acreditación Institucional &  & \\ \hline
-			 Jornada &  & \\ \hline
-			 Arancel anual & & \\ \hline
-			 Empleabilidad al 1er año & & \\ \hline
-			 Ingreso promedio 4to año & & \\ \hline
-			 Institución con intercambio & & \\ \hline
-			 
-			 Beca &  & \\ \hline
-			 Beca alimento & & \\ \hline
-			 Crédito &  & \\ \hline
-			 Promedio notas acumuladas &  & \\ \hline
-			 Ramos reprobados por semestre & & \\ \hline
-			 Causales acumuladas & & \\ \hline
-			 Ranking carrera & & \\ \hline
-			 
-		\end{tabular}
-		\caption{Tabla muy sencilla.}
-		\label{tabla:sencilla}
-	\end{center}
-\end{table}
 
 
-\subsection{Modelamiento}
