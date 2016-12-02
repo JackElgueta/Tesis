@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.30)  30 NOV 2016 23:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.30)  1 DEC 2016 22:44
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -3703,32 +3703,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 110.
 [38]
 Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
@@ -3749,39 +3749,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-LaTeX Info: Redefining \. on input line 148.
-LaTeX Info: Redefining \% on input line 148.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 141.
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
 
  []
 
@@ -3791,99 +3786,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--161
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-LaTeX Info: Redefining \. on input line 179.
-LaTeX Info: Redefining \% on input line 179.
+LaTeX Info: Redefining \. on input line 175.
+LaTeX Info: Redefining \% on input line 175.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 175.
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--202
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
 
  []
 
-LaTeX Info: Redefining \. on input line 215.
-LaTeX Info: Redefining \% on input line 215.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+LaTeX Info: Redefining \. on input line 209.
+LaTeX Info: Redefining \% on input line 209.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 209.
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
@@ -3914,68 +3919,63 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 250.
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--261
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-LaTeX Info: Redefining \. on input line 288.
-LaTeX Info: Redefining \% on input line 288.
+LaTeX Info: Redefining \. on input line 285.
+LaTeX Info: Redefining \% on input line 285.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 288.
+(babel)             in language  on input line 285.
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
@@ -3985,63 +3985,150 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--307
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
 
  []
 
-LaTeX Info: Redefining \. on input line 320.
-LaTeX Info: Redefining \% on input line 320.
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+LaTeX Info: Redefining \. on input line 319.
+LaTeX Info: Redefining \% on input line 319.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 320.
+(babel)             in language  on input line 319.
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+LaTeX Info: Redefining \. on input line 349.
+LaTeX Info: Redefining \% on input line 349.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 349.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 349.
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+LaTeX Info: Redefining \. on input line 387.
+LaTeX Info: Redefining \% on input line 387.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 387.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 387.
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
@@ -4072,7 +4159,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [45]
+ [47]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand >>
@@ -4097,7 +4184,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [46
+ [48
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -4133,99 +4220,48 @@ Package babel Info: Redefining spanish shorthand "?
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 56.
- [47]
-Overfull \vbox (9.20686pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 56.
-
-[48]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 58.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 58.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 58.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 58.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 58.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 58.
-)
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 175.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 55.
  [49]
 Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 57.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 175.
+LaTeX Info: Redefining \% on input line 175.
+Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand >>
 (babel)             in language  on input line 175.
@@ -4249,7 +4285,58 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 175.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 175.
- [50
+ [50]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 175.
+
+[51]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 175.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 175.
+ [52
 
 ] (thesis.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 52--56
@@ -4287,7 +4374,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 94.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 94.
-[51
+[53
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 108--111
@@ -4322,7 +4409,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 193.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 193.
- [52]
+ [54]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 193.
 Package babel Info: Redefining spanish shorthand >>
@@ -4347,7 +4434,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 193.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 193.
- [53
+ [55
 
 ] (anexo.tex
 Package babel Info: Redefining spanish shorthand <<
@@ -4374,7 +4461,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [54
+ [56
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -4413,7 +4500,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 3.
- [55]
+ [57]
 Underfull \hbox (badness 10000) in paragraph at lines 5--10
 
  []
@@ -4423,49 +4510,49 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 15--15
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/marcel1.png, id=827, 1715.40875pt x 1602.98875pt>
+<entrevistas/marcel1.png, id=836, 1715.40875pt x 1602.98875pt>
 File: entrevistas/marcel1.png Graphic file (type png)
 
 <use entrevistas/marcel1.png>
 Package pdftex.def Info: entrevistas/marcel1.png used on input line 18.
 (pdftex.def)             Requested size: 56.90443pt x 56.89304pt.
 
-<entrevistas/marcel2.png, id=828, 1044.90375pt x 2301.59875pt>
+<entrevistas/marcel2.png, id=837, 1044.90375pt x 2301.59875pt>
 File: entrevistas/marcel2.png Graphic file (type png)
 
 <use entrevistas/marcel2.png>
 Package pdftex.def Info: entrevistas/marcel2.png used on input line 21.
 (pdftex.def)             Requested size: 56.90387pt x 56.89362pt.
 
-<entrevistas/marcel3.png, id=829, 301.125pt x 280.79906pt>
+<entrevistas/marcel3.png, id=838, 301.125pt x 280.79906pt>
 File: entrevistas/marcel3.png Graphic file (type png)
 
 <use entrevistas/marcel3.png>
 Package pdftex.def Info: entrevistas/marcel3.png used on input line 24.
 (pdftex.def)             Requested size: 56.90189pt x 56.90434pt.
 
-<entrevistas/marcel5.png, id=830, 301.125pt x 161.10187pt>
+<entrevistas/marcel5.png, id=839, 301.125pt x 161.10187pt>
 File: entrevistas/marcel5.png Graphic file (type png)
 
 <use entrevistas/marcel5.png>
 Package pdftex.def Info: entrevistas/marcel5.png used on input line 27.
 (pdftex.def)             Requested size: 56.90189pt x 56.90517pt.
 
-<entrevistas/marcel6.png, id=831, 301.125pt x 317.68687pt>
+<entrevistas/marcel6.png, id=840, 301.125pt x 317.68687pt>
 File: entrevistas/marcel6.png Graphic file (type png)
 
 <use entrevistas/marcel6.png>
 Package pdftex.def Info: entrevistas/marcel6.png used on input line 30.
 (pdftex.def)             Requested size: 56.90189pt x 56.90485pt.
 
-<entrevistas/marcel7.png, id=832, 301.125pt x 173.89969pt>
+<entrevistas/marcel7.png, id=841, 301.125pt x 173.89969pt>
 File: entrevistas/marcel7.png Graphic file (type png)
 
 <use entrevistas/marcel7.png>
 Package pdftex.def Info: entrevistas/marcel7.png used on input line 33.
 (pdftex.def)             Requested size: 56.90189pt x 56.90413pt.
 
-<entrevistas/marcel8.png, id=833, 1498.59875pt x 846.16125pt>
+<entrevistas/marcel8.png, id=842, 1498.59875pt x 846.16125pt>
 File: entrevistas/marcel8.png Graphic file (type png)
 
 <use entrevistas/marcel8.png>
@@ -4510,7 +4597,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 46.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 46.
- [56 <./entrevistas/marcel1.png> <./entrevistas/marcel2.png> <./entrevistas/mar
+ [58 <./entrevistas/marcel1.png> <./entrevistas/marcel2.png> <./entrevistas/mar
 cel3.png> <./entrevistas/marcel5.png> <./entrevistas/marcel6.png> <./entrevista
 s/marcel7.png> <./entrevistas/marcel8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
@@ -4607,14 +4694,14 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 80--80
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/fabian1.png, id=841, 301.125pt x 170.88844pt>
+<entrevistas/fabian1.png, id=850, 301.125pt x 170.88844pt>
 File: entrevistas/fabian1.png Graphic file (type png)
 
 <use entrevistas/fabian1.png>
 Package pdftex.def Info: entrevistas/fabian1.png used on input line 83.
 (pdftex.def)             Requested size: 56.90189pt x 56.90443pt.
 
-<entrevistas/fabian2.png, id=842, 301.125pt x 208.52907pt>
+<entrevistas/fabian2.png, id=851, 301.125pt x 208.52907pt>
 File: entrevistas/fabian2.png Graphic file (type png)
 
 <use entrevistas/fabian2.png>
@@ -4625,14 +4712,14 @@ Underfull \hbox (badness 1281) in paragraph at lines 86--87
 []|\T1/lmr/m/n/10.95 ``Tener un es-pa-cio per-so-nal
  []
 
-<entrevistas/fabian3.png, id=843, 301.125pt x 408.02437pt>
+<entrevistas/fabian3.png, id=852, 301.125pt x 408.02437pt>
 File: entrevistas/fabian3.png Graphic file (type png)
 
 <use entrevistas/fabian3.png>
 Package pdftex.def Info: entrevistas/fabian3.png used on input line 89.
 (pdftex.def)             Requested size: 56.90189pt x 56.9051pt.
 
-<entrevistas/fabian4.png, id=844, 301.125pt x 173.14688pt>
+<entrevistas/fabian4.png, id=853, 301.125pt x 173.14688pt>
 File: entrevistas/fabian4.png Graphic file (type png)
 
 <use entrevistas/fabian4.png>
@@ -4643,7 +4730,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--93
 \T1/lmr/m/n/10.95 eco-nó-mi-ca pa-ra dis-fru-tar
  []
 
-<entrevistas/fabian5.png, id=845, 834.11626pt x 1046.91125pt>
+<entrevistas/fabian5.png, id=854, 834.11626pt x 1046.91125pt>
 File: entrevistas/fabian5.png Graphic file (type png)
 
 <use entrevistas/fabian5.png>
@@ -4654,21 +4741,21 @@ Underfull \hbox (badness 4403) in paragraph at lines 95--96
 []|\T1/lmr/m/n/10.95 ``Compañera de vi-da ba-jo
  []
 
-<entrevistas/fabian6.png, id=846, 1271.75125pt x 653.44125pt>
+<entrevistas/fabian6.png, id=855, 1271.75125pt x 653.44125pt>
 File: entrevistas/fabian6.png Graphic file (type png)
 
 <use entrevistas/fabian6.png>
 Package pdftex.def Info: entrevistas/fabian6.png used on input line 98.
 (pdftex.def)             Requested size: 56.89644pt x 56.90277pt.
 
-<entrevistas/fabian7.png, id=847, 1281.78876pt x 1038.88126pt>
+<entrevistas/fabian7.png, id=856, 1281.78876pt x 1038.88126pt>
 File: entrevistas/fabian7.png Graphic file (type png)
 
 <use entrevistas/fabian7.png>
 Package pdftex.def Info: entrevistas/fabian7.png used on input line 101.
 (pdftex.def)             Requested size: 56.89566pt x 56.89293pt.
 
-<entrevistas/fabian8.png, id=848, 1187.43625pt x 707.64375pt>
+<entrevistas/fabian8.png, id=857, 1187.43625pt x 707.64375pt>
 File: entrevistas/fabian8.png Graphic file (type png)
 
 <use entrevistas/fabian8.png>
@@ -4713,7 +4800,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 111.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 111.
-[57]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
@@ -4752,7 +4839,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 118.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 118.
- [58 <./entrevistas/fabian1.png> <./entrevistas/fabian2.png> <./entrevistas/fab
+ [60 <./entrevistas/fabian1.png> <./entrevistas/fabian2.png> <./entrevistas/fab
 ian3.png> <./entrevistas/fabian4.png> <./entrevistas/fabian5.png> <./entrevista
 s/fabian6.png> <./entrevistas/fabian7.png> <./entrevistas/fabian8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 118--119
@@ -4864,56 +4951,56 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 153--153
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/cristian1.png, id=862, 1701.35625pt x 1024.82875pt>
+<entrevistas/cristian1.png, id=870, 1701.35625pt x 1024.82875pt>
 File: entrevistas/cristian1.png Graphic file (type png)
 
 <use entrevistas/cristian1.png>
 Package pdftex.def Info: entrevistas/cristian1.png used on input line 156.
 (pdftex.def)             Requested size: 56.87961pt x 56.90524pt.
 
-<entrevistas/cristian2.png, id=863, 824.07875pt x 916.42375pt>
+<entrevistas/cristian2.png, id=871, 824.07875pt x 916.42375pt>
 File: entrevistas/cristian2.png Graphic file (type png)
 
 <use entrevistas/cristian2.png>
 Package pdftex.def Info: entrevistas/cristian2.png used on input line 159.
 (pdftex.def)             Requested size: 56.89922pt x 56.89879pt.
 
-<entrevistas/cristian3.png, id=864, 804.00375pt x 623.32875pt>
+<entrevistas/cristian3.png, id=872, 804.00375pt x 623.32875pt>
 File: entrevistas/cristian3.png Graphic file (type png)
 
 <use entrevistas/cristian3.png>
 Package pdftex.def Info: entrevistas/cristian3.png used on input line 162.
 (pdftex.def)             Requested size: 56.89941pt x 56.90561pt.
 
-<entrevistas/cristian4.png, id=865, 751.80875pt x 478.78876pt>
+<entrevistas/cristian4.png, id=873, 751.80875pt x 478.78876pt>
 File: entrevistas/cristian4.png Graphic file (type png)
 
 <use entrevistas/cristian4.png>
 Package pdftex.def Info: entrevistas/cristian4.png used on input line 165.
 (pdftex.def)             Requested size: 56.89944pt x 56.90424pt.
 
-<entrevistas/cristian5.png, id=866, 1173.38374pt x 741.77126pt>
+<entrevistas/cristian5.png, id=874, 1173.38374pt x 741.77126pt>
 File: entrevistas/cristian5.png Graphic file (type png)
 
 <use entrevistas/cristian5.png>
 Package pdftex.def Info: entrevistas/cristian5.png used on input line 168.
 (pdftex.def)             Requested size: 56.90009pt x 56.89812pt.
 
-<entrevistas/cristian6.png, id=867, 360.34625pt x 1054.94125pt>
+<entrevistas/cristian6.png, id=875, 360.34625pt x 1054.94125pt>
 File: entrevistas/cristian6.png Graphic file (type png)
 
 <use entrevistas/cristian6.png>
 Package pdftex.def Info: entrevistas/cristian6.png used on input line 171.
 (pdftex.def)             Requested size: 56.90329pt x 56.9032pt.
 
-<entrevistas/cristian7.png, id=868, 1123.19624pt x 779.91376pt>
+<entrevistas/cristian7.png, id=876, 1123.19624pt x 779.91376pt>
 File: entrevistas/cristian7.png Graphic file (type png)
 
 <use entrevistas/cristian7.png>
 Package pdftex.def Info: entrevistas/cristian7.png used on input line 174.
 (pdftex.def)             Requested size: 56.90005pt x 56.89633pt.
 
-<entrevistas/cristian8.png, id=869, 1912.14375pt x 660.4675pt>
+<entrevistas/cristian8.png, id=877, 1912.14375pt x 660.4675pt>
 File: entrevistas/cristian8.png Graphic file (type png)
 
 <use entrevistas/cristian8.png>
@@ -4951,7 +5038,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 184.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 184.
- [59]
+ [61]
 Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
@@ -4990,7 +5077,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 189.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 189.
- [60 <./entrevistas/cristian1.png> <./entrevistas/cristian2.png> <./entrevistas
+ [62 <./entrevistas/cristian1.png> <./entrevistas/cristian2.png> <./entrevistas
 /cristian3.png> <./entrevistas/cristian4.png> <./entrevistas/cristian5.png> <./
 entrevistas/cristian6.png> <./entrevistas/cristian7.png> <./entrevistas/cristia
 n8.png>]
@@ -5037,7 +5124,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 196.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 196.
-[61]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 198--203
 
  []
@@ -5047,42 +5134,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 208--208
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/manuel1.png, id=890, 975.645pt x 882.29625pt>
+<entrevistas/manuel1.png, id=899, 975.645pt x 882.29625pt>
 File: entrevistas/manuel1.png Graphic file (type png)
 
 <use entrevistas/manuel1.png>
 Package pdftex.def Info: entrevistas/manuel1.png used on input line 211.
 (pdftex.def)             Requested size: 56.89859pt x 56.89352pt.
 
-<entrevistas/manuel2.png, id=891, 482.80376pt x 630.355pt>
+<entrevistas/manuel2.png, id=900, 482.80376pt x 630.355pt>
 File: entrevistas/manuel2.png Graphic file (type png)
 
 <use entrevistas/manuel2.png>
 Package pdftex.def Info: entrevistas/manuel2.png used on input line 214.
 (pdftex.def)             Requested size: 56.90257pt x 56.90263pt.
 
-<entrevistas/manuel3.png, id=892, 1086.0575pt x 787.94376pt>
+<entrevistas/manuel3.png, id=901, 1086.0575pt x 787.94376pt>
 File: entrevistas/manuel3.png Graphic file (type png)
 
 <use entrevistas/manuel3.png>
 Package pdftex.def Info: entrevistas/manuel3.png used on input line 217.
 (pdftex.def)             Requested size: 56.89127pt x 56.90503pt.
 
-<entrevistas/manuel4.png, id=893, 1151.30125pt x 729.72626pt>
+<entrevistas/manuel4.png, id=902, 1151.30125pt x 729.72626pt>
 File: entrevistas/manuel4.png Graphic file (type png)
 
 <use entrevistas/manuel4.png>
 Package pdftex.def Info: entrevistas/manuel4.png used on input line 220.
 (pdftex.def)             Requested size: 56.90086pt x 56.89838pt.
 
-<entrevistas/manuel5.png, id=894, 1012.78375pt x 1010.77625pt>
+<entrevistas/manuel5.png, id=903, 1012.78375pt x 1010.77625pt>
 File: entrevistas/manuel5.png Graphic file (type png)
 
 <use entrevistas/manuel5.png>
 Package pdftex.def Info: entrevistas/manuel5.png used on input line 223.
 (pdftex.def)             Requested size: 56.90094pt x 56.89612pt.
 
-<entrevistas/manuel6.png, id=895, 561.09625pt x 569.12625pt>
+<entrevistas/manuel6.png, id=904, 561.09625pt x 569.12625pt>
 File: entrevistas/manuel6.png Graphic file (type png)
 
 <use entrevistas/manuel6.png>
@@ -5093,7 +5180,7 @@ Underfull \hbox (badness 1521) in paragraph at lines 226--227
 []|\T1/lmr/m/n/10.95 ``Poder desem-pe-ñar-se en el
  []
 
-<entrevistas/manuel7.png, id=896, 1153.30875pt x 1016.79875pt>
+<entrevistas/manuel7.png, id=905, 1153.30875pt x 1016.79875pt>
 File: entrevistas/manuel7.png Graphic file (type png)
 
 <use entrevistas/manuel7.png>
@@ -5138,7 +5225,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 239.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 239.
- [62 <./entrevistas/manuel1.png> <./entrevistas/manuel2.png> <./entrevistas/man
+ [64 <./entrevistas/manuel1.png> <./entrevistas/manuel2.png> <./entrevistas/man
 uel3.png> <./entrevistas/manuel4.png> <./entrevistas/manuel5.png> <./entrevista
 s/manuel6.png> <./entrevistas/manuel7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 239--240
@@ -5184,7 +5271,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 248.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 248.
-[63]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 249--254
 
  []
@@ -5194,49 +5281,49 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 259--259
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/cristiant1.jpg, id=913, 471.26062pt x 321.45094pt>
+<entrevistas/cristiant1.jpg, id=921, 471.26062pt x 321.45094pt>
 File: entrevistas/cristiant1.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant1.jpg>
 Package pdftex.def Info: entrevistas/cristiant1.jpg used on input line 262.
 (pdftex.def)             Requested size: 56.90118pt x 56.9022pt.
 
-<entrevistas/cristiant2.jpg, id=914, 312.16624pt x 162.6075pt>
+<entrevistas/cristiant2.jpg, id=922, 312.16624pt x 162.6075pt>
 File: entrevistas/cristiant2.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant2.jpg>
 Package pdftex.def Info: entrevistas/cristiant2.jpg used on input line 265.
 (pdftex.def)             Requested size: 56.90198pt x 56.90602pt.
 
-<entrevistas/cristiant3.jpg, id=915, 225.84375pt x 225.84375pt>
+<entrevistas/cristiant3.jpg, id=923, 225.84375pt x 225.84375pt>
 File: entrevistas/cristiant3.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant3.jpg>
 Package pdftex.def Info: entrevistas/cristiant3.jpg used on input line 268.
 (pdftex.def)             Requested size: 56.90533pt x 56.90533pt.
 
-<entrevistas/cristiant4.jpg, id=916, 200.75pt x 240.9pt>
+<entrevistas/cristiant4.jpg, id=924, 200.75pt x 240.9pt>
 File: entrevistas/cristiant4.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant4.jpg>
 Package pdftex.def Info: entrevistas/cristiant4.jpg used on input line 271.
 (pdftex.def)             Requested size: 56.90495pt x 56.90556pt.
 
-<entrevistas/cristiant5.jpg, id=917, 447.6725pt x 385.44pt>
+<entrevistas/cristiant5.jpg, id=925, 447.6725pt x 385.44pt>
 File: entrevistas/cristiant5.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant5.jpg>
 Package pdftex.def Info: entrevistas/cristiant5.jpg used on input line 274.
 (pdftex.def)             Requested size: 56.90158pt x 56.90189pt.
 
-<entrevistas/cristiant6.jpg, id=918, 180.675pt x 200.75pt>
+<entrevistas/cristiant6.jpg, id=926, 180.675pt x 200.75pt>
 File: entrevistas/cristiant6.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant6.jpg>
 Package pdftex.def Info: entrevistas/cristiant6.jpg used on input line 277.
 (pdftex.def)             Requested size: 56.90465pt x 56.90495pt.
 
-<entrevistas/cristiant7.jpg, id=919, 301.125pt x 310.15875pt>
+<entrevistas/cristiant7.jpg, id=927, 301.125pt x 310.15875pt>
 File: entrevistas/cristiant7.jpg Graphic file (type jpg)
 
 <use entrevistas/cristiant7.jpg>
@@ -5281,7 +5368,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 290.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 290.
- [64 <./entrevistas/cristiant1.jpg> <./entrevistas/cristiant2.jpg> <./entrevist
+ [66 <./entrevistas/cristiant1.jpg> <./entrevistas/cristiant2.jpg> <./entrevist
 as/cristiant3.jpg> <./entrevistas/cristiant4.jpg> <./entrevistas/cristiant5.jpg
 > <./entrevistas/cristiant6.jpg> <./entrevistas/cristiant7.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 290--291
@@ -5327,7 +5414,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 299.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 299.
-[65]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 300--305
 
  []
@@ -5337,28 +5424,28 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 310--310
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/gabriel1.jpg, id=928, 742.775pt x 551.05875pt>
+<entrevistas/gabriel1.jpg, id=936, 742.775pt x 551.05875pt>
 File: entrevistas/gabriel1.jpg Graphic file (type jpg)
 
 <use entrevistas/gabriel1.jpg>
 Package pdftex.def Info: entrevistas/gabriel1.jpg used on input line 313.
 (pdftex.def)             Requested size: 56.89577pt x 56.9001pt.
 
-<entrevistas/gabriel2.jpg, id=929, 473.77pt x 366.36874pt>
+<entrevistas/gabriel2.jpg, id=937, 473.77pt x 366.36874pt>
 File: entrevistas/gabriel2.jpg Graphic file (type jpg)
 
 <use entrevistas/gabriel2.jpg>
 Package pdftex.def Info: entrevistas/gabriel2.jpg used on input line 316.
 (pdftex.def)             Requested size: 56.90054pt x 56.90396pt.
 
-<entrevistas/gabriel3.jpg, id=930, 578.16pt x 380.8629pt>
+<entrevistas/gabriel3.jpg, id=938, 578.16pt x 380.8629pt>
 File: entrevistas/gabriel3.jpg Graphic file (type jpg)
 
 <use entrevistas/gabriel3.jpg>
 Package pdftex.def Info: entrevistas/gabriel3.jpg used on input line 319.
 (pdftex.def)             Requested size: 56.90189pt x 56.90031pt.
 
-<entrevistas/gabriel4.jpg, id=931, 225.84375pt x 225.84375pt>
+<entrevistas/gabriel4.jpg, id=939, 225.84375pt x 225.84375pt>
 File: entrevistas/gabriel4.jpg Graphic file (type jpg)
 
 <use entrevistas/gabriel4.jpg>
@@ -5369,14 +5456,14 @@ Underfull \hbox (badness 2181) in paragraph at lines 322--323
 []|\T1/lmr/m/n/10.95 ``Ser una per-so-na in-de-pen-
  []
 
-<entrevistas/gabriel5.jpg, id=932, 275.0275pt x 184.69pt>
+<entrevistas/gabriel5.jpg, id=940, 275.0275pt x 184.69pt>
 File: entrevistas/gabriel5.jpg Graphic file (type jpg)
 
 <use entrevistas/gabriel5.jpg>
 Package pdftex.def Info: entrevistas/gabriel5.jpg used on input line 325.
 (pdftex.def)             Requested size: 56.90556pt x 56.90384pt.
 
-<entrevistas/gabriel6.jpg, id=933, 151.0443pt x 84.7968pt>
+<entrevistas/gabriel6.jpg, id=941, 151.0443pt x 84.7968pt>
 File: entrevistas/gabriel6.jpg Graphic file (type jpg)
 
 <use entrevistas/gabriel6.jpg>
@@ -5426,7 +5513,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 341.
- [66 <./entrevistas/gabriel1.jpg> <./entrevistas/gabriel2.jpg> <./entrevistas/g
+ [68 <./entrevistas/gabriel1.jpg> <./entrevistas/gabriel2.jpg> <./entrevistas/g
 abriel3.jpg> <./entrevistas/gabriel4.jpg> <./entrevistas/gabriel5.jpg> <./entre
 vistas/gabriel6.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 341--342
@@ -5467,7 +5554,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 348.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 348.
-[67]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 349--354
 
  []
@@ -5477,42 +5564,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 359--359
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/tania1.png, id=942, 1062.97125pt x 1040.88875pt>
+<entrevistas/tania1.png, id=951, 1062.97125pt x 1040.88875pt>
 File: entrevistas/tania1.png Graphic file (type png)
 
 <use entrevistas/tania1.png>
 Package pdftex.def Info: entrevistas/tania1.png used on input line 362.
 (pdftex.def)             Requested size: 56.8984pt x 56.8917pt.
 
-<entrevistas/tania2.png, id=943, 1093.08376pt x 940.51375pt>
+<entrevistas/tania2.png, id=952, 1093.08376pt x 940.51375pt>
 File: entrevistas/tania2.png Graphic file (type png)
 
 <use entrevistas/tania2.png>
 Package pdftex.def Info: entrevistas/tania2.png used on input line 365.
 (pdftex.def)             Requested size: 56.89238pt x 56.90196pt.
 
-<entrevistas/tania3.png, id=944, 930.47626pt x 954.56625pt>
+<entrevistas/tania3.png, id=953, 930.47626pt x 954.56625pt>
 File: entrevistas/tania3.png Graphic file (type png)
 
 <use entrevistas/tania3.png>
 Package pdftex.def Info: entrevistas/tania3.png used on input line 368.
 (pdftex.def)             Requested size: 56.9052pt x 56.89279pt.
 
-<entrevistas/tania4.png, id=945, 1077.02374pt x 1384.17125pt>
+<entrevistas/tania4.png, id=954, 1077.02374pt x 1384.17125pt>
 File: entrevistas/tania4.png Graphic file (type png)
 
 <use entrevistas/tania4.png>
 Package pdftex.def Info: entrevistas/tania4.png used on input line 371.
 (pdftex.def)             Requested size: 56.89464pt x 56.89923pt.
 
-<entrevistas/tania5.png, id=946, 880.28876pt x 1217.54875pt>
+<entrevistas/tania5.png, id=955, 880.28876pt x 1217.54875pt>
 File: entrevistas/tania5.png Graphic file (type png)
 
 <use entrevistas/tania5.png>
 Package pdftex.def Info: entrevistas/tania5.png used on input line 374.
 (pdftex.def)             Requested size: 56.8984pt x 56.90524pt.
 
-<entrevistas/tania6.png, id=947, 1121.18875pt x 1594.95876pt>
+<entrevistas/tania6.png, id=956, 1121.18875pt x 1594.95876pt>
 File: entrevistas/tania6.png Graphic file (type png)
 
 <use entrevistas/tania6.png>
@@ -5523,7 +5610,7 @@ Underfull \hbox (badness 1132) in paragraph at lines 377--378
 []|\T1/lmr/m/n/10.95 ``Tener la dis-po-ni-bi-li-dad de
  []
 
-<entrevistas/tania7.png, id=948, 1147.28625pt x 964.60374pt>
+<entrevistas/tania7.png, id=957, 1147.28625pt x 964.60374pt>
 File: entrevistas/tania7.png Graphic file (type png)
 
 <use entrevistas/tania7.png>
@@ -5568,7 +5655,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 390.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 390.
- [68 <./entrevistas/tania1.png> <./entrevistas/tania2.png> <./entrevistas/tania
+ [70 <./entrevistas/tania1.png> <./entrevistas/tania2.png> <./entrevistas/tania
 3.png> <./entrevistas/tania4.png> <./entrevistas/tania5.png> <./entrevistas/tan
 ia6.png> <./entrevistas/tania7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 390--391
@@ -5614,7 +5701,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 400.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 400.
-[69]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 401--406
 
  []
@@ -5624,14 +5711,14 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 411--411
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/carlos1.png, id=965, 804.75656pt x 902.6222pt>
+<entrevistas/carlos1.png, id=973, 804.75656pt x 902.6222pt>
 File: entrevistas/carlos1.png Graphic file (type png)
 
 <use entrevistas/carlos1.png>
 Package pdftex.def Info: entrevistas/carlos1.png used on input line 414.
 (pdftex.def)             Requested size: 56.90356pt x 56.8958pt.
 
-<entrevistas/carlos2.png, id=966, 861.9703pt x 560.8453pt>
+<entrevistas/carlos2.png, id=974, 861.9703pt x 560.8453pt>
 File: entrevistas/carlos2.png Graphic file (type png)
 
 <use entrevistas/carlos2.png>
@@ -5642,28 +5729,28 @@ Underfull \hbox (badness 2521) in paragraph at lines 417--418
 []|\T1/lmr/m/n/10.95 ``Representa el triun-fo que
  []
 
-<entrevistas/carlos3.png, id=967, 813.79031pt x 412.54124pt>
+<entrevistas/carlos3.png, id=975, 813.79031pt x 412.54124pt>
 File: entrevistas/carlos3.png Graphic file (type png)
 
 <use entrevistas/carlos3.png>
 Package pdftex.def Info: entrevistas/carlos3.png used on input line 420.
 (pdftex.def)             Requested size: 56.89664pt x 56.90556pt.
 
-<entrevistas/carlos4.png, id=968, 549.55313pt x 825.83531pt>
+<entrevistas/carlos4.png, id=976, 549.55313pt x 825.83531pt>
 File: entrevistas/carlos4.png Graphic file (type png)
 
 <use entrevistas/carlos4.png>
 Package pdftex.def Info: entrevistas/carlos4.png used on input line 423.
 (pdftex.def)             Requested size: 56.90396pt x 56.89449pt.
 
-<entrevistas/carlos5.png, id=969, 810.77907pt x 565.36218pt>
+<entrevistas/carlos5.png, id=977, 810.77907pt x 565.36218pt>
 File: entrevistas/carlos5.png Graphic file (type png)
 
 <use entrevistas/carlos5.png>
 Package pdftex.def Info: entrevistas/carlos5.png used on input line 426.
 (pdftex.def)             Requested size: 56.89641pt x 56.90184pt.
 
-<entrevistas/carlos6.png, id=970, 860.46469pt x 637.63219pt>
+<entrevistas/carlos6.png, id=978, 860.46469pt x 637.63219pt>
 File: entrevistas/carlos6.png Graphic file (type png)
 
 <use entrevistas/carlos6.png>
@@ -5715,7 +5802,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 443.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 443.
-[70 <./entrevistas/carlos1.png> <./entrevistas/carlos2.png> <./entrevistas/carl
+[72 <./entrevistas/carlos1.png> <./entrevistas/carlos2.png> <./entrevistas/carl
 os3.png> <./entrevistas/carlos4.png> <./entrevistas/carlos5.png> <./entrevistas
 /carlos6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 444--445
@@ -5751,7 +5838,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 451.
-[71]
+[73]
 Underfull \hbox (badness 10000) in paragraph at lines 452--457
 
  []
@@ -5761,42 +5848,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 462--462
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/ilana1.png, id=979, 1111.15125pt x 1506.62875pt>
+<entrevistas/ilana1.png, id=987, 1111.15125pt x 1506.62875pt>
 File: entrevistas/ilana1.png Graphic file (type png)
 
 <use entrevistas/ilana1.png>
 Package pdftex.def Info: entrevistas/ilana1.png used on input line 465.
 (pdftex.def)             Requested size: 56.90024pt x 56.89845pt.
 
-<entrevistas/ilana2.png, id=980, 1145.27875pt x 1269.74374pt>
+<entrevistas/ilana2.png, id=988, 1145.27875pt x 1269.74374pt>
 File: entrevistas/ilana2.png Graphic file (type png)
 
 <use entrevistas/ilana2.png>
 Package pdftex.def Info: entrevistas/ilana2.png used on input line 468.
 (pdftex.def)             Requested size: 56.9003pt x 56.9035pt.
 
-<entrevistas/ilana3.png, id=981, 1133.23375pt x 1321.93875pt>
+<entrevistas/ilana3.png, id=989, 1133.23375pt x 1321.93875pt>
 File: entrevistas/ilana3.png Graphic file (type png)
 
 <use entrevistas/ilana3.png>
 Package pdftex.def Info: entrevistas/ilana3.png used on input line 471.
 (pdftex.def)             Requested size: 56.88979pt x 56.90277pt.
 
-<entrevistas/ilana4.png, id=982, 1123.19624pt x 1651.16875pt>
+<entrevistas/ilana4.png, id=990, 1123.19624pt x 1651.16875pt>
 File: entrevistas/ilana4.png Graphic file (type png)
 
 <use entrevistas/ilana4.png>
 Package pdftex.def Info: entrevistas/ilana4.png used on input line 474.
 (pdftex.def)             Requested size: 56.90005pt x 56.88979pt.
 
-<entrevistas/ilana5.png, id=983, 1382.16376pt x 1030.85126pt>
+<entrevistas/ilana5.png, id=991, 1382.16376pt x 1030.85126pt>
 File: entrevistas/ilana5.png Graphic file (type png)
 
 <use entrevistas/ilana5.png>
 Package pdftex.def Info: entrevistas/ilana5.png used on input line 477.
 (pdftex.def)             Requested size: 56.90106pt x 56.8936pt.
 
-<entrevistas/ilana6.png, id=984, 1155.31625pt x 1066.98625pt>
+<entrevistas/ilana6.png, id=992, 1155.31625pt x 1066.98625pt>
 File: entrevistas/ilana6.png Graphic file (type png)
 
 <use entrevistas/ilana6.png>
@@ -5846,7 +5933,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 493.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 493.
- [72 <./entrevistas/ilana1.png> <./entrevistas/ilana2.png> <./entrevistas/ilana
+ [74 <./entrevistas/ilana1.png> <./entrevistas/ilana2.png> <./entrevistas/ilana
 3.png> <./entrevistas/ilana4.png> <./entrevistas/ilana5.png> <./entrevistas/ila
 na6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 493--494
@@ -5958,28 +6045,28 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 529--529
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/oscar1.png, id=995, 932.48375pt x 1422.31375pt>
+<entrevistas/oscar1.png, id=1003, 932.48375pt x 1422.31375pt>
 File: entrevistas/oscar1.png Graphic file (type png)
 
 <use entrevistas/oscar1.png>
 Package pdftex.def Info: entrevistas/oscar1.png used on input line 532.
 (pdftex.def)             Requested size: 56.89992pt x 56.90456pt.
 
-<entrevistas/oscar2.png, id=996, 1450.41875pt x 733.74126pt>
+<entrevistas/oscar2.png, id=1004, 1450.41875pt x 733.74126pt>
 File: entrevistas/oscar2.png Graphic file (type png)
 
 <use entrevistas/oscar2.png>
 Package pdftex.def Info: entrevistas/oscar2.png used on input line 535.
 (pdftex.def)             Requested size: 56.90028pt x 56.89793pt.
 
-<entrevistas/oscar3.png, id=997, 1143.27126pt x 1048.91875pt>
+<entrevistas/oscar3.png, id=1005, 1143.27126pt x 1048.91875pt>
 File: entrevistas/oscar3.png Graphic file (type png)
 
 <use entrevistas/oscar3.png>
 Package pdftex.def Info: entrevistas/oscar3.png used on input line 538.
 (pdftex.def)             Requested size: 56.90523pt x 56.89845pt.
 
-<entrevistas/oscar4.png, id=998, 1129.21875pt x 1590.94376pt>
+<entrevistas/oscar4.png, id=1006, 1129.21875pt x 1590.94376pt>
 File: entrevistas/oscar4.png Graphic file (type png)
 
 <use entrevistas/oscar4.png>
@@ -5990,14 +6077,14 @@ Underfull \hbox (badness 1205) in paragraph at lines 541--542
 \T1/lmr/m/n/10.95 po-dría dar, te-nien-do re-cur-
  []
 
-<entrevistas/oscar5.png, id=999, 590.205pt x 1257.69875pt>
+<entrevistas/oscar5.png, id=1007, 590.205pt x 1257.69875pt>
 File: entrevistas/oscar5.png Graphic file (type png)
 
 <use entrevistas/oscar5.png>
 Package pdftex.def Info: entrevistas/oscar5.png used on input line 544.
 (pdftex.def)             Requested size: 56.89859pt x 56.90105pt.
 
-<entrevistas/oscar6.png, id=1000, 1137.24875pt x 1550.79375pt>
+<entrevistas/oscar6.png, id=1008, 1137.24875pt x 1550.79375pt>
 File: entrevistas/oscar6.png Graphic file (type png)
 
 <use entrevistas/oscar6.png>
@@ -6008,14 +6095,14 @@ Underfull \hbox (badness 3219) in paragraph at lines 547--548
 []|\T1/lmr/m/n/10.95 ``Representa los via-jes, los
  []
 
-<entrevistas/oscar7.png, id=1001, 1123.19624pt x 1434.35875pt>
+<entrevistas/oscar7.png, id=1009, 1123.19624pt x 1434.35875pt>
 File: entrevistas/oscar7.png Graphic file (type png)
 
 <use entrevistas/oscar7.png>
 Package pdftex.def Info: entrevistas/oscar7.png used on input line 550.
 (pdftex.def)             Requested size: 56.90005pt x 56.90495pt.
 
-<entrevistas/oscar8.png, id=1002, 1139.25626pt x 1446.40375pt>
+<entrevistas/oscar8.png, id=1010, 1139.25626pt x 1446.40375pt>
 File: entrevistas/oscar8.png Graphic file (type png)
 
 <use entrevistas/oscar8.png>
@@ -6050,7 +6137,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 560.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 560.
-[73]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 561--562
 
  []
@@ -6089,7 +6176,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 565.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 565.
- [74 <./entrevistas/oscar1.png> <./entrevistas/oscar2.png> <./entrevistas/oscar
+ [76 <./entrevistas/oscar1.png> <./entrevistas/oscar2.png> <./entrevistas/oscar
 3.png> <./entrevistas/oscar4.png> <./entrevistas/oscar5.png> <./entrevistas/osc
 ar6.png> <./entrevistas/oscar7.png> <./entrevistas/oscar8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 565--566
@@ -6135,7 +6222,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 573.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 573.
-[75]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 574--579
 
  []
@@ -6145,49 +6232,49 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 584--584
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/diego1.png, id=1024, 918.43124pt x 1524.69624pt>
+<entrevistas/diego1.png, id=1032, 918.43124pt x 1524.69624pt>
 File: entrevistas/diego1.png Graphic file (type png)
 
 <use entrevistas/diego1.png>
 Package pdftex.def Info: entrevistas/diego1.png used on input line 587.
 (pdftex.def)             Requested size: 56.8973pt x 56.88283pt.
 
-<entrevistas/diego2.png, id=1025, 1867.97874pt x 919.435pt>
+<entrevistas/diego2.png, id=1033, 1867.97874pt x 919.435pt>
 File: entrevistas/diego2.png Graphic file (type png)
 
 <use entrevistas/diego2.png>
 Package pdftex.def Info: entrevistas/diego2.png used on input line 590.
 (pdftex.def)             Requested size: 56.89203pt x 56.90337pt.
 
-<entrevistas/diego3.png, id=1026, 757.83125pt x 1366.10374pt>
+<entrevistas/diego3.png, id=1034, 757.83125pt x 1366.10374pt>
 File: entrevistas/diego3.png Graphic file (type png)
 
 <use entrevistas/diego3.png>
 Package pdftex.def Info: entrevistas/diego3.png used on input line 593.
 (pdftex.def)             Requested size: 56.90427pt x 56.88611pt.
 
-<entrevistas/diego4.png, id=1027, 748.7975pt x 1087.06125pt>
+<entrevistas/diego4.png, id=1035, 748.7975pt x 1087.06125pt>
 File: entrevistas/diego4.png Graphic file (type png)
 
 <use entrevistas/diego4.png>
 Package pdftex.def Info: entrevistas/diego4.png used on input line 596.
 (pdftex.def)             Requested size: 56.90005pt x 56.89407pt.
 
-<entrevistas/diego5.png, id=1028, 1584.92125pt x 996.72375pt>
+<entrevistas/diego5.png, id=1036, 1584.92125pt x 996.72375pt>
 File: entrevistas/diego5.png Graphic file (type png)
 
 <use entrevistas/diego5.png>
 Package pdftex.def Info: entrevistas/diego5.png used on input line 599.
 (pdftex.def)             Requested size: 56.90475pt x 56.89597pt.
 
-<entrevistas/diego6.png, id=1029, 1083.04625pt x 1022.82124pt>
+<entrevistas/diego6.png, id=1037, 1083.04625pt x 1022.82124pt>
 File: entrevistas/diego6.png Graphic file (type png)
 
 <use entrevistas/diego6.png>
 Package pdftex.def Info: entrevistas/diego6.png used on input line 602.
 (pdftex.def)             Requested size: 56.89879pt x 56.90303pt.
 
-<entrevistas/diego7.png, id=1030, 1556.81625pt x 1022.82124pt>
+<entrevistas/diego7.png, id=1038, 1556.81625pt x 1022.82124pt>
 File: entrevistas/diego7.png Graphic file (type png)
 
 <use entrevistas/diego7.png>
@@ -6232,7 +6319,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 615.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 615.
- [76 <./entrevistas/diego1.png> <./entrevistas/diego2.png> <./entrevistas/diego
+ [78 <./entrevistas/diego1.png> <./entrevistas/diego2.png> <./entrevistas/diego
 3.png> <./entrevistas/diego4.png> <./entrevistas/diego5.png> <./entrevistas/die
 go6.png> <./entrevistas/diego7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 615--616
@@ -6329,56 +6416,56 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 648--648
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/matias1.png, id=1042, 1048.91875pt x 1346.02875pt>
+<entrevistas/matias1.png, id=1050, 1048.91875pt x 1346.02875pt>
 File: entrevistas/matias1.png Graphic file (type png)
 
 <use entrevistas/matias1.png>
 Package pdftex.def Info: entrevistas/matias1.png used on input line 651.
 (pdftex.def)             Requested size: 56.89845pt x 56.89224pt.
 
-<entrevistas/matias2.png, id=1043, 1101.11375pt x 1663.21375pt>
+<entrevistas/matias2.png, id=1051, 1101.11375pt x 1663.21375pt>
 File: entrevistas/matias2.png Graphic file (type png)
 
 <use entrevistas/matias2.png>
 Package pdftex.def Info: entrevistas/matias2.png used on input line 654.
 (pdftex.def)             Requested size: 56.89029pt x 56.89874pt.
 
-<entrevistas/matias3.png, id=1044, 709.65125pt x 743.77875pt>
+<entrevistas/matias3.png, id=1052, 709.65125pt x 743.77875pt>
 File: entrevistas/matias3.png Graphic file (type png)
 
 <use entrevistas/matias3.png>
 Package pdftex.def Info: entrevistas/matias3.png used on input line 657.
 (pdftex.def)             Requested size: 56.9032pt x 56.90456pt.
 
-<entrevistas/matias4.png, id=1045, 1131.22626pt x 1281.78876pt>
+<entrevistas/matias4.png, id=1053, 1131.22626pt x 1281.78876pt>
 File: entrevistas/matias4.png Graphic file (type png)
 
 <use entrevistas/matias4.png>
 Package pdftex.def Info: entrevistas/matias4.png used on input line 660.
 (pdftex.def)             Requested size: 56.89258pt x 56.89566pt.
 
-<entrevistas/matias5.png, id=1046, 910.40125pt x 731.73375pt>
+<entrevistas/matias5.png, id=1054, 910.40125pt x 731.73375pt>
 File: entrevistas/matias5.png Graphic file (type png)
 
 <use entrevistas/matias5.png>
 Package pdftex.def Info: entrevistas/matias5.png used on input line 663.
 (pdftex.def)             Requested size: 56.89993pt x 56.89859pt.
 
-<entrevistas/matias6.png, id=1047, 1079.03125pt x 924.45375pt>
+<entrevistas/matias6.png, id=1055, 1079.03125pt x 924.45375pt>
 File: entrevistas/matias6.png Graphic file (type png)
 
 <use entrevistas/matias6.png>
 Package pdftex.def Info: entrevistas/matias6.png used on input line 666.
 (pdftex.def)             Requested size: 56.90189pt x 56.90364pt.
 
-<entrevistas/matias7.png, id=1048, 1151.30125pt x 594.22pt>
+<entrevistas/matias7.png, id=1056, 1151.30125pt x 594.22pt>
 File: entrevistas/matias7.png Graphic file (type png)
 
 <use entrevistas/matias7.png>
 Package pdftex.def Info: entrevistas/matias7.png used on input line 669.
 (pdftex.def)             Requested size: 56.90086pt x 56.90483pt.
 
-<entrevistas/matias8.png, id=1049, 1110.1475pt x 1791.69376pt>
+<entrevistas/matias8.png, id=1057, 1110.1475pt x 1791.69376pt>
 File: entrevistas/matias8.png Graphic file (type png)
 
 <use entrevistas/matias8.png>
@@ -6421,7 +6508,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 679.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 679.
- [77]
+ [79]
 Underfull \hbox (badness 10000) in paragraph at lines 680--681
 
  []
@@ -6460,7 +6547,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 684.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 684.
- [78 <./entrevistas/matias1.png> <./entrevistas/matias2.png> <./entrevistas/mat
+ [80 <./entrevistas/matias1.png> <./entrevistas/matias2.png> <./entrevistas/mat
 ias3.png> <./entrevistas/matias4.png> <./entrevistas/matias5.png> <./entrevista
 s/matias6.png> <./entrevistas/matias7.png> <./entrevistas/matias8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 684--685
@@ -6572,56 +6659,56 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 719--719
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/max1.png, id=1066, 1153.30875pt x 961.5925pt>
+<entrevistas/max1.png, id=1074, 1153.30875pt x 961.5925pt>
 File: entrevistas/max1.png Graphic file (type png)
 
 <use entrevistas/max1.png>
 Package pdftex.def Info: entrevistas/max1.png used on input line 722.
 (pdftex.def)             Requested size: 56.8945pt x 56.90073pt.
 
-<entrevistas/max2.png, id=1067, 1113.15875pt x 842.14626pt>
+<entrevistas/max2.png, id=1075, 1113.15875pt x 842.14626pt>
 File: entrevistas/max2.png Graphic file (type png)
 
 <use entrevistas/max2.png>
 Package pdftex.def Info: entrevistas/max2.png used on input line 725.
 (pdftex.def)             Requested size: 56.90112pt x 56.90024pt.
 
-<entrevistas/max3.png, id=1068, 1880.02374pt x 842.14626pt>
+<entrevistas/max3.png, id=1076, 1880.02374pt x 842.14626pt>
 File: entrevistas/max3.png Graphic file (type png)
 
 <use entrevistas/max3.png>
 Package pdftex.def Info: entrevistas/max3.png used on input line 728.
 (pdftex.def)             Requested size: 56.88596pt x 56.90024pt.
 
-<entrevistas/max4.png, id=1069, 1035.87pt x 948.54375pt>
+<entrevistas/max4.png, id=1077, 1035.87pt x 948.54375pt>
 File: entrevistas/max4.png Graphic file (type png)
 
 <use entrevistas/max4.png>
 Package pdftex.def Info: entrevistas/max4.png used on input line 731.
 (pdftex.def)             Requested size: 56.90189pt x 56.89569pt.
 
-<entrevistas/max5.png, id=1070, 922.44624pt x 822.07124pt>
+<entrevistas/max5.png, id=1078, 922.44624pt x 822.07124pt>
 File: entrevistas/max5.png Graphic file (type png)
 
 <use entrevistas/max5.png>
 Package pdftex.def Info: entrevistas/max5.png used on input line 734.
 (pdftex.def)             Requested size: 56.89267pt x 56.89859pt.
 
-<entrevistas/max6.png, id=1071, 942.52126pt x 616.3025pt>
+<entrevistas/max6.png, id=1079, 942.52126pt x 616.3025pt>
 File: entrevistas/max6.png Graphic file (type png)
 
 <use entrevistas/max6.png>
 Package pdftex.def Info: entrevistas/max6.png used on input line 737.
 (pdftex.def)             Requested size: 56.894pt x 56.90364pt.
 
-<entrevistas/max7.png, id=1072, 1141.26375pt x 898.35625pt>
+<entrevistas/max7.png, id=1080, 1141.26375pt x 898.35625pt>
 File: entrevistas/max7.png Graphic file (type png)
 
 <use entrevistas/max7.png>
 Package pdftex.def Info: entrevistas/max7.png used on input line 740.
 (pdftex.def)             Requested size: 56.89238pt x 56.90105pt.
 
-<entrevistas/max8.png, id=1073, 894.34125pt x 1219.55624pt>
+<entrevistas/max8.png, id=1081, 894.34125pt x 1219.55624pt>
 File: entrevistas/max8.png Graphic file (type png)
 
 <use entrevistas/max8.png>
@@ -6659,7 +6746,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 750.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 750.
- [79]
+ [81]
 Underfull \hbox (badness 10000) in paragraph at lines 751--752
 
  []
@@ -6698,7 +6785,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 755.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 755.
- [80 <./entrevistas/max1.png> <./entrevistas/max2.png> <./entrevistas/max3.png>
+ [82 <./entrevistas/max1.png> <./entrevistas/max2.png> <./entrevistas/max3.png>
  <./entrevistas/max4.png> <./entrevistas/max5.png> <./entrevistas/max6.png> <./
 entrevistas/max7.png> <./entrevistas/max8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 755--756
@@ -6805,14 +6892,14 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 789--789
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<imagenes/ariel1.png, id=1090, 982.67125pt x 1253.68375pt>
+<imagenes/ariel1.png, id=1099, 982.67125pt x 1253.68375pt>
 File: imagenes/ariel1.png Graphic file (type png)
 
 <use imagenes/ariel1.png>
 Package pdftex.def Info: imagenes/ariel1.png used on input line 792.
 (pdftex.def)             Requested size: 56.9035pt x 56.89157pt.
 
-<imagenes/ariel2.png, id=1091, 1014.79124pt x 1010.77625pt>
+<imagenes/ariel2.png, id=1100, 1014.79124pt x 1010.77625pt>
 File: imagenes/ariel2.png Graphic file (type png)
 
 <use imagenes/ariel2.png>
@@ -6823,28 +6910,28 @@ Underfull \hbox (badness 2680) in paragraph at lines 795--796
 []|\T1/lmr/m/n/10.95 ``Poder com-prar tec-no-lo-gía,
  []
 
-<imagenes/ariel3.png, id=1092, 1679.27374pt x 956.57375pt>
+<imagenes/ariel3.png, id=1101, 1679.27374pt x 956.57375pt>
 File: imagenes/ariel3.png Graphic file (type png)
 
 <use imagenes/ariel3.png>
 Package pdftex.def Info: imagenes/ariel3.png used on input line 798.
 (pdftex.def)             Requested size: 56.88443pt x 56.89568pt.
 
-<imagenes/ariel4.png, id=1093, 1699.34875pt x 1075.01625pt>
+<imagenes/ariel4.png, id=1102, 1699.34875pt x 1075.01625pt>
 File: imagenes/ariel4.png Graphic file (type png)
 
 <use imagenes/ariel4.png>
 Package pdftex.def Info: imagenes/ariel4.png used on input line 801.
 (pdftex.def)             Requested size: 56.89029pt x 56.90341pt.
 
-<imagenes/ariel5.png, id=1094, 1319.93124pt x 1010.77625pt>
+<imagenes/ariel5.png, id=1103, 1319.93124pt x 1010.77625pt>
 File: imagenes/ariel5.png Graphic file (type png)
 
 <use imagenes/ariel5.png>
 Package pdftex.def Info: imagenes/ariel5.png used on input line 804.
 (pdftex.def)             Requested size: 56.89691pt x 56.89612pt.
 
-<imagenes/ariel6.png, id=1095, 1028.84375pt x 1269.74374pt>
+<imagenes/ariel6.png, id=1104, 1028.84375pt x 1269.74374pt>
 File: imagenes/ariel6.png Graphic file (type png)
 
 <use imagenes/ariel6.png>
@@ -6855,14 +6942,14 @@ Underfull \hbox (badness 2608) in paragraph at lines 807--808
 []|\T1/lmr/m/n/10.95 ``Tener un lu-gar agra-da-ble
  []
 
-<imagenes/ariel7.png, id=1096, 1071.00125pt x 1127.21124pt>
+<imagenes/ariel7.png, id=1105, 1071.00125pt x 1127.21124pt>
 File: imagenes/ariel7.png Graphic file (type png)
 
 <use imagenes/ariel7.png>
 Package pdftex.def Info: imagenes/ariel7.png used on input line 810.
 (pdftex.def)             Requested size: 56.90334pt x 56.89705pt.
 
-<imagenes/ariel8.png, id=1097, 1406.25375pt x 1105.12875pt>
+<imagenes/ariel8.png, id=1106, 1406.25375pt x 1105.12875pt>
 File: imagenes/ariel8.png Graphic file (type png)
 
 <use imagenes/ariel8.png>
@@ -6897,7 +6984,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 820.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 820.
-[81]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 821--822
 
  []
@@ -6936,7 +7023,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 825.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 825.
- [82 <./imagenes/ariel1.png> <./imagenes/ariel2.png> <./imagenes/ariel3.png> <.
+ [84 <./imagenes/ariel1.png> <./imagenes/ariel2.png> <./imagenes/ariel3.png> <.
 /imagenes/ariel4.png> <./imagenes/ariel5.png> <./imagenes/ariel6.png> <./imagen
 es/ariel7.png> <./imagenes/ariel8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 825--826
@@ -6982,7 +7069,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 833.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 833.
-[83]
+[85]
 Underfull \hbox (badness 10000) in paragraph at lines 834--839
 
  []
@@ -6992,42 +7079,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 844--844
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/maxi1.png, id=1119, 1141.26375pt x 810.02625pt>
+<entrevistas/maxi1.png, id=1127, 1141.26375pt x 810.02625pt>
 File: entrevistas/maxi1.png Graphic file (type png)
 
 <use entrevistas/maxi1.png>
 Package pdftex.def Info: entrevistas/maxi1.png used on input line 847.
 (pdftex.def)             Requested size: 56.89238pt x 56.90538pt.
 
-<entrevistas/maxi2.png, id=1120, 1127.21124pt x 1532.72626pt>
+<entrevistas/maxi2.png, id=1128, 1127.21124pt x 1532.72626pt>
 File: entrevistas/maxi2.png Graphic file (type png)
 
 <use entrevistas/maxi2.png>
 Package pdftex.def Info: entrevistas/maxi2.png used on input line 850.
 (pdftex.def)             Requested size: 56.89705pt x 56.90175pt.
 
-<entrevistas/maxi3.png, id=1121, 745.78625pt x 1225.57875pt>
+<entrevistas/maxi3.png, id=1129, 745.78625pt x 1225.57875pt>
 File: entrevistas/maxi3.png Graphic file (type png)
 
 <use entrevistas/maxi3.png>
 Package pdftex.def Info: entrevistas/maxi3.png used on input line 853.
 (pdftex.def)             Requested size: 56.89883pt x 56.88783pt.
 
-<entrevistas/maxi4.png, id=1122, 1153.30875pt x 1362.08875pt>
+<entrevistas/maxi4.png, id=1130, 1153.30875pt x 1362.08875pt>
 File: entrevistas/maxi4.png Graphic file (type png)
 
 <use entrevistas/maxi4.png>
 Package pdftex.def Info: entrevistas/maxi4.png used on input line 856.
 (pdftex.def)             Requested size: 56.8945pt x 56.88518pt.
 
-<entrevistas/maxi5.png, id=1123, 1145.27875pt x 1237.62375pt>
+<entrevistas/maxi5.png, id=1131, 1145.27875pt x 1237.62375pt>
 File: entrevistas/maxi5.png Graphic file (type png)
 
 <use entrevistas/maxi5.png>
 Package pdftex.def Info: entrevistas/maxi5.png used on input line 859.
 (pdftex.def)             Requested size: 56.9003pt x 56.89928pt.
 
-<entrevistas/maxi6.png, id=1124, 1123.19624pt x 1695.33376pt>
+<entrevistas/maxi6.png, id=1132, 1123.19624pt x 1695.33376pt>
 File: entrevistas/maxi6.png Graphic file (type png)
 
 <use entrevistas/maxi6.png>
@@ -7077,7 +7164,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 875.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 875.
- [84 <./entrevistas/maxi1.png> <./entrevistas/maxi2.png> <./entrevistas/maxi3.p
+ [86 <./entrevistas/maxi1.png> <./entrevistas/maxi2.png> <./entrevistas/maxi3.p
 ng> <./entrevistas/maxi4.png> <./entrevistas/maxi5.png> <./entrevistas/maxi6.pn
 g>]
 Underfull \hbox (badness 10000) in paragraph at lines 875--876
@@ -7113,7 +7200,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 881.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 881.
-[85]
+[87]
 Underfull \hbox (badness 10000) in paragraph at lines 883--888
 
  []
@@ -7123,42 +7210,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 893--893
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/ignacio1.png, id=1139, 1153.30875pt x 1360.08125pt>
+<entrevistas/ignacio1.png, id=1148, 1153.30875pt x 1360.08125pt>
 File: entrevistas/ignacio1.png Graphic file (type png)
 
 <use entrevistas/ignacio1.png>
 Package pdftex.def Info: entrevistas/ignacio1.png used on input line 896.
 (pdftex.def)             Requested size: 56.8945pt x 56.9051pt.
 
-<entrevistas/ignacio2.png, id=1140, 966.61125pt x 862.22125pt>
+<entrevistas/ignacio2.png, id=1149, 966.61125pt x 862.22125pt>
 File: entrevistas/ignacio2.png Graphic file (type png)
 
 <use entrevistas/ignacio2.png>
 Package pdftex.def Info: entrevistas/ignacio2.png used on input line 899.
 (pdftex.def)             Requested size: 56.90273pt x 56.9015pt.
 
-<entrevistas/ignacio3.png, id=1141, 1283.79625pt x 824.07875pt>
+<entrevistas/ignacio3.png, id=1150, 1283.79625pt x 824.07875pt>
 File: entrevistas/ignacio3.png Graphic file (type png)
 
 <use entrevistas/ignacio3.png>
 Package pdftex.def Info: entrevistas/ignacio3.png used on input line 902.
 (pdftex.def)             Requested size: 56.88683pt x 56.89922pt.
 
-<entrevistas/ignacio4.png, id=1142, 1127.21124pt x 1362.08875pt>
+<entrevistas/ignacio4.png, id=1151, 1127.21124pt x 1362.08875pt>
 File: entrevistas/ignacio4.png Graphic file (type png)
 
 <use entrevistas/ignacio4.png>
 Package pdftex.def Info: entrevistas/ignacio4.png used on input line 905.
 (pdftex.def)             Requested size: 56.89705pt x 56.88518pt.
 
-<entrevistas/ignacio5.png, id=1143, 1139.25626pt x 1430.34375pt>
+<entrevistas/ignacio5.png, id=1152, 1139.25626pt x 1430.34375pt>
 File: entrevistas/ignacio5.png Graphic file (type png)
 
 <use entrevistas/ignacio5.png>
 Package pdftex.def Info: entrevistas/ignacio5.png used on input line 908.
 (pdftex.def)             Requested size: 56.8966pt x 56.89845pt.
 
-<entrevistas/ignacio6.png, id=1144, 424.58624pt x 1121.18875pt>
+<entrevistas/ignacio6.png, id=1153, 424.58624pt x 1121.18875pt>
 File: entrevistas/ignacio6.png Graphic file (type png)
 
 <use entrevistas/ignacio6.png>
@@ -7169,7 +7256,7 @@ Underfull \hbox (badness 1314) in paragraph at lines 911--912
 []|\T1/lmr/m/n/10.95 ``Poder dis-fru-tar de bue-nos
  []
 
-<entrevistas/ignacio7.png, id=1145, 1117.17375pt x 620.3175pt>
+<entrevistas/ignacio7.png, id=1154, 1117.17375pt x 620.3175pt>
 File: entrevistas/ignacio7.png Graphic file (type png)
 
 <use entrevistas/ignacio7.png>
@@ -7214,7 +7301,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 924.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 924.
- [86 <./entrevistas/ignacio1.png> <./entrevistas/ignacio2.png> <./entrevistas/i
+ [88 <./entrevistas/ignacio1.png> <./entrevistas/ignacio2.png> <./entrevistas/i
 gnacio3.png> <./entrevistas/ignacio4.png> <./entrevistas/ignacio5.png> <./entre
 vistas/ignacio6.png> <./entrevistas/ignacio7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 924--925
@@ -7246,35 +7333,35 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 944--944
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/carla1.png, id=1157, 649.67719pt x 458.46281pt>
+<entrevistas/carla1.png, id=1166, 649.67719pt x 458.46281pt>
 File: entrevistas/carla1.png Graphic file (type png)
 
 <use entrevistas/carla1.png>
 Package pdftex.def Info: entrevistas/carla1.png used on input line 947.
 (pdftex.def)             Requested size: 56.90211pt x 56.90196pt.
 
-<entrevistas/carla2.png, id=1158, 726.46407pt x 527.72156pt>
+<entrevistas/carla2.png, id=1167, 726.46407pt x 527.72156pt>
 File: entrevistas/carla2.png Graphic file (type png)
 
 <use entrevistas/carla2.png>
 Package pdftex.def Info: entrevistas/carla2.png used on input line 950.
 (pdftex.def)             Requested size: 56.89896pt x 56.89806pt.
 
-<entrevistas/carla3.png, id=1159, 758.08218pt x 502.12593pt>
+<entrevistas/carla3.png, id=1168, 758.08218pt x 502.12593pt>
 File: entrevistas/carla3.png Graphic file (type png)
 
 <use entrevistas/carla3.png>
 Package pdftex.def Info: entrevistas/carla3.png used on input line 953.
 (pdftex.def)             Requested size: 56.89998pt x 56.9043pt.
 
-<entrevistas/carla4.png, id=1160, 643.6547pt x 508.14844pt>
+<entrevistas/carla4.png, id=1169, 643.6547pt x 508.14844pt>
 File: entrevistas/carla4.png Graphic file (type png)
 
 <use entrevistas/carla4.png>
 Package pdftex.def Info: entrevistas/carla4.png used on input line 956.
 (pdftex.def)             Requested size: 56.905pt x 56.90448pt.
 
-<entrevistas/carla5.png, id=1161, 678.28406pt x 593.96906pt>
+<entrevistas/carla5.png, id=1170, 678.28406pt x 593.96906pt>
 File: entrevistas/carla5.png Graphic file (type png)
 
 <use entrevistas/carla5.png>
@@ -7285,14 +7372,14 @@ Underfull \hbox (badness 1603) in paragraph at lines 959--960
 []|\T1/lmr/m/n/10.95 ``Crear una fun-da-ción pa-ra
  []
 
-<entrevistas/carla6.png, id=1162, 721.94719pt x 592.46344pt>
+<entrevistas/carla6.png, id=1171, 721.94719pt x 592.46344pt>
 File: entrevistas/carla6.png Graphic file (type png)
 
 <use entrevistas/carla6.png>
 Package pdftex.def Info: entrevistas/carla6.png used on input line 962.
 (pdftex.def)             Requested size: 56.8977pt x 56.89934pt.
 
-<entrevistas/carla7.png, id=1163, 898.10532pt x 432.86719pt>
+<entrevistas/carla7.png, id=1172, 898.10532pt x 432.86719pt>
 File: entrevistas/carla7.png Graphic file (type png)
 
 <use entrevistas/carla7.png>
@@ -7330,7 +7417,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 974.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 974.
- [87]
+ [89]
 Underfull \hbox (badness 10000) in paragraph at lines 975--976
 
  []
@@ -7374,7 +7461,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 981.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 981.
- [88 <./entrevistas/carla1.png> <./entrevistas/carla2.png> <./entrevistas/carla
+ [90 <./entrevistas/carla1.png> <./entrevistas/carla2.png> <./entrevistas/carla
 3.png> <./entrevistas/carla4.png> <./entrevistas/carla5.png> <./entrevistas/car
 la6.png> <./entrevistas/carla7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 981--982
@@ -7481,42 +7568,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 1015--1015
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/gabrielg1.png, id=1173, 636.12656pt x 508.14844pt>
+<entrevistas/gabrielg1.png, id=1181, 636.12656pt x 508.14844pt>
 File: entrevistas/gabrielg1.png Graphic file (type png)
 
 <use entrevistas/gabrielg1.png>
 Package pdftex.def Info: entrevistas/gabrielg1.png used on input line 1018.
 (pdftex.def)             Requested size: 56.89948pt x 56.90448pt.
 
-<entrevistas/gabrielg2.png, id=1174, 706.89093pt x 684.30656pt>
+<entrevistas/gabrielg2.png, id=1182, 706.89093pt x 684.30656pt>
 File: entrevistas/gabrielg2.png Graphic file (type png)
 
 <use entrevistas/gabrielg2.png>
 Package pdftex.def Info: entrevistas/gabrielg2.png used on input line 1021.
 (pdftex.def)             Requested size: 56.89758pt x 56.89662pt.
 
-<entrevistas/gabrielg3.png, id=1175, 476.53032pt x 479.54156pt>
+<entrevistas/gabrielg3.png, id=1183, 476.53032pt x 479.54156pt>
 File: entrevistas/gabrielg3.png Graphic file (type png)
 
 <use entrevistas/gabrielg3.png>
 Package pdftex.def Info: entrevistas/gabrielg3.png used on input line 1024.
 (pdftex.def)             Requested size: 56.90486pt x 56.89859pt.
 
-<entrevistas/gabrielg4.png, id=1176, 545.78906pt x 411.78844pt>
+<entrevistas/gabrielg4.png, id=1184, 545.78906pt x 411.78844pt>
 File: entrevistas/gabrielg4.png Graphic file (type png)
 
 <use entrevistas/gabrielg4.png>
 Package pdftex.def Info: entrevistas/gabrielg4.png used on input line 1027.
 (pdftex.def)             Requested size: 56.90562pt x 56.90225pt.
 
-<entrevistas/gabrielg5.png, id=1177, 651.18282pt x 357.58594pt>
+<entrevistas/gabrielg5.png, id=1185, 651.18282pt x 357.58594pt>
 File: entrevistas/gabrielg5.png Graphic file (type png)
 
 <use entrevistas/gabrielg5.png>
 Package pdftex.def Info: entrevistas/gabrielg5.png used on input line 1030.
 (pdftex.def)             Requested size: 56.90482pt x 56.9039pt.
 
-<entrevistas/gabrielg6.png, id=1178, 1120.9378pt x 732.48656pt>
+<entrevistas/gabrielg6.png, id=1186, 1120.9378pt x 732.48656pt>
 File: entrevistas/gabrielg6.png Graphic file (type png)
 
 <use entrevistas/gabrielg6.png>
@@ -7559,7 +7646,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1040.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1040.
- [89]
+ [91]
 Underfull \hbox (badness 10000) in paragraph at lines 1041--1042
 
  []
@@ -7613,7 +7700,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1052.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1052.
- [90 <./entrevistas/gabrielg1.png> <./entrevistas/gabrielg2.png> <./entrevistas
+ [92 <./entrevistas/gabrielg1.png> <./entrevistas/gabrielg2.png> <./entrevistas
 /gabrielg3.png> <./entrevistas/gabrielg4.png> <./entrevistas/gabrielg5.png> <./
 entrevistas/gabrielg6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1052--1077
@@ -7745,42 +7832,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 1088--1088
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/constanza1.png, id=1187, 720.44156pt x 590.95781pt>
+<entrevistas/constanza1.png, id=1195, 720.44156pt x 590.95781pt>
 File: entrevistas/constanza1.png Graphic file (type png)
 
 <use entrevistas/constanza1.png>
 Package pdftex.def Info: entrevistas/constanza1.png used on input line 1091.
 (pdftex.def)             Requested size: 56.89996pt x 56.89902pt.
 
-<entrevistas/constanza2.png, id=1188, 874.01532pt x 583.42969pt>
+<entrevistas/constanza2.png, id=1196, 874.01532pt x 583.42969pt>
 File: entrevistas/constanza2.png Graphic file (type png)
 
 <use entrevistas/constanza2.png>
 Package pdftex.def Info: entrevistas/constanza2.png used on input line 1094.
 (pdftex.def)             Requested size: 56.893pt x 56.90419pt.
 
-<entrevistas/constanza3.png, id=1189, 642.14906pt x 440.39531pt>
+<entrevistas/constanza3.png, id=1197, 642.14906pt x 440.39531pt>
 File: entrevistas/constanza3.png Graphic file (type png)
 
 <use entrevistas/constanza3.png>
 Package pdftex.def Info: entrevistas/constanza3.png used on input line 1097.
 (pdftex.def)             Requested size: 56.89926pt x 56.90396pt.
 
-<entrevistas/constanza4.png, id=1190, 584.93532pt x 718.93594pt>
+<entrevistas/constanza4.png, id=1198, 584.93532pt x 718.93594pt>
 File: entrevistas/constanza4.png Graphic file (type png)
 
 <use entrevistas/constanza4.png>
 Package pdftex.def Info: entrevistas/constanza4.png used on input line 1100.
 (pdftex.def)             Requested size: 56.8993pt x 56.90172pt.
 
-<entrevistas/constanza5.png, id=1191, 1173.63469pt x 593.96906pt>
+<entrevistas/constanza5.png, id=1199, 1173.63469pt x 593.96906pt>
 File: entrevistas/constanza5.png Graphic file (type png)
 
 <use entrevistas/constanza5.png>
 Package pdftex.def Info: entrevistas/constanza5.png used on input line 1103.
 (pdftex.def)             Requested size: 56.89435pt x 56.89893pt.
 
-<entrevistas/constanza6.png, id=1192, 783.67781pt x 642.14906pt>
+<entrevistas/constanza6.png, id=1200, 783.67781pt x 642.14906pt>
 File: entrevistas/constanza6.png Graphic file (type png)
 
 <use entrevistas/constanza6.png>
@@ -7818,7 +7905,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1114.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1114.
- [91]
+ [93]
 Underfull \hbox (badness 10000) in paragraph at lines 1115--1116
 
  []
@@ -7867,7 +7954,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1124.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1124.
- [92 <./entrevistas/constanza1.png> <./entrevistas/constanza2.png> <./entrevist
+ [94 <./entrevistas/constanza1.png> <./entrevistas/constanza2.png> <./entrevist
 as/constanza3.png> <./entrevistas/constanza4.png> <./entrevistas/constanza5.png
 > <./entrevistas/constanza6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1124--1125
@@ -7999,49 +8086,49 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 1161--1161
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/renata1.png, id=1201, 708.39656pt x 536.75531pt>
+<entrevistas/renata1.png, id=1210, 708.39656pt x 536.75531pt>
 File: entrevistas/renata1.png Graphic file (type png)
 
 <use entrevistas/renata1.png>
 Package pdftex.def Info: entrevistas/renata1.png used on input line 1164.
 (pdftex.def)             Requested size: 56.89987pt x 56.89742pt.
 
-<entrevistas/renata2.png, id=1202, 440.39531pt x 356.0803pt>
+<entrevistas/renata2.png, id=1211, 440.39531pt x 356.0803pt>
 File: entrevistas/renata2.png Graphic file (type png)
 
 <use entrevistas/renata2.png>
 Package pdftex.def Info: entrevistas/renata2.png used on input line 1167.
 (pdftex.def)             Requested size: 56.90396pt x 56.90337pt.
 
-<entrevistas/renata3.png, id=1203, 959.83594pt x 601.4972pt>
+<entrevistas/renata3.png, id=1212, 959.83594pt x 601.4972pt>
 File: entrevistas/renata3.png Graphic file (type png)
 
 <use entrevistas/renata3.png>
 Package pdftex.def Info: entrevistas/renata3.png used on input line 1170.
 (pdftex.def)             Requested size: 56.8993pt x 56.90419pt.
 
-<entrevistas/renata4.png, id=1204, 639.13782pt x 365.11406pt>
+<entrevistas/renata4.png, id=1213, 639.13782pt x 365.11406pt>
 File: entrevistas/renata4.png Graphic file (type png)
 
 <use entrevistas/renata4.png>
 Package pdftex.def Info: entrevistas/renata4.png used on input line 1173.
 (pdftex.def)             Requested size: 56.90552pt x 56.90407pt.
 
-<entrevistas/renata5.png, id=1205, 857.45343pt x 642.14906pt>
+<entrevistas/renata5.png, id=1214, 857.45343pt x 642.14906pt>
 File: entrevistas/renata5.png Graphic file (type png)
 
 <use entrevistas/renata5.png>
 Package pdftex.def Info: entrevistas/renata5.png used on input line 1176.
 (pdftex.def)             Requested size: 56.90086pt x 56.89926pt.
 
-<entrevistas/renata6.png, id=1206, 928.21782pt x 738.50906pt>
+<entrevistas/renata6.png, id=1215, 928.21782pt x 738.50906pt>
 File: entrevistas/renata6.png Graphic file (type png)
 
 <use entrevistas/renata6.png>
 Package pdftex.def Info: entrevistas/renata6.png used on input line 1179.
 (pdftex.def)             Requested size: 56.89455pt x 56.8958pt.
 
-<entrevistas/renata7.png, id=1207, 426.84468pt x 735.49782pt>
+<entrevistas/renata7.png, id=1216, 426.84468pt x 735.49782pt>
 File: entrevistas/renata7.png Graphic file (type png)
 
 <use entrevistas/renata7.png>
@@ -8079,7 +8166,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1188.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1188.
- [93]
+ [95]
 Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
 
  []
@@ -8120,7 +8207,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1197.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1197.
-[94 <./entrevistas/renata1.png> <./entrevistas/renata2.png> <./entrevistas/rena
+[96 <./entrevistas/renata1.png> <./entrevistas/renata2.png> <./entrevistas/rena
 ta3.png> <./entrevistas/renata4.png> <./entrevistas/renata5.png> <./entrevistas
 /renata6.png> <./entrevistas/renata7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
@@ -8267,42 +8354,42 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 1237--1237
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/ramon1.png, id=1217, 654.19406pt x 438.8897pt>
+<entrevistas/ramon1.png, id=1225, 654.19406pt x 438.8897pt>
 File: entrevistas/ramon1.png Graphic file (type png)
 
 <use entrevistas/ramon1.png>
 Package pdftex.def Info: entrevistas/ramon1.png used on input line 1240.
 (pdftex.def)             Requested size: 56.89845pt x 56.90363pt.
 
-<entrevistas/ramon2.png, id=1218, 789.70032pt x 1051.67906pt>
+<entrevistas/ramon2.png, id=1226, 789.70032pt x 1051.67906pt>
 File: entrevistas/ramon2.png Graphic file (type png)
 
 <use entrevistas/ramon2.png>
 Package pdftex.def Info: entrevistas/ramon2.png used on input line 1243.
 (pdftex.def)             Requested size: 56.89934pt x 56.90375pt.
 
-<entrevistas/ramon3.png, id=1219, 705.38531pt x 578.91281pt>
+<entrevistas/ramon3.png, id=1227, 705.38531pt x 578.91281pt>
 File: entrevistas/ramon3.png Graphic file (type png)
 
 <use entrevistas/ramon3.png>
 Package pdftex.def Info: entrevistas/ramon3.png used on input line 1246.
 (pdftex.def)             Requested size: 56.90556pt x 56.90532pt.
 
-<entrevistas/ramon4.png, id=1220, 435.87843pt x 622.57594pt>
+<entrevistas/ramon4.png, id=1228, 435.87843pt x 622.57594pt>
 File: entrevistas/ramon4.png Graphic file (type png)
 
 <use entrevistas/ramon4.png>
 Package pdftex.def Info: entrevistas/ramon4.png used on input line 1249.
 (pdftex.def)             Requested size: 56.90561pt x 56.90338pt.
 
-<entrevistas/ramon6.png, id=1221, 1117.92656pt x 574.39594pt>
+<entrevistas/ramon6.png, id=1229, 1117.92656pt x 574.39594pt>
 File: entrevistas/ramon6.png Graphic file (type png)
 
 <use entrevistas/ramon6.png>
 Package pdftex.def Info: entrevistas/ramon6.png used on input line 1253.
 (pdftex.def)             Requested size: 56.88896pt x 56.89955pt.
 
-<entrevistas/ramon7.png, id=1222, 964.35281pt x 651.18282pt>
+<entrevistas/ramon7.png, id=1230, 964.35281pt x 651.18282pt>
 File: entrevistas/ramon7.png Graphic file (type png)
 
 <use entrevistas/ramon7.png>
@@ -8337,7 +8424,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1263.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1263.
-[95]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
 
  []
@@ -8383,7 +8470,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1274.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1274.
-[96 <./entrevistas/ramon1.png> <./entrevistas/ramon2.png> <./entrevistas/ramon3
+[98 <./entrevistas/ramon1.png> <./entrevistas/ramon2.png> <./entrevistas/ramon3
 .png> <./entrevistas/ramon4.png> <./entrevistas/ramon6.png> <./entrevistas/ramo
 n7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1274--1298
@@ -8510,14 +8597,14 @@ Overfull \hbox (9.59808pt too wide) in paragraph at lines 1309--1309
  []|\T1/lmr/m/n/10.95 Número| 
  []
 
-<entrevistas/ian1.png, id=1231, 1390.19376pt x 659.46375pt>
+<entrevistas/ian1.png, id=1239, 1390.19376pt x 659.46375pt>
 File: entrevistas/ian1.png Graphic file (type png)
 
 <use entrevistas/ian1.png>
 Package pdftex.def Info: entrevistas/ian1.png used on input line 1312.
 (pdftex.def)             Requested size: 56.89224pt x 56.90396pt.
 
-<entrevistas/ian2.png, id=1232, 1257.69875pt x 972.63374pt>
+<entrevistas/ian2.png, id=1240, 1257.69875pt x 972.63374pt>
 File: entrevistas/ian2.png Graphic file (type png)
 
 <use entrevistas/ian2.png>
@@ -8528,35 +8615,35 @@ Underfull \hbox (badness 2376) in paragraph at lines 1315--1316
 []|\T1/lmr/m/n/10.95 ``Representa las ha-bi-li-da-des
  []
 
-<entrevistas/ian3.png, id=1233, 864.22874pt x 1546.77875pt>
+<entrevistas/ian3.png, id=1241, 864.22874pt x 1546.77875pt>
 File: entrevistas/ian3.png Graphic file (type png)
 
 <use entrevistas/ian3.png>
 Package pdftex.def Info: entrevistas/ian3.png used on input line 1318.
 (pdftex.def)             Requested size: 56.90211pt x 56.9042pt.
 
-<entrevistas/ian4.png, id=1234, 1010.77625pt x 424.58624pt>
+<entrevistas/ian4.png, id=1242, 1010.77625pt x 424.58624pt>
 File: entrevistas/ian4.png Graphic file (type png)
 
 <use entrevistas/ian4.png>
 Package pdftex.def Info: entrevistas/ian4.png used on input line 1321.
 (pdftex.def)             Requested size: 56.89612pt x 56.90202pt.
 
-<entrevistas/ian5.png, id=1235, 1109.14375pt x 882.29625pt>
+<entrevistas/ian5.png, id=1243, 1109.14375pt x 882.29625pt>
 File: entrevistas/ian5.png Graphic file (type png)
 
 <use entrevistas/ian5.png>
 Package pdftex.def Info: entrevistas/ian5.png used on input line 1324.
 (pdftex.def)             Requested size: 56.89899pt x 56.89352pt.
 
-<entrevistas/ian7.png, id=1236, 1307.88625pt x 852.18375pt>
+<entrevistas/ian7.png, id=1244, 1307.88625pt x 852.18375pt>
 File: entrevistas/ian7.png Graphic file (type png)
 
 <use entrevistas/ian7.png>
 Package pdftex.def Info: entrevistas/ian7.png used on input line 1328.
 (pdftex.def)             Requested size: 56.89658pt x 56.90225pt.
 
-<entrevistas/ian8.png, id=1237, 1141.26375pt x 842.14626pt>
+<entrevistas/ian8.png, id=1245, 1141.26375pt x 842.14626pt>
 File: entrevistas/ian8.png Graphic file (type png)
 
 <use entrevistas/ian8.png>
@@ -8594,7 +8681,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1338.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1338.
- [97]
+ [99]
 Underfull \hbox (badness 10000) in paragraph at lines 1339--1340
 
  []
@@ -8640,9 +8727,9 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1348.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1348.
-[98 <./entrevistas/ian1.png> <./entrevistas/ian2.png> <./entrevistas/ian3.png> 
-<./entrevistas/ian4.png> <./entrevistas/ian5.png> <./entrevistas/ian7.png> <./e
-ntrevistas/ian8.png>]
+[100 <./entrevistas/ian1.png> <./entrevistas/ian2.png> <./entrevistas/ian3.png>
+ <./entrevistas/ian4.png> <./entrevistas/ian5.png> <./entrevistas/ian7.png> <./
+entrevistas/ian8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1348--1349
 
  []
@@ -8677,7 +8764,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 201.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 201.
- [99]
+ [101]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 201.
 Package babel Info: Redefining spanish shorthand >>
@@ -8702,7 +8789,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 201.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 201.
- [100
+ [102
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
@@ -8717,9 +8804,9 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 1BA0E6AB94CA0013C8864D5D3813B50F;3031.
  ) 
 Here is how much of TeX's memory you used:
- 23510 strings out of 493334
- 418917 string characters out of 3139254
- 774820 words of memory out of 3000000
+ 23512 strings out of 493334
+ 418933 string characters out of 3139254
+ 774821 words of memory out of 3000000
  26083 multiletter control sequences out of 15000+200000
  87149 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -8737,9 +8824,9 @@ blic/lm/lmri7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/marvosym/marvosym.pfb>
-Output written on thesis.pdf (116 pages, 100369603 bytes).
+Output written on thesis.pdf (118 pages, 100372525 bytes).
 PDF statistics:
- 1382 PDF objects out of 1440 (max. 8388607)
- 336 named destinations out of 1000 (max. 500000)
+ 1391 PDF objects out of 1440 (max. 8388607)
+ 338 named destinations out of 1000 (max. 500000)
  1161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
