@@ -119,7 +119,7 @@ alterarse alguno de los pasos anteriores para generar nuevos modelos.
 
 En el capitulo anterior se explico que existen diferentes técnicas y tareas en minería de datos para los distintos tipos de modelamiento.\\
 
-El modelamiento acorde a este trabajo, corresponde a un modelo predictivo, en el cual se utilizarán cuatro técnicas en RapidMiner, para generar cuatro modelos, estas técnicas son:\\
+El modelamiento acorde a este trabajo, corresponde a un modelo predictivo, en el cual se utilizarán cuatro técnicas en \textit{RapidMiner}, para generar cuatro modelos, estas técnicas son:\\
 
 \begin{itemize}
 	\item Regresión Lineal:\\
@@ -128,12 +128,15 @@ La regresión lineal intenta modelar la relación entre una variable escalar y u
 
 	\item Árboles de decisión:\\
 
-
+Es una representación de datos que tiene forma de árbol invertido, donde sus nodos raíces están en la parte superior, creciendo hacia abajo.\\
+Su objetivo es predecir el valor de un atributo destino (generalmente llamado clase o etiqueta) basándose en varios atributos de entrada, cada nodo interior del árbol corresponde a uno de los atributos de entrada. El número de aristas de un nodo interior nominal es igual al número de valores posibles del atributo de entrada correspondiente. Los bordes salientes de los atributos numéricos están etiquetados con rangos disjuntos. Cada nodo de hoja representa un valor del atributo de etiqueta dado los valores de los atributos de entrada representados por el camino de la raíz a la hoja \cite{ad}.
 	\item Redes Neuronales:\\
 
+Una red neuronal, es un modelo matemático o modelo computacional que se inspira en la estructura y aspectos funcionales de las redes neuronales biológicas. Una red neuronal consiste en un grupo interconectado de neuronas artificiales, y procesa la información utilizando un enfoque conexionista a la computación (el principio conexionista central es que los fenómenos mentales pueden ser descritos por redes interconectadas de unidades simples ya menudo uniformes). En la mayoría de los casos, una red neuronal es un sistema adaptativo que cambia su estructura basada en información externa o interna que fluye a través de la red durante la fase de aprendizaje. Las redes neuronales modernas suelen usarse para modelar relaciones complejas entre entradas y salidas o para encontrar patrones en los datos \cite{redn}.
 
-	\item Máquinas de Vectores de Soporte:\\
+	\item Máquinas de Vectores de Soporte (SVN):\\
 
+Las máquinas de vectores de soporte estándar toman un conjunto de datos de entrada y predice, para cada entrada dada, cuál de las dos clases posibles comprende la entrada, haciendo del SVM un clasificador binario no probabilístico lineal. Dado un conjunto de ejemplos de entrenamiento, cada uno marcado como pertenecientes a una de dos categorías, un algoritmo de entrenamiento de SVM construye un modelo que asigna nuevos ejemplos en una categoría u otra. Un modelo SVM es una representación de los ejemplos como puntos en el espacio, mapeados de modo que los ejemplos de las categorías separadas se dividan por una brecha clara que es lo más amplia posible. Nuevos ejemplos se asignan a ese mismo espacio y se predice que pertenecen a una categoría basada en qué lado de la brecha en la que caen \cite{svn}.
 
 \end{itemize}  
 
@@ -147,7 +150,7 @@ A partir del estudio de la deserción según estadísticas del SIES, el tema de 
 
 Los datos recopilados por el SIES, orientan en cierto sentido el panorama que se a presentado entre los años 2010 y 2014 sobre el tema deserción, tomando variables globales como institución, género, jornada, establecimiento de origen y acreditación.\\
 
-El concepto de inteligencia del cliente, entrega herramientas para analizar las necesidades y relacionamiento que tiene el alumno con la universidad, esto ayudará para identificar a través de entrevistas, variables influyentes en continuar y/o desertar de la carrera. Las variables determinadas ayudarán al proceso de inteligencia de negocio, las cuales serán extraídas, transformadas y cargadas en una base analítica, para finalizar aplicando el concepto minería de datos y generar los modelos con la herramienta Rapid Miner.
+El concepto de inteligencia del cliente, entrega herramientas para analizar las necesidades y relacionamiento que tiene el alumno con la universidad, esto ayudará para identificar a través de entrevistas, variables influyentes en continuar y/o desertar de la carrera. Las variables determinadas ayudarán al proceso de inteligencia de negocio, las cuales serán extraídas, transformadas y cargadas en una base analítica, para finalizar aplicando el concepto minería de datos y generar los modelos con la herramienta RapidMiner.
 
 
 

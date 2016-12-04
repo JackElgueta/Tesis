@@ -109,6 +109,24 @@ Regresión lineal. [Online]. Available:
   \url{http://docs.rapidminer.com/studio/operators/modeling/predictive/functions/linear_regression.html}
 \BIBentrySTDinterwordspacing
 
+\bibitem{ad}
+\BIBentryALTinterwordspacing
+Árboles de decisión. [Online]. Available:
+  \url{http://docs.rapidminer.com/studio/operators/modeling/predictive/trees/parallel_decision_tree.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{redn}
+\BIBentryALTinterwordspacing
+Redes neuronales. [Online]. Available:
+  \url{http://docs.rapidminer.com/studio/operators/modeling/predictive/neural_nets/neural_net.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{svn}
+\BIBentryALTinterwordspacing
+Svn. [Online]. Available:
+  \url{http://docs.rapidminer.com/studio/operators/modeling/predictive/support_vector_machines/support_vector_machine.html}
+\BIBentrySTDinterwordspacing
+
 \bibitem{muestra}
 \BIBentryALTinterwordspacing
 Muestreo no probabilístico. [Online]. Available:

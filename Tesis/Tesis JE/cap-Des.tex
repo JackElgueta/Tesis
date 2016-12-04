@@ -4,7 +4,7 @@
 
 Un aspecto importante del concepto de Inteligencia del Cliente, es entender las necesidades del consumidor. En el caso de este trabajo, se manejan los conceptos de IC aplicado a alumnos, para entender sus necesidades y motivaciones en terminar una carrera universitaria.\\
 
-El siguiente desarrollo busca como objetivo ver las motivaciones de los alumnos, para convertirlos en constructos junto a sus asociaciones, los cuales entregarán métricas y variables para analizar el tema deserción. Las métricas y variables definidas en esta sección, ayudará a la selección de datos y construcción de los modelos, para luego aplicar las técnicas de minería de datos con la herramienta \textit{RapidMiner} a las bases de datos de la entidad pública y privada.
+El siguiente desarrollo busca como objetivo ver las motivaciones de los alumnos, para convertirlos en constructos junto a sus asociaciones, los cuales entregarán métricas y variables para analizar el tema deserción. Las métricas y variables definidas en esta sección, ayudará a la selección de datos y construcción de los modelos, para luego aplicar las técnicas de minería de datos con la herramienta \textit{RapidMiner} a la base de datos de la entidad  privada.
 
 \section{Entrevistas con Metodología de Metáforas}
 
@@ -23,6 +23,18 @@ El resultado de las entrevistas, permitirá generar constructos a partir de sus 
 
 Los constructos son definiciones interpretadas a partir de las asociaciones de las imágenes escogidas por los entrevistados, estas definiciones derivan en variables a contemplar para armar un modelo.\\ 
 
+Los constructos recogidos en esta investigación reflejan el sentir del alumno en la carrera, los cuales se pueden plasmar en su formación como profesional y en sus sueños futuros.\\
+
+\begin{figure}[H]
+		\centering 
+		\includegraphics[width=12cm,height=7cm] {constructos.png} 
+		\caption[Mapa de Consenso]{Mapa de Consenso}
+		\label{fig:constru}
+\end{figure}  
+
+La Figura \ref{fig:constru} representa el \textit{Mapa de Consenso} generado a partir de los constructos obtenidos de las entrevistas, los más importantes son los que se repitieron en la mayoría de las entrevistas y son los principales insight de los alumnos al responder la pregunta ¿Qué te motiva a terminar la carrera?.\\
+
+A continuación se detallan los constructos obtenidos, en donde las asociaciones son realizadas por los entrevistados, las definiciones son interpretaciones a las asociaciones, y las variables son los posibles datos ligados a las definiciones.\\    
 
 \underline {Constructo 1 - Familia} \\
 Asociaciones:
@@ -48,7 +60,7 @@ Variables:
 \end{itemize}
 
 
-\underline {Constructo 2 - Independencia} \\
+\underline {Constructo 2 - Independencia}\\ 
 Asociaciones:
 \begin{enumerate}
 	\item Tener un espacio personal grande y vanguardista.
@@ -59,10 +71,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-
 Un alumno que valora la independencia, se encuentra más dispuesto a conseguir beneficios que lo ayuden económicamente, así como también trabajar durante la etapa estudiantil para satisfacer sus necesidades.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Becas
 	\item Créditos
@@ -70,7 +81,7 @@ Variables:\\
 	\item Trabajador
 \end{itemize}
 
-\underline {Constructo 3 - Dinero} \\
+\underline {Constructo 3 - Dinero}\\ 
 Asociaciones:
 \begin{enumerate}
 	\item Representa el vehículo que podría adquirir teniendo recursos
@@ -81,16 +92,15 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-
 Un alumno que tome en cuenta el dinero que ganará luego de egresar, debe tener conciencia en las estadísticas de su carrera, cual es la tasa de empleabilidad al 1er año de egreso y como aumentará su sueldo con los años de experiencia.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Empleabilidad al 1er año
 	\item Ingreso promedio al 4to año	
 \end{itemize} 
 
-\underline {Constructo 4 - Placeres} \\
+\underline {Constructo 4 - Placeres}\\ 
 Asociaciones:
 \begin{enumerate}
 	\item Tener un título, se asocia a disfrutar placeres de la vida.
@@ -100,7 +110,13 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-Hace referencia a la libertad de poder gastar el dinero ganado en cosas o experiencias satisfactorias. No se aplica ningún análisis significativo para este constructo.\\
+Hace referencia a la libertad de poder gastar el dinero ganado en cosas o experiencias satisfactorias. Este constructro se encuentra asociado al constructo de Dinero, por lo que se aplican las mismas variables.\\
+
+Variables:
+\begin{itemize}
+	\item Empleabilidad al 1er año
+	\item Ingreso promedio al 4to año	
+\end{itemize} 
 
 \underline {Constructo 5 - Trabajo} \\
 Asociaciones:
@@ -114,7 +130,7 @@ Asociaciones:
 Definición:\\
 Representa a lo que se dedicará y obtendrá el alumno una vez titulado. Se relaciona al constructo Dinero y se asocian las mismas variables.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Empleabilidad al 1er año
 	\item Ingreso promedio al 4to año	
@@ -134,14 +150,13 @@ Asociaciones:
 Definición:\\
 Un alumno que valora el ser un profesional, tomará en cuenta el prestigio y excelencia de la institución, como también su formación profesional, por lo que será interesante saber si la institución se encuentra acreditada y si el alumno participa o ha participado en actividades que ayuden a validar sus capacidades.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Acreditación Institucional
 	\item Carrera Acreditada
 	\item Talleres de Certificación
 	\item Talleres de Desarrollo Profesional	
 \end{itemize} 
-
 
 
 \underline {Constructo 7 - Viajes} \\
@@ -159,7 +174,7 @@ Representa la libertad y la posibilidad de poder conocer nuevos lugares, sin pre
 
 Los viajes para los entrevistados representa el conocer otros países, si bien hace referencia a algo más vacacional, se puede asociar con las diferentes oportunidades que puede otorgar la institución para realizar intercambios, más puntual si el alumno a realizado un intercambio por medio de la institución.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Alumno realizo intercambio
 \end{itemize}
@@ -178,9 +193,8 @@ Asociaciones:
 Definición:\\
 Hace referencia al tiempo disponible que tendrá, a poder cumplir y hacer lo que siempre le ha gustado hacer. Es importante para el alumno, que la institución a la cual pertenece disponga de talleres o facilidades que complementen sus estudios con los pasatiempos y si el alumno participa activamente de algún taller proporcionado por la institución.\\
 
-%verificar si es por institución o por alumno que haga estos talleres
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Taller deportivo o cultural 
 	\item Beca deportiva
@@ -199,7 +213,7 @@ Asociaciones:
 Definición:\\
 Representa independencia y unión familiar a través de la estabilidad económica. Se asocia a los constructos de Dinero y Familia\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Empleabilidad al 1er año
 	\item Ingreso promedio al 4to año
@@ -220,11 +234,13 @@ Asociaciones:
 
 Definición:\\
 
-Hace mención a satisfacer la necesidad de alimento y darse una buena vida.\\
+Hace mención a satisfacer la necesidad de alimento y darse una buena vida. Se asocia al constructo de Dinero junto a sus variables.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
-	\item Beca alimento	
+	\item Empleabilidad al 1er año
+	\item Ingreso promedio al 4to año
+	\item Beca alimenticia
 \end{itemize} 
 
 \underline {Constructo 11 - Experiencia} \\
@@ -238,7 +254,7 @@ Definición:\\
 
 Hace referencia a sentirse preparado, a estar seguro en lo que se trabaja y poder cumplir de manera excelente. Es importante para el alumno ver la vinculación con el medio que tiene la institución y las prácticas ofrecidas.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Prácticas realizadas
 	\item Taller de Desarrollo Profesional	
@@ -255,10 +271,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-
 Representa el alcanzar una meta, crecer, ser independiente y seguro. Esto se puede representar por los logros alcanzados por el alumno, como la cantidad de ramos aprobados en un semestre, promedio de notas o posición en ranking de alumno.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Ramos aprobados por semestre
 	\item Promedio de notas
@@ -268,12 +283,17 @@ Variables:\\
 \underline {Constructo 13 - Salud} \\
 Asociaciones:
 \begin{enumerate}
-	\item Poder tener el dinero para obtener buenos tratamientos médicos
-		
+	\item Poder tener el dinero para obtener buenos tratamientos médicos		
 \end{enumerate}
 
 Definición:\\
-Tener un titulo implica poder a acceder a una salud de calidad.\\
+Tener un titulo implica poder a acceder a una salud de calidad. Se asocia al constructo Dinero junto a sus variables.\\
+
+Variables:
+\begin{itemize}
+	\item Empleabilidad al 1er año
+	\item Ingreso promedio al 4to año	
+\end{itemize} 
 
 
 \underline {Constructo 14 - Seguridad} \\
@@ -285,10 +305,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-
 Hace referencia a que un titulo certifica las capacidades de una persona, haciéndolas sentir más seguras. Un alumno que busca seguridad laboral, buscara mejorar sus capacidades con certificaciones, es importante entonces que la institución a la que pertenece certifique los conocimientos del alumno.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Talleres de certificación
 	\item Acreditación institucional
@@ -304,12 +323,12 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-
 Se refiere a que una carrera entrega nociones y entendimiento sobre los efectos que tienen diferentes efectos sobre el planeta y la sociedad.\\  
 
-Variables:\\
+Variables:
 \begin{itemize}
-	\item Participación en voluntariado social	
+	\item Participación en voluntariado social o ONG
+	\item Ramos relacionado a conciencia sustentable	
 \end{itemize} 
 
 \underline {Constructo 16 - Reconocimiento} \\
@@ -323,10 +342,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
+Representa a la sensación de un buen estatus, de crecimiento y aceptación. Se asocia al constructo Superación Personal junto a sus variables.\\
 
-Representa a la sensación de un buen estatus, de crecimiento y aceptación. Se asocia al constructo Superación Personal.\\
-
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Ramos aprobados por semestre
 	\item Promedio de notas
@@ -344,10 +362,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
-
 Representa los sueños a futuros que se pueden cumplir gracias a un titulo. Para este constructo se relaciona la participación del alumno en distintas actividades que se relacione a emprendimiento, como talleres o concursos a través de la institución a la que pertenece.\\
 
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Talleres de emprendimiento	
 \end{itemize} 
@@ -361,10 +378,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
+Representa que un titulo otorga poder estar seguro tanto económicamente como emocional. Un alumno con interés en tener una estabilidad económica como emocional, participara de actividades que lo ayuden a encontrar esa estabilidad, por ende las instituciones deben tener estas actividades, y el alumno participar de dichas actividades.\\
 
-Representa que un titulo otorga poder estar seguro tanto económicamente como emocional.\\
-
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Talleres Bienestar estudiantil
 	\item Talleres de Desarrollo Profesional	
@@ -381,10 +397,9 @@ Asociaciones:
 \end{enumerate}
 
 Definición:\\
+Hace referencia al aprendizaje obtenido en la etapa universitaria. Es importante para el alumno tener las capacidades suficientes para poder ejercer sin problemas su titulo, por ende participara en actividades que le brinden estas herramientas.\\
 
-Hace referencia al aprendizaje obtenido en la etapa universitaria.\\
-
-Variables:\\
+Variables:
 \begin{itemize}
 	\item Talleres de certificación
 	\item Talleres de Desarrollo Profesional	
