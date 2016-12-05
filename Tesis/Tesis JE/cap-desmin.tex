@@ -1,16 +1,31 @@
 \chapter[Aplicando Minería de Datos con RapidMiner]{Aplicando Minería de Datos con RapidMiner}
 \label{ch:desmin}
-\subsection{Identificación de datos y variables}
 
-Los datos a utilizar en los modelos, son variables extraídas del análisis de los constructos de la sección anterior, además se incluyen variables analizadas al principio del documento sobre la deserción en Chile
+\section{Identificación de datos y variables}
+\subsection{Datos}
 
-\begin{table}[H]
-	\begin{center}
-		\begin{tabular}{|l|l|l|}
+Los datos a utilizar en los modelos a presentar en este capítulo son extraídos de la base de datos de la institución privada. Estos datos corresponde a información de los años 2014 y 2015 de alumnos de las distintas carreras de ingeniería que imparte la institución. Además se extrae información a través del SIES sobre la institución y sus diferentes carreras de ingeniería con respecto a acreditación e indices de empleabilidad.\\
+
+\subsection{Variables}
+
+Las variables consideradas en este estudio, corresponden al análisis de los constructos del capítulo anterior, además se consideran variables analizadas en el capítulo dos sobre la deserción en Chile.\\
+
+Las variables obtenidas se dividen en tres principales grupos, la primera llamada ``Individual y Educación Media'', corresponde a datos del individuo como su edad y genero, e información previa al ingreso de una institución de educación superior. La segunda llamada ``Institución y Carrera'', corresponde a datos puntuales de la institución y carrera. La tercera llamada ``Alumno'', corresponde a datos sobre actividades, beneficios y rendimiento del alumno.\\
+
+
+
+\begin{longtable}{|l|l|l|}
 			\hline
 			Variable & Tipo & Descripción \\
 			\hline \hline
-			&  & \\ \hline
+			\endfirsthead
+			
+			\hline
+            Variable & Tipo & Descripción \\
+            \hline \hline
+            \endhead
+			
+			\multicolumn{3}{c}{Individual y Educación Media} \\ \hline
 			Distancia hogar-institución &  & \\ \hline
 			Genero &  & \\ \hline
 			Edad &  & \\ \hline
@@ -19,18 +34,16 @@ Los datos a utilizar en los modelos, son variables extraídas del análisis de l
 			Promedio PSU lenguaje y matemáticas &  & \\ \hline
 			Prioridad de postulación a carrera & & \\ \hline
 			Reingresante & & \\ \hline
-			Trabajador & & \\ \hline
-			\hline \hline
-			
+			Trabajador & & \\ \hline 
+			\multicolumn{3}{c}{Institución y Carrera} \\ \hline
 			Tipo Institución &  & \\ \hline
 			Acreditación Institucional &  & \\ \hline
 			Jornada &  & \\ \hline
 			Arancel anual & & \\ \hline
 			Empleabilidad al 1er año & & \\ \hline
 			Ingreso promedio 4to año & & \\ \hline
-			Carrera acreditada & & \\ \hline
-			\hline \hline
-			
+			Carrera acreditada & & \\ \hline 
+			\multicolumn{3}{c}{Alumno} \\ \hline
 			Semestres cursados & & \\ \hline
 			Taller profesional realizados & & \\ \hline
 			Ha realizado intercambio & & \\ \hline
@@ -46,12 +59,28 @@ Los datos a utilizar en los modelos, son variables extraídas del análisis de l
 			Ranking del alumno & & \\ \hline
 			Prácticas realizadas & & \\ \hline
 			Ha realizado voluntariado social & & \\ \hline
-			
-		\end{tabular}
-		\caption{Tabla muy sencilla.}
-		\label{tabla:sencilla}
-	\end{center}
-\end{table}
+		\caption{Tablou de variables.}
+		\label{tabla:Tablou de variables}
+\end{longtable}	
 
+Las variables a considerar crean el tablou representado en la Tabla \ref{tabla:Tablou de variables}, estas variables serán rellenadas a partir de los datos de la institución privada.
 
 \subsection{Modelamiento}
+
+La construcción de los modelos se implementará con la herramienta \textit{RapidMiner} utilizando como entrada el tablou generado anteriormente.\\
+
+La herramienta \textit{RapidMiner} permite a través de operadores, construir un proceso. Los procesos son una serie de pasos constituidos por operadores.\\
+
+\begin{figure}[H]
+	\centering 
+	\includegraphics[width=12cm,height=7cm] {proceso.png} 
+	\caption[Proceso de Predicción]{Proceso de Predicción}
+	\label{fig:proceso}
+\end{figure}
+
+\begin{figure}[H]
+	\centering 
+	\includegraphics[width=12cm,height=7cm] {provalidacion.png} 
+	\caption[Validación]{Validación}
+	\label{fig:validacion}
+\end{figure}
