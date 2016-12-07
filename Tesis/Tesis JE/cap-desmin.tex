@@ -2,9 +2,11 @@
 \label{ch:desmin}
 
 \section{Identificación de datos y variables}
-\subsection{Datos}
+\subsection{Recolección de Datos}
 
-Los datos a utilizar en los modelos a presentar en este capítulo son extraídos de la base de datos de la institución privada. Estos datos corresponde a información de los años 2014 y 2015 de alumnos de las distintas carreras de ingeniería que imparte la institución. Además se extrae información a través del SIES sobre la institución y sus diferentes carreras de ingeniería con respecto a acreditación e indices de empleabilidad.\\
+Los datos a utilizar en los modelos a presentar en este capítulo son extraídos de la base de datos de la institución privada. Estos datos corresponde a información concreta y confidencial de los años 2014 y 2015 de alumnos de las distintas carreras de ingeniería que imparte la institución. Además se extrae información a través del SIES sobre la institución y sus diferentes carreras de ingeniería con respecto a acreditación e indices de empleabilidad.\\
+
+Los datos proporcionados por la institución se encuentra en un archivo Excel y la información del SIES se encuentra en un sitio web, por lo que se creo una base de datos llamada \textit{Area Staging} conformada por una tabla con toda la información recopilada.\\ 
 
 \subsection{Variables}
 
@@ -27,7 +29,7 @@ Las variables obtenidas se dividen en tres principales grupos, la primera llamad
 			
 			\multicolumn{3}{c}{Individual y Educación Media} \\ \hline
 			Distancia hogar-institución &  & \\ \hline
-			Genero &  & \\ \hline
+			Genero &  & M=2; F=1\\ \hline
 			Edad &  & \\ \hline
 			Tipo establecimiento de origen &  & \\ \hline
 			Notas enseñanza media & & \\ \hline
@@ -54,7 +56,6 @@ Las variables obtenidas se dividen en tres principales grupos, la primera llamad
 			Tiene beca de alimento & & \\ \hline
 			Tiene crédito &  & \\ \hline
 			Promedio notas acumuladas &  & \\ \hline
-			Ramos aprobados por semestre & & \\ \hline
 			Causales acumuladas & & \\ \hline
 			Ranking del alumno & & \\ \hline
 			Prácticas realizadas & & \\ \hline
@@ -63,7 +64,11 @@ Las variables obtenidas se dividen en tres principales grupos, la primera llamad
 		\label{tabla:Tablou de variables}
 \end{longtable}	
 
-Las variables a considerar crean el tablou representado en la Tabla \ref{tabla:Tablou de variables}, estas variables serán rellenadas a partir de los datos de la institución privada.
+Las variables a considerar crean el tablou representado en la Tabla \ref{tabla:Tablou de variables}, estas variables conforman una nueva base de datos, la cual es alimentada por los datos de la base de \textit{Area Staging} creada anteriormente, alguno de estos datos son transformados para generar las variables.\\
+
+Se aclara que algunas variables de este tablou, no podrán ser llenadas con datos previamente recopilados, por lo que para este estudio son considerados con valores nulos para no entorpecer la influencia de otras variables. Sin embargo se recomienda a la institución generar acciones para recopilar estos datos.\\   
+
+
 
 \subsection{Modelamiento}
 
