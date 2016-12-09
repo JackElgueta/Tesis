@@ -8,6 +8,14 @@ Los datos a utilizar en los modelos a presentar en este capítulo son extraídos
 
 Los datos proporcionados por la institución se encuentra en un archivo Excel y la información del SIES se encuentra en un sitio web, por lo que se creo una base de datos llamada \textit{Area Staging} conformada por una tabla con toda la información recopilada.\\ 
 
+\begin{figure}[H]
+	\centering 
+	\includegraphics[width=12cm,height=7cm] {areastaging.png} 
+	\caption[BD Area Staging]{BD Area Staging}
+	\label{fig:bdarea}
+\end{figure}
+
+
 \subsection{Variables}
 
 Las variables consideradas en este estudio, corresponden al análisis de los constructos del capítulo anterior, además se consideran variables analizadas en el capítulo dos sobre la deserción en Chile.\\
@@ -64,7 +72,7 @@ Las variables obtenidas se dividen en tres principales grupos, la primera llamad
 		\label{tabla:Tablou de variables}
 \end{longtable}	
 
-Las variables a considerar crean el tablou representado en la Tabla \ref{tabla:Tablou de variables}, estas variables conforman una nueva base de datos, la cual es alimentada por los datos de la base de \textit{Area Staging} creada anteriormente, alguno de estos datos son transformados para generar las variables.\\
+Las variables a considerar crean el tablou representado en la Tabla \ref{tabla:Tablou de variables}, estas variables conforman una nueva base de datos, los datos utilizados para el llenado de estas variables, son extraídos a través de una Query SQL de la base de \textit{Area Staging} creada anteriormente .\\
 
 Se aclara que algunas variables de este tablou, no podrán ser llenadas con datos previamente recopilados, por lo que para este estudio son considerados con valores nulos para no entorpecer la influencia de otras variables. Sin embargo se recomienda a la institución generar acciones para recopilar estos datos.\\   
 
