@@ -133,4 +133,10 @@ Muestreo no probabilístico. [Online]. Available:
   \url{http://www.estadistica.mat.uson.mx/Material/elmuestreo.pdf}
 \BIBentrySTDinterwordspacing
 
+\bibitem{variables}
+\BIBentryALTinterwordspacing
+Variables discretas y continuas. [Online]. Available:
+  \url{https://es.wikipedia.org/wiki/Variable_discreta_y_variable_continua}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
