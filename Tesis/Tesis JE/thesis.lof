@@ -10,13 +10,17 @@
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Esquema Copo de Nieve}}{25}{figure.caption.17}
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Proceso KDD}}{28}{figure.caption.18}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces T\IeC {\'e}cnicas de miner\IeC {\'\i }a de datos}}{30}{figure.caption.19}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Mapa de Consenso Generado}}{38}{figure.caption.20}
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Tabla resultante}}{55}{figure.caption.21}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Proceso de Predicci\IeC {\'o}n}}{58}{figure.caption.22}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Importaci\IeC {\'o}n de datos}}{59}{figure.caption.23}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Remplazar de datos vacios}}{59}{figure.caption.24}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Validaci\IeC {\'o}n}}{60}{figure.caption.25}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Matriz de Confusi\IeC {\'o}n}}{61}{figure.caption.26}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Matriz de Confusi\IeC {\'o}n}}{61}{figure.caption.27}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Matriz de Confusi\IeC {\'o}n}}{62}{figure.caption.28}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Matriz de Confusi\IeC {\'o}n}}{63}{figure.caption.29}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Mapa de Consenso Generado}}{36}{figure.caption.20}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Tabla resultante}}{53}{figure.caption.21}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Proceso de Predicci\IeC {\'o}n}}{56}{figure.caption.22}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Importaci\IeC {\'o}n de datos}}{57}{figure.caption.23}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Remplazar de datos vacios}}{57}{figure.caption.24}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Validaci\IeC {\'o}n}}{58}{figure.caption.25}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Matriz de Confusi\IeC {\'o}n SVN Diurno}}{59}{figure.caption.26}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Matriz de Confusi\IeC {\'o}n SVN Vespertino}}{60}{figure.caption.27}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Matriz de Confusi\IeC {\'o}n Regresi\IeC {\'o}n Lineal Diurno}}{60}{figure.caption.28}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Matriz de Confusi\IeC {\'o}n Regresi\IeC {\'o}n Lineal Vespertino}}{61}{figure.caption.29}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Matriz de Confusi\IeC {\'o}n Red Neuronal Diurno}}{61}{figure.caption.30}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Matriz de Confusi\IeC {\'o}n Red Neuronal Vespertino}}{62}{figure.caption.31}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Matriz de Confusi\IeC {\'o}n}}{62}{figure.caption.32}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Matriz de Confusi\IeC {\'o}n}}{63}{figure.caption.33}

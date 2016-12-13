@@ -135,9 +135,12 @@ En el operador ``Validation'' se definen el porcentaje de datos a entrenar del t
 
 \section{Modelamiento}
 
-El modelamiento se configuro de la siguiente manera, para el conjunto de datos de jornada diurna, se replicaron 50 observaciones dejando la variable a predecir vacía. Y para el conjunto de datos de jornada vespertina, se replicaron observaciones dejando la variable a predecir vacía.\\
+El modelamiento se configuro de la siguiente manera, para el conjunto de datos de jornada diurna, se replicaron 53 observaciones dejando la variable a predecir vacía. Y para el conjunto de datos de jornada vespertina, se replicaron 21 observaciones dejando la variable a predecir vacía.\\
 
-A continuación se detalla el resultado de las cuatro técnicas de predicción utilizadas en los conjuntos de datos, especificando las variables que más influyeron en cada predicción.\\
+El detalle del resultado de las cuatro técnicas de predicción utilizadas en los conjuntos de datos, se especifica la matriz de confusión, las variables que más influyeron en cada predicción y el porcentaje real de predicción.\\
+
+La matriz de confusión es una herramienta que permite visualizar el desempeño de un algoritmo empleado para aprendizaje supervisado. Las columnas representan el número de predicciones por clases y las filas representan las instancias de la clase. Esta herramienta permite ver si el sistema esta confundiendo dos clases \cite{matriz}.\\
+
 
 \subsection{SVN}
 
@@ -147,13 +150,29 @@ A continuación se detalla el resultado de las cuatro técnicas de predicción u
 \begin{figure}[H]
 	\centering 
 	\includegraphics[width=10cm,height=3cm] {svndiurno.png} 
-	\caption[Matriz de Confusión]{Matriz de Confusión}
+	\caption[Matriz de Confusión SVN Diurno]{Matriz de Confusión SVN Diurno}
 	\label{fig:svndiurno}
 \end{figure}	
 	
-La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica que SVN tiene una efectividad del 98.12 \% para predecir, lo que es un muy buen predictor con las variables ingresadas. Las variables con mayor peso en la predicción fueron: NEM, PSU Lenguaje, PSU Matemáticas, Comuna y Edad.\\
+La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica que SVN obtuvo una precisión del 98.12\%, especificando que la clase ACTIVO tuvo una precisión del 99.52\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 100\%.
+
+Las variables con mayor peso en la predicción de la clase ACTIVO fueron: CAE15, PSU Ciencias, Beca15, Promedio notas, Carrera, Empleabilidad al 1er año, Junaeb15, NEM, Ingreso Promedio 4to año, Tipo colegio, Comuna y Genero.\\
+
+
 
 \item Jornada Vespertina\\	
+
+\begin{figure}[H]
+	\centering 
+	\includegraphics[width=10cm,height=3cm] {svnvesp.png} 
+	\caption[Matriz de Confusión SVN Vespertino]{Matriz de Confusión SVN Vespertino}
+	\label{fig:svnvesp}
+\end{figure}	
+
+La matriz de confusión que se muestra en la Figura \ref{fig:svnvesp} indica que SVN obtuvo una precisión del 64.29\%, especificando que la clase ACTIVO tuvo una precisión del 100\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 100\%.
+
+Las variables con mayor peso en la predicción de la clase ACTIVO fueron: Edad, NEM, Genero, Comuna, Junaeb14 y Junaeb15.\\
+
 				
 	
 \end{itemize}
@@ -166,14 +185,29 @@ La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica q
 	\begin{figure}[H]
 		\centering 
 		\includegraphics[width=10cm,height=3cm] {rldiurno.png} 
-		\caption[Matriz de Confusión]{Matriz de Confusión}
+		\caption[Matriz de Confusión Regresión Lineal Diurno]{Matriz de Confusión Regresión Lineal Diurno}
 		\label{fig:rldiurno}
 	\end{figure}	
 	
-	La matriz de confusión que se muestra en la Figura \ref{fig:rldiurno} indica que regresión lineal tiene una efectividad del 72.74 \% para predecir, lo que es un muy buen predictor con las variables ingresadas. Las variables con mayor peso en la predicción fueron: NEM, Comuna y Edad.\\
+	La matriz de confusión que se muestra en la Figura \ref{fig:rldiurno} indica que Regresión Lineal obtuvo una precisión del 72.74\%, especificando que la clase ACTIVO tuvo una precisión del 98.88\%, mientras que la clase ABANDONO tuvo 1.83\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 81.13\%.
+	
+	 Las variables con mayor peso en la predicción de la clase ACTIVO fueron: NEM, CAE15, PSU Ciencias, Tipo colegio, Junaeb14, Promedio notas, Comuna y Edad.\\
+	
+
 	
 	\item Jornada Vespertina\\	
 	
+\begin{figure}[H]
+	\centering 
+	\includegraphics[width=10cm,height=3cm] {rlvesp.png} 
+	\caption[Matriz de Confusión Regresión Lineal Vespertino]{Matriz de Confusión Regresión Lineal Vespertino}
+	\label{fig:rlvesp}
+\end{figure}	
+
+La matriz de confusión que se muestra en la Figura \ref{fig:svnvesp} indica que Regresión Lineal obtuvo una precisión del 100\%, especificando que la clase ACTIVO tuvo una precisión del 100\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 95.23\%.
+
+Las variables con mayor peso en la predicción de la clase ACTIVO fueron: CAE14, Comuna y Beca15.\\
+
 	
 \end{itemize}
 
@@ -186,14 +220,29 @@ La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica q
 	\begin{figure}[H]
 		\centering 
 		\includegraphics[width=10cm,height=3cm] {rndiurno.png} 
-		\caption[Matriz de Confusión]{Matriz de Confusión}
+		\caption[Matriz de Confusión Red Neuronal Diurno]{Matriz de Confusión Red Neuronal Diurno}
 		\label{fig:rndiurno}
 	\end{figure}	
 	
-	La matriz de confusión que se muestra en la Figura \ref{fig:rndiurno} indica que regresión lineal tiene una efectividad del 98.19 \% para predecir, lo que es un muy buen predictor con las variables ingresadas. Las variables con mayor peso en la predicción fueron: NEM, Comuna y Edad.\\
+	La matriz de confusión que se muestra en la Figura \ref{fig:rndiurno} indica que Red Neuronal obtuvo una precisión del 98.19\%, especificando que la clase ACTIVO tuvo una precisión del 98.68\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 94.34\%.
+	
+	Se genero 127 nodos en donde las variables con mayor peso en la predicción de la clase ACTIVO fueron: NEM, Comuna y Edad.\\
+
+	
 	
 	\item Jornada Vespertina\\	
-	
+\begin{figure}[H]
+	\centering 
+	\includegraphics[width=10cm,height=3cm] {rnvesp.png} 
+	\caption[Matriz de Confusión Red Neuronal Vespertino]{Matriz de Confusión Red Neuronal Vespertino}
+	\label{fig:rnvesp}
+\end{figure}	
+
+La matriz de confusión que se muestra en la Figura \ref{fig:rnvesp} indica que Red Neuronal obtuvo una precisión del 78.57\%, especificando que la clase ACTIVO tuvo una precisión del 100\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 100\%.
+
+Se genero 22 nodos en donde las variables con mayor peso en la predicción de la clase ACTIVO fueron: tipo de colegio, Comuna, Promedio notas, Junaeb14, CAE14, Beca14, Junaeb15, CAE15 y Beca15.\\
+
+
 	
 \end{itemize}
 
@@ -209,9 +258,30 @@ La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica q
 		\label{fig:addiurna}
 	\end{figure}	
 	
-	La matriz de confusión que se muestra en la Figura \ref{fig:addiurna} indica que regresión lineal tiene una efectividad del 95.57 \% para predecir, lo que es un muy buen predictor con las variables ingresadas. La variable con mayor peso en la predicción fue: Comuna.\\
+	La matriz de confusión que se muestra en la Figura \ref{fig:addiurna} indica que Árbol de Decisión obtuvo una precisión del 95.57\%, especificando que la clase ACTIVO tuvo una precisión del 98.64\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 81.13\%.
+	
+	La variable con mayor peso en la predicción de la clase ACTIVO fue: Comuna.\\
+	
+
 	
 	\item Jornada Vespertina\\	
 	
+		\begin{figure}[H]
+		\centering 
+		\includegraphics[width=10cm,height=3cm] {advesp.png} 
+		\caption[Matriz de Confusión]{Matriz de Confusión}
+		\label{fig:advesp}
+	\end{figure}	
 	
+	La matriz de confusión que se muestra en la Figura \ref{fig:advesp} indica que Árbol de Decisión obtuvo una precisión del 100\%, especificando que la clase ACTIVO tuvo una precisión del 100\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 90.48\%.
+	
+		La variable con mayor peso en la predicción de la clase ACTIVO fue: Promedio de notas.\\
+	
+	 
+		
 \end{itemize}
+
+En ambos casos de los conjuntos probados en los cuatro algoritmos utilizados, las matrices de confusión tienen un sesgo hacia la predicción ACTIVO, por lo que en todos los casos se realizo una comparación de las observaciones a predecir con las observaciones que tienen definido su estado.\\
+
+\section{Resultados}
+
