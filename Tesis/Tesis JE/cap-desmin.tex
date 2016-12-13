@@ -204,7 +204,7 @@ Las variables con mayor peso en la predicción de la clase ACTIVO fueron: Edad, 
 	\label{fig:rlvesp}
 \end{figure}	
 
-La matriz de confusión que se muestra en la Figura \ref{fig:svnvesp} indica que Regresión Lineal obtuvo una precisión del 100\%, especificando que la clase ACTIVO tuvo una precisión del 100\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 95.23\%.
+La matriz de confusión que se muestra en la Figura \ref{fig:rlvesp} indica que Regresión Lineal obtuvo una precisión del 100\%, especificando que la clase ACTIVO tuvo una precisión del 100\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 95.23\%.
 
 Las variables con mayor peso en la predicción de la clase ACTIVO fueron: CAE14, Comuna y Beca15.\\
 
@@ -254,7 +254,7 @@ Se genero 22 nodos en donde las variables con mayor peso en la predicción de la
 	\begin{figure}[H]
 		\centering 
 		\includegraphics[width=10cm,height=3cm] {addiurna.png} 
-		\caption[Matriz de Confusión]{Matriz de Confusión}
+		\caption[Matriz de Confusión Árbol de Decisión Diurna]{Matriz de Confusión Árbol de Decisión Diurna}
 		\label{fig:addiurna}
 	\end{figure}	
 	
@@ -269,7 +269,7 @@ Se genero 22 nodos en donde las variables con mayor peso en la predicción de la
 		\begin{figure}[H]
 		\centering 
 		\includegraphics[width=10cm,height=3cm] {advesp.png} 
-		\caption[Matriz de Confusión]{Matriz de Confusión}
+		\caption[Matriz de Confusión Árbol de Decisión Vespertina]{Matriz de Confusión Árbol de Decisión Vespertina}
 		\label{fig:advesp}
 	\end{figure}	
 	
@@ -285,3 +285,10 @@ En ambos casos de los conjuntos probados en los cuatro algoritmos utilizados, la
 
 \section{Resultados}
 
+Dentro de los resultados obtenidos en los algoritmos de predicción probados, el que tiene mejor desempeño en ambos conjunto de datos es SVN con una predicción del 100\% de los datos probados, lo sigue Red Neuronal con 94.34\% en el conjunto de jornada Diurna y 100\% en el conjunto de jornada Vespertina.\\
+
+Con respecto a las variables que son buenos predictores de ABANDONO para jornada Diurna con SVN, se considero NEM por debajo de 57, comunas de santiago que están alejadas de la institución, edad por debajo de los 19 años, y sin beneficios como CAE y Junaeb para el año 2014.\\
+
+Con respecto a las variables que son buenos predictores de ABANDONO para jornada Vespertina con SVN, se considero promedio de notas por debajo de 40, y sin beneficios como CAE y Beca para los años 2014 y 2015.\\
+
+En general para ambos conjuntos de datos, las variables con más influencia tienen en la predicción de deserción, son en su mayoría las mismas que se señalan en otros estudios respecto al tema deserción.\\

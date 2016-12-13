@@ -54,9 +54,11 @@
 \contentsline {subsection}{\numberline {6.2.2}Regresi\IeC {\'o}n Lineal}{60}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Red Neuronal}{61}{subsection.6.2.3}
 \contentsline {subsection}{\numberline {6.2.4}\IeC {\'A}rbol de Decisi\IeC {\'o}n}{62}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}Resultados}{63}{section.6.3}
+\contentsline {section}{\numberline {6.3}Resultados}{64}{section.6.3}
 \contentsline {part}{III\hspace {1em}Conclusiones}{65}{part.3}
-\contentsline {chapter}{Cap\'{i}tulo 7.\ Conclusiones y recomendaciones}{67}{chapter.7}
+\contentsline {chapter}{Cap\'{i}tulo 7.\ Conclusiones e Implementaci\IeC {\'o}n}{67}{chapter.7}
+\contentsline {section}{\numberline {7.1}Conclusiones}{67}{section.7.1}
+\contentsline {section}{\numberline {7.2}Implementaci\IeC {\'o}n}{68}{section.7.2}
 \contentsline {part}{IV\hspace {1em}Informaci\IeC {\'o}n Adicional}{69}{part.4}
 \contentsline {chapter}{Anexo A.\ Entrevistas con Metodolog\IeC {\'\i }a de la Met\IeC {\'a}fora}{75}{appendix.Alph1}
 \contentsline {chapter}{Anexo B.\ RapidMiner}{109}{appendix.Alph2}

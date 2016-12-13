@@ -1,8 +1,27 @@
-\chapter[Conclusiones y recomendaciones]{Conclusiones y recomendaciones}
+\chapter[Conclusiones e Implementación]{Conclusiones e Implementación}
 \label{ch:conclu}
 
+\section{Conclusiones}
 A partir del estudio de la deserción según estadísticas del SIES, el tema de deserción universitaria, no es un fenómeno aislado, aproximadamente el 50 \%  de los alumnos que ingresan a un programa de estudios universitario, no termina la carrera, preocupando a varios actores del sistema.\\
 
 Los datos recopilados por el SIES, orientan en cierto sentido el panorama que se a presentado entre los años 2010 y 2014 sobre el tema deserción, tomando variables globales como institución, género, jornada, establecimiento de origen y acreditación.\\
 
 El concepto de inteligencia del cliente, entrego herramientas para analizar las necesidades y relacionamiento que tiene el alumno con la universidad, esto ayudo a identificar a través de entrevistas, variables influyentes en continuar y/o desertar de la carrera. Las variables determinadas con inteligencia del cliente junto a las variables de información del SIES, ayudaron al proceso de inteligencia de negocio, las cuales fueron extraídas, transformadas y cargadas en una base analítica, para finalizar aplicando el concepto minería de datos y generar los modelos con la herramienta RapidMiner.\\
+
+Si bien se generaron variables para un modelo con inteligencia del cliente, finalmente se utilizaron variables disponibles en los datos otorgados por la institución, las variables extraídas de estos datos fueron principalmente variables estudiadas en otras investigaciones respecto al tema deserción y que se comprobó su influencia en las técnicas de predicción.\\
+
+Dentro de las cuatro técnicas probadas en los modelos generados para jornada Diurna y Vespertina, el que tuvo una mejor predicción en ambos modelos fue SVN, prediciendo el 100\% de las observaciones probadas, sin embargo seria optimo a futuro probar el modelo resultante de inteligencia del cliente y aplicar la siguiente implementación utilizando los pasos del modelamiento con la herramienta \textit{RapidMiner} con la técnica SVN.\\
+
+\section{Implementación}
+
+El primer paso es generar los procesos de minería de datos, esto quiere decir realizar actividades relacionadas con la automatización de estos procesos, por este motivo se considera las siguientes actividades:
+
+\begin{enumerate}
+	\item Recolectar información de las motivaciones del alumno al finalizar cada semestre.
+	\item Definir el día de la extracción de la información, debiese ser finalizando las encuesta de fin de semestre.
+	\item Automatizar la generación de la base de datos que alimentará el modelo propuesto. Se debe considerar proceso ETL.
+	\item Procesar el modelo con la herramienta \textit{RapidMiner}.
+	\item Integrar dichos resultados a un sistema que puede ser interno o externo a los sistemas de la institución. La herramienta \textit{RapidMiner} permite generar los resultados en archivos o integrarlos a una base de datos.
+\end{enumerate}
+
+Una vez que el modelo genere la información con los alumnos propensos a desertar de la carrera, esta información debe ser entregada a los entes o áreas de interés para que realicen las acciones necesarias para mantener al alumno en la institución, las cuales pueden vincularse a las actividades que se definieron como motivaciones del alumno en el modelo de la Tabla \ref{tabla:Tablou de variables}.
