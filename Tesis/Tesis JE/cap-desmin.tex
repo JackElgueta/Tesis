@@ -4,16 +4,88 @@
 \section{Identificación de datos y variables}
 \subsection{Recolección de Datos}
 
-Los datos a utilizar en los modelos a presentar en este capítulo son extraídos de la base de datos de la institución privada. Estos datos corresponde a información de los años 2014 y 2015 de alumnos de las distintas carreras de ingeniería que imparte la institución. Además se extrae información a través del SIES sobre la institución y sus diferentes carreras de ingeniería con respecto a acreditación e indices de empleabilidad.\\
+Los datos a utilizar en los modelos a presentar en este capítulo son extraídos de la base de datos de la institución privada. Estos datos corresponden a información de los años 2014 y 2015 de alumnos de las distintas carreras de ingeniería que imparte la institución. Además, se extrae información a través del SIES sobre la institución y sus diferentes carreras de ingeniería con respecto a acreditación e índices de empleabilidad.\\
 
-Los datos proporcionados por la institución se encuentra en un archivo Excel en el cual figuran los siguientes datos: Rut del estudiante, Apellido paterno del estudiante, Apellido materno del estudiante, Nombres del estudiante, Comuna de residencia del estudiante, Ciudad de residencia del estudiante, Facultad del estudiante, Carrera del estudiante, Jornada del estudiante, PSU de lenguaje
-PSU de matemáticas, PSU de ciencias, PSU de historia, Año de ingreso a la carrera, Código de la carrera, Semestre de inicio de la carrera, Notas de enseñanza media, Código RBD del colegio, Tipo de dependencia del colegio, Sexo del estudiante, Puntaje ranking del estudiante, Fecha de nacimiento del estudiante, Código de región del colegio, Región del colegio, Comuna del colegio, Nombre del colegio, Código del plan del alumno, Código del  plan de la carrera, Código del semestre de inicio de la carrera, Año de información, Semestre de información, Código del curso, Código del semestre de información, Semestre de ingreso a la carrera, Código del estado del curso inscrito, Código del estado del alumno al final del curso, Estado del alumno al final del curso, Sección del curso, Código del ramo, Nota final del curso, Ramo nemotecnico, Nombre del ramo, Nivel del ramo, Tipo de ramo, Código de semestre de inicio del plan (2014), Código de semestre de inicio de la carerra (2014), Sexo del estudiante, País gentilicio, Tipo de contrato, Correo personal, Teléfono fijo, Teléfono celular, Semestre de ingreso a la carrera, Código de la facultad, Beca fallecimiento (2014),Beca de cesantia (2014), Beca internado (2014), Beca Complementaria CAE (2014), Beca Mérito (2014), Beca de Almuerzo (2014), Beca de Fotocopia (2014), Beca de Plotter (2014), Beca Valech (2014), Beca Traspaso Valech (2014), Beca Indígena (2014), Beca Hijo de Profesor (2014), Beca Integración Territorial (2014), Beca Excelencia Mineduc (2014), Beca Juan Gómez Milla (2014), Beca Mun. de Las Condes (2014), Beca Puntaje Nacional (Interno) (2014), Beca Presidente de la Republica (2014), Beca Chaitén (2014), Beca Terremoto (2014), JUNAEB (2014), CAE (2014), Si tiene beca (2014), Si tiene beca interna (2014), Si tiene beca externa (2014), Beca Vocación de Profesor (2014), Mantención JUNAEB (2014), Beca Puntaje PSU MINEDUC (2014), Beca Deportista Destacado (2014), Beca Transporte (2014), Equidad (2014), Beca Complementaria Vocación de Profesor (2014), Beca de Honor (2014), Beca Balmaceda (2014), Beca Funcionario (2014), Beca Ranking NEM (2014),Beca Articulación (2014), Otra Beca MINEDUC (2014), Estado de plan alumno (2015), Código de semestre de inicio del plan (2015), Código de semestre de inicio de la carerra (2015), Beca fallecimiento (2015), Beca de cesantia (2015), Beca internado (2015), Beca Complementaria CAE (2015), Beca Mérito (2015), Beca de Almuerzo (2015), Beca de Fotocopia (2015), Beca de Plotter (2015), Beca Valech (2015), Beca Traspaso Valech (2015), Beca Indígena (2015), Beca Hijo de Profesor (2015), Beca Integración Territorial (2015), Beca Excelencia Mineduc (2015), Beca Juan Gómez Milla (2015), Beca Mun. de Las Condes (2015), Beca Puntaje Nacional (Interno) (2015), Beca Presidente de la Republica (2015), Beca Chaitén (2015), Beca Terremoto (2015), JUNAEB (2015), CAE (2015), Si tiene beca (2015), Si tiene beca interna (2015), Si tiene beca externa (2015), Beca Vocación de Profesor (2015), Mantención JUNAEB (2015), Beca Puntaje PSU MINEDUC (2015), Beca Deportista Destacado (2015), Beca Transporte (2015), Equidad (2015), Beca Complementaria Vocación de Profesor (2015), Beca de Honor (2015), Beca Balmaceda (2015), Beca Funcionario (2015), Beca Ranking NEM (2015), Beca Articulación (2015), Otra Beca MINEDUC (2015).
+Los datos proporcionados por la institución se encuentran en un archivo Excel en el cual figuran los siguientes datos: Rut del estudiante, Apellido paterno del estudiante, Apellido materno del estudiante, Nombres del estudiante, Comuna de residencia del estudiante, Ciudad de residencia del estudiante, Facultad del estudiante, Carrera del estudiante, Jornada del estudiante, PSU de lenguaje, PSU de matemáticas, PSU de ciencias, PSU de historia, Año de ingreso a la carrera, Código de la carrera, Semestre de inicio de la carrera, Notas de enseñanza media, Código RBD del colegio, Tipo de dependencia del colegio, Sexo del estudiante, Fecha de nacimiento del estudiante, Código de región del colegio, Región del colegio, Comuna del colegio, Nombre del colegio, Código del plan del alumno, Código del  plan de la carrera, Código del semestre de inicio de la carrera, Año de información, Semestre de información, Código del curso, Código del semestre de información, Semestre de ingreso a la carrera, Código del estado del curso inscrito, Código del estado del alumno al final del curso, Estado del alumno al final del curso, Sección del curso, Código del ramo, Nota final del curso, Ramo nemotécnico, Nombre del ramo, Nivel del ramo, Tipo de ramo, Código de semestre de inicio del plan (2014), Código de semestre de inicio de la carrera (2014), Sexo del estudiante, País gentilicio, Tipo de contrato, Correo personal, Teléfono fijo, Teléfono celular, Semestre de ingreso a la carrera, Código de la facultad, Beca fallecimiento (2014),Beca de cesantía (2014), Beca internado (2014), Beca Complementaria CAE (2014), Beca Mérito (2014), Beca de Almuerzo (2014), Beca de Fotocopia (2014), Beca de Plotter (2014), Beca Valech (2014), Beca Traspaso Valech (2014), Beca Indígena (2014), Beca Hijo de Profesor (2014), Beca Integración Territorial (2014), Beca Excelencia Mineduc (2014), Beca Juan Gómez Milla (2014), Beca Mun. de Las Condes (2014), Beca Puntaje Nacional (Interno) (2014), Beca Presidente de la Republica (2014), Beca Chaitén (2014), Beca Terremoto (2014), JUNAEB (2014), CAE (2014), Si tiene beca (2014), Si tiene beca interna (2014), Si tiene beca externa (2014), Beca Vocación de Profesor (2014), Mantención JUNAEB (2014), Beca Puntaje PSU MINEDUC (2014), Beca Deportista Destacado (2014), Beca Transporte (2014), Equidad (2014), Beca Complementaria Vocación de Profesor (2014), Beca de Honor (2014), Beca Balmaceda (2014), Beca Funcionario (2014), Beca Ranking NEM (2014),Beca Articulación (2014), Otra Beca MINEDUC (2014), Estado de plan alumno (2015), Código de semestre de inicio del plan (2015), Código de semestre de inicio de la carrera (2015), Beca fallecimiento (2015), Beca de cesantía (2015), Beca internado (2015), Beca Complementaria CAE (2015), Beca Mérito (2015), Beca de Almuerzo (2015), Beca de Fotocopia (2015), Beca de Plotter (2015), Beca Valech (2015), Beca Traspaso Valech (2015), Beca Indígena (2015), Beca Hijo de Profesor (2015), Beca Integración Territorial (2015), Beca Excelencia Mineduc (2015), Beca Juan Gómez Milla (2015), Beca Mun. de Las Condes (2015), Beca Puntaje Nacional (Interno) (2015), Beca Presidente de la Republica (2015), Beca Chaitén (2015), Beca Terremoto (2015), JUNAEB (2015), CAE (2015), Si tiene beca (2015), Si tiene beca interna (2015), Si tiene beca externa (2015), Beca Vocación de Profesor (2015), Mantención JUNAEB (2015), Beca Puntaje PSU MINEDUC (2015), Beca Deportista Destacado (2015), Beca Transporte (2015), Equidad (2015), Beca Complementaria Vocación de Profesor (2015), Beca de Honor (2015), Beca Balmaceda (2015), Beca Funcionario (2015), Beca Ranking NEM (2015), Beca Articulación (2015), Otra Beca MINEDUC (2015).\\
 
-La información del SIES se encuentra en un sitio web, por lo que se creo una base de datos en MySQL llamada \textit{Area Staging} con toda la información recopilada.\\ 
+La información del SIES se encuentra en un sitio web, por lo que se creó una base de datos en MySQL llamada \textit{Area Staging} con toda la información recopilada.\\
+
 
 \subsection{Procesamiento de Datos}
 
-La información recopilada de las dos fuentes de datos fue procesada, extrayendo y transformando varios de los datos que se presentaron anteriormente. Este procesamiento se realizo a partir de las variables consideradas en los constructos y del análisis de diferentes investigaciones del tema deserción en Chile que indican que son buenos predictores del Capitulo \ref{ch:tema}.\\
+\begin{longtable}{| p{5cm}| p{7cm} |}
+	\hline
+	Dato & Motivo de exclusión\\
+	\hline \hline
+	\endfirsthead
+	
+	\hline
+	Dato & Motivo de exclusión\\
+	\hline \hline
+	\endhead
+Apellido paterno del estudiante & Es un dato solo informativo	\\ \hline			
+Apellido materno del estudiante & Es un dato solo informativo  \\ \hline
+Ciudad de residencia del estudiante & Se utilizó comuna por ser la mayoría de los registro de la ciudad de Santiago\\ \hline
+Facultad del estudiante & Dato único, no útil en los modelos\\ \hline
+Año de ingreso a la carrera & Los datos se trataron con respecto al historial de cada alumno	\\ \hline
+Jornada del estudiante & Se generan dos modelos para las jornadas	\\ \hline
+Código de la carrera & Se utilizó nombre de carrera	\\ \hline
+Fecha de nacimiento del estudiante & Se transformo en la variable edad	\\ \hline
+Código RBD del colegio & Se utilizó tipo de colegio \\ \hline
+Código de región del colegio & Es un dato solo informativo	\\ \hline
+Región del colegio & Es un dato solo informativo	\\ \hline
+Comuna del colegio & Es un dato solo informativo	\\ \hline
+Nombre del colegio & Es un dato solo informativo	\\ \hline
+Código del plan del alumno & Es un dato solo informativo	\\ \hline
+Código del plan de la carrera & Es un dato solo informativo	\\ \hline
+Código del semestre de inicio de la carrera & Es un dato solo informativo	\\ \hline
+Año de información & Los datos se trataron con respecto al historial de cada alumno	\\ \hline
+Semestre de información & Los datos se trataron con respecto al historial de cada alumno	\\ \hline
+Código del curso & Es un dato solo informativo	\\ \hline
+Código del semestre de información & Es un dato solo informativo	\\ \hline
+Semestre de ingreso a la carrera &  Los datos se trataron con respecto al historial de cada alumno	\\ \hline
+Código del estado del curso inscrito & Se sacó un promedio de todos los ramos cursados por el alumno	\\ \hline
+Código del estado del alumno al final del curso & Se sacó un promedio de todos los ramos cursados por el alumno	\\ \hline
+Estado del alumno al final del curso & Se sacó un promedio de todos los ramos cursados por el alumno	\\ \hline
+Sección del curso & Se sacó un promedio de todos los ramos cursados por el alumno	\\ \hline
+Código del ramo & Se sacó un promedio de todos los ramos cursados por el alumno	\\ \hline
+Nota final del curso & Se sacó un promedio de todos los ramos cursados por el alumno	\\ \hline
+Ramo nemotécnico & Es un dato solo informativo 	\\ \hline
+Nombre del ramo & Es un dato solo informativo	\\ \hline
+Nivel del ramo & Es un dato solo informativo	\\ \hline
+Tipo de ramo & Es un dato solo informativo	\\ \hline
+Código de semestre de inicio del plan (2014) & Es un dato solo informativo	\\ \hline
+Código de semestre de inicio de la carrera (2014) & Es un dato solo informativo	\\ \hline
+País gentilicio & Es un dato solo informativo	\\ \hline
+Tipo de contrato & Es un dato solo informativo	\\ \hline
+Correo personal & Es un dato solo informativo	\\ \hline
+Teléfono fijo & Es un dato solo informativo	\\ \hline
+Teléfono celular & Es un dato solo informativo	\\ \hline
+Código de la facultad & Es un dato solo informativo	\\ \hline
+Rut del profesor & 	Es un dato solo informativo\\ \hline
+Primer nombre del profesor & Es un dato solo informativo	\\ \hline
+Segundo nombre del profesor & Es un dato solo informativo	\\ \hline
+Apellido paterno del profesor & Es un dato solo informativo	\\ \hline
+Apellido materno del profesor & Es un dato solo informativo	\\ \hline
+Rut del apoderado & Es un dato solo informativo	\\ \hline
+Primer nombre del apoderado & Es un dato solo informativo	\\ \hline
+Segundo nombre del apoderado & Es un dato solo informativo	\\ \hline
+Apellido paterno del apoderado & Es un dato solo informativo	\\ \hline
+Apellido materno del apoderado & Es un dato solo informativo	\\ \hline
+Becas 14 y 15 & Todas las becas se homologaron, tomando en cuenta el hecho de tener un beneficio o no con respecto al arancel	\\ \hline
+Créditos 14 y 15 & Todas los créditos se homologaron, tomando en cuenta el hecho de tener un beneficio o no con respecto al arancel	\\ \hline
+Junaeb 14 y 15 & Todas las becas se homologaron, tomando en cuenta el hecho de tener un beneficio o no con respecto a alimentación	\\ \hline
+
+ \hline
+	\hline
+	\caption{Datos excluidos.}
+	\label{tabla:exclusion}
+\end{longtable}	
+
+
+La información recopilada de las dos fuentes de datos fue procesada, excluyendo y transformando varios de los datos (Tabla \ref{tabla:exclusion}). Este procesamiento se realizó a partir de las variables consideradas en los constructos y del análisis de diferentes investigaciones del tema deserción en Chile que indican que son buenos predictores del Capitulo \ref{ch:tema}.\\
+
+
 
 \begin{figure}[H]
 	\centering 
@@ -22,21 +94,23 @@ La información recopilada de las dos fuentes de datos fue procesada, extrayendo
 	\label{fig:bdarea}
 \end{figure}
 
-Los datos procesados se pueden apreciar en la Figura \ref{fig:bdarea}, la cual tiene principalmente variables de la ``Institución y Carrera'' y del ``Desempeño del Alumno'' definidas en el tablou de los constructos, Tabla \ref{tabla:Tablou de variables}, faltando las variables de ``Motivaciones del Alumno'', por lo que para efecto de este estudio, se propone un mecanismo para capturar estos datos.\\
+Los datos procesados se pueden apreciar en la Figura \ref{fig:bdarea}, la cual tiene principalmente variables de la ``Institución y Carrera'' y del ``Desempeño del Alumno'' definidas en la tabla de los constructos, Tabla \ref{tabla:Tablou de variables}, desestimando las variables de ``Motivaciones del Alumno'', debido a que no existe información de dichas variables en los datos proporcionados, por lo que para efecto de este estudio, se propone un mecanismo para capturar estos datos, y solo procesar modelos con la data existente.\\
 
-El mecanismos a proponer es generar encuestas a final de cada semestre que capte y actualice las variables correspondientes a las motivaciones del alumno, de tal modo poder analizar la situación del alumno de manera semestral.\\
+El mecanismo a proponer es generar encuestas a final de cada semestre que capte y actualice las variables correspondientes a las motivaciones del alumno, de tal modo poder analizar la situación del alumno de manera semestral.\\
+
 
 \subsection{Muestra de Datos}
 
-La muestra de datos esta configurada para dos conjuntos de datos, el primero lo conforma datos de alumnos de jornada diurna y el segundo conjunto por alumnos de jornada vespertina.\\
+La muestra de datos está configurada para dos conjuntos de datos, el primero lo conforma datos de alumnos de jornada diurna y el segundo conjunto por alumnos de jornada vespertina.\\
 
-El conjunto de alumnos de jornada diurna esta conformado por 709 observaciones, de los cuales 11 representan abandono.\\
+El conjunto de alumnos de jornada diurna está conformado por 709 observaciones, de los cuales 11 representan abandono.\\
 
-El conjunto de alumnos de jornada vespertina esta conformado por 49 observaciones, de los cuales dos representan abandono.\\
+El conjunto de alumnos de jornada vespertina está conformado por 49 observaciones, de los cuales dos representan abandono.\\
+
 
 \subsection{Variables}
 
-A continuación se muestra una tabla con variable para modelar los datos de los dos conjuntos, el conjunto de jornada de vespertina no se consideran los puntajes PSU debido a que la institución tiene otro mecanismo de ingreso y la mayoría de las observaciones tiene esos campos vacíos.\\
+A continuación, se muestra una tabla con variable para modelar los datos de los dos conjuntos, el conjunto de jornada de vespertina no se consideran los puntajes PSU debido a que la institución tiene otro mecanismo de ingreso y la mayoría de las observaciones tiene esos campos vacíos.\\
 
 \begin{longtable}{| p{3cm}| p{2cm} | p{7cm} |}
 			\hline
@@ -100,8 +174,7 @@ La construcción de los modelos se implementará con la herramienta \textit{Rapi
 	\label{fig:proceso}
 \end{figure}
 
-La herramienta \textit{RapidMiner} permite a través de operadores, construir un proceso. Los procesos son una serie de pasos constituidos por operadores. La Figura \ref{fig:proceso} representa el proceso construido para generar la predicción de los datos. La descripcion de cada operador se detalla en el Anexo \ref{ch:anexo-b}\\
- 
+La herramienta \textit{RapidMiner} permite a través de operadores, construir un proceso. Los procesos son una serie de pasos constituidos por operadores. La Figura \ref{fig:proceso} representa el proceso construido para generar la predicción de los datos. La descripción de cada operador se detalla en el Anexo \ref{ch:anexo-b}\\
 
 \begin{figure}[H]
 	\centering 
@@ -110,7 +183,7 @@ La herramienta \textit{RapidMiner} permite a través de operadores, construir un
 	\label{fig:importdata}
 \end{figure}
 
-El primer paso antes de operar el proceso construido, es importar los datos para entrenar y predecir. Las variables se definen con el tipo de dato que las caracteriza junto al rol a cumplir dentro del modelo, para este caso, se tomo como rol identificador la variable ``rut'' y como variable a predecir ``estado'', Figura \ref{fig:importdata}.
+El primer paso antes de operar el proceso construido, es importar los datos para entrenar y predecir. Las variables se definen con el tipo de dato que las caracteriza junto al rol a cumplir dentro del modelo, para este caso, se tomó como rol identificador la variable ``rut'' y como variable a predecir ``estado'', Figura \ref{fig:importdata}.
 
 \begin{figure}[H]
 	\centering 
@@ -121,7 +194,7 @@ El primer paso antes de operar el proceso construido, es importar los datos para
 
 Los datos cargados son accedidos por el operador ``Retrieve'' y luego pasados hacia el operador ``Replace Missing Values'' el cual reemplaza los valores vacíos de las variables seleccionadas, en este caso se seleccionaron las variables de ``PSU'' los cuales tienen datos vacíos, estos datos serán reemplazados por ceros como se puede ver en la Figura \ref{fig:remplazadata}.\\
 
-Luego de que los datos son reemplazados, pasan al operador ``Nominal to Numerical'', el cual transforma todas la variables a numéricas, para luego pasar al operador ``Normalize'', normalizando los datos y luego al operador ``Multiply'' el cual multiplica los datos generando dos conjuntos, el primero para ser entrenado y el otro para validar, separados por los operadores ``Filter Example''.\\
+Luego de que los datos son reemplazados, pasan al operador ``Nominal to Numerical'', el cual transforma todas las variables a numéricas, para luego pasar al operador ``Normalize'', normalizando los datos y luego al operador ``Multiply'' el cual multiplica los datos generando dos conjuntos, el primero para ser entrenado y el otro para validar, separados por los operadores ``Filter Example''.\\
 
 
 \begin{figure}[H]
@@ -139,7 +212,8 @@ El modelamiento se configuro de la siguiente manera, para el conjunto de datos d
 
 El detalle del resultado de las cuatro técnicas de predicción utilizadas en los conjuntos de datos, se especifica la matriz de confusión, las variables que más influyeron en cada predicción y el porcentaje real de predicción.\\
 
-La matriz de confusión es una herramienta que permite visualizar el desempeño de un algoritmo empleado para aprendizaje supervisado. Las columnas representan el número de predicciones por clases y las filas representan las instancias de la clase. Esta herramienta permite ver si el sistema esta confundiendo dos clases \cite{matriz}.\\
+La matriz de confusión es una herramienta que permite visualizar el desempeño de un algoritmo empleado para aprendizaje supervisado. Las columnas representan el número de predicciones por clases y las filas representan las instancias de la clase. Esta herramienta permite ver si el sistema está confundiendo dos clases \cite{matriz}.\\
+
 
 
 \subsection{SVN}
@@ -154,9 +228,10 @@ La matriz de confusión es una herramienta que permite visualizar el desempeño 
 	\label{fig:svndiurno}
 \end{figure}	
 	
-La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica que SVN obtuvo una precisión del 98.12\%, especificando que la clase ACTIVO tuvo una precisión del 99.52\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 100\%.
+La matriz de confusión que se muestra en la Figura \ref{fig:svndiurno} indica que SVN obtuvo una precisión del 98.12\%, especificando que la clase ACTIVO tuvo una precisión del 99.52\%, mientras que la clase ABANDONO tuvo 0\%. Sin embargo, comparando las observaciones predichas con las observaciones reales, se obtuvo una precisión del 100\%.
 
 Las variables con mayor peso en la predicción de la clase ACTIVO fueron: CAE15, PSU Ciencias, Beca15, Promedio notas, Carrera, Empleabilidad al 1er año, Junaeb15, NEM, Ingreso Promedio 4to año, Tipo colegio, Comuna y Genero.\\
+
 
 
 
