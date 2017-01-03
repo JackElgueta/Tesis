@@ -13,14 +13,10 @@
 \contentsline {figure}{\numberline {5.1}{\ignorespaces Mapa de Consenso Generado}}{37}{figure.caption.21}
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Tabla resultante}}{56}{figure.caption.22}
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Proceso de Predicci\IeC {\'o}n}}{59}{figure.caption.23}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Importaci\IeC {\'o}n de datos}}{60}{figure.caption.24}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Importaci\IeC {\'o}n de datos}}{59}{figure.caption.24}
 \contentsline {figure}{\numberline {6.4}{\ignorespaces Remplazar de datos vacios}}{60}{figure.caption.25}
 \contentsline {figure}{\numberline {6.5}{\ignorespaces Validaci\IeC {\'o}n}}{61}{figure.caption.26}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Matriz de Confusi\IeC {\'o}n SVN Diurno}}{62}{figure.caption.27}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Matriz de Confusi\IeC {\'o}n SVN Vespertino}}{63}{figure.caption.28}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Matriz de Confusi\IeC {\'o}n Regresi\IeC {\'o}n Lineal Diurno}}{63}{figure.caption.29}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Matriz de Confusi\IeC {\'o}n Regresi\IeC {\'o}n Lineal Vespertino}}{64}{figure.caption.30}
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Matriz de Confusi\IeC {\'o}n Red Neuronal Diurno}}{64}{figure.caption.31}
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Matriz de Confusi\IeC {\'o}n Red Neuronal Vespertino}}{65}{figure.caption.32}
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Matriz de Confusi\IeC {\'o}n \IeC {\'A}rbol de Decisi\IeC {\'o}n Diurna}}{65}{figure.caption.33}
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Matriz de Confusi\IeC {\'o}n \IeC {\'A}rbol de Decisi\IeC {\'o}n Vespertina}}{66}{figure.caption.34}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Matriz de Confusi\IeC {\'o}n SVM}}{62}{figure.caption.27}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Matriz de Confusi\IeC {\'o}n Regresi\IeC {\'o}n Lineal }}{62}{figure.caption.28}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Matriz de Confusi\IeC {\'o}n Red Neuronal }}{62}{figure.caption.29}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Matriz de Confusi\IeC {\'o}n \IeC {\'A}rbol de Decisi\IeC {\'o}n }}{63}{figure.caption.30}

@@ -19,16 +19,31 @@ Operadores utilizados en la creación del proceso para la predicción de la dese
 		\endhead
 		
 		 \includegraphics[width=20mm,height=20mm]{retrieve.png} & Este operador se utiliza para acceder a los repositorios. Transforma la mayor cantidad de datos del archivo de entrada en metadatos para un mejor procesamiento. \\	\hline \\
+		 
+	     \includegraphics[width=20mm,height=20mm]{replace.png} & Este operador reemplaza los valores faltantes en los ejemplos de atributos seleccionados por un reemplazo especificado. \\ \hline \\
 		
 	     \includegraphics[width=20mm,height=20mm]{nominal.png} & Este operador cambia el tipo de atributos no numéricos seleccionados a un tipo numérico. También asigna todos los valores de estos atributos a valores numéricos. \\	\hline \\
 		
 	     \includegraphics[width=20mm,height=20mm]{normalize.png} &  Este operador normaliza los valores de atributos de los atributos seleccionados.\\	\hline \\
+	     
+	     \includegraphics[width=20mm,height=20mm]{removeuseless.png} & Este operador elimina los atributos inútiles de un conjunto. Los umbrales para los atributos inútiles son especificados por el usuario. \\	\hline \\
+	     
+	     \includegraphics[width=20mm,height=20mm]{matriz.png} & Este operador determina la correlación entre todos los atributos y puede producir un vector de pesos basado en estas correlaciones. La correlación es una técnica estadística que puede mostrar si y con qué fuerza los pares de atributos están relacionados. \\	\hline \\
 		
-	     \includegraphics[width=20mm,height=20mm]{replace.png} & Este operador reemplaza los valores faltantes en los ejemplos de atributos seleccionados por un reemplazo especificado. \\ \hline \\
+	     \includegraphics[width=20mm,height=20mm]{removecorrelated.png} & Este operador elimina los atributos correlacionados de un conjunto. El umbral de correlación es especificado por el usuario. \\	\hline
+	     
+	     \includegraphics[width=20mm,height=20mm]{wei.png} & Este operador calcula la relevancia de los atributos calculando para cada atributo de la entrada del conjunto el valor de la estadística chi-cuadrado con respecto al atributo de clase. \\	\hline	     
+
+	     \includegraphics[width=20mm,height=20mm]{select.png} & Este operador selecciona solamente aquellos atributos de una entrada del conjunto cuyas ponderaciones satisfacen el criterio especificado con respecto a los pesos de entrada. \\	\hline
+
 		
 	     \includegraphics[width=20mm,height=20mm]{multiply.png} & Este operador copia su objeto de entrada a todos los puertos de salida conectados. No modifica el objeto de entrada. \\	\hline
 		
 	     \includegraphics[width=20mm,height=20mm]{filter.png} & Este operador selecciona los datos de un conjunto de datos que se deben conservar y qué datos deben eliminarse. Se mantienen los datos que satisfacen la condición dada, se eliminan los datos restantes. \\	\hline \\
+	     
+	     \includegraphics[width=20mm,height=20mm]{sampleboot.png} & Este operador crea una muestra de arranque de cinta de un conjunto. El muestreo de arranque utiliza muestreo con reemplazo, por lo tanto la muestra puede no tener todos los registros únicos. El tamaño de la muestra puede especificarse en base absoluta y relativa. \\	\hline	
+	     
+	     \includegraphics[width=20mm,height=20mm]{sample.png} & Este operador crea una muestra de un conjunto seleccionando registros aleatoriamente. El tamaño de una muestra se puede especificar en base absoluta, relativa y de probabilidad. \\	\hline     
 		
 		 \includegraphics[width=20mm,height=20mm]{apply.png} & Este operador aplica un modelo ya aprendido o entrenado en un conjunto de datos. \\	\hline \\
 		 

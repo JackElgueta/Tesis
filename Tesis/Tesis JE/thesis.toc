@@ -48,17 +48,17 @@
 \contentsline {subsection}{\numberline {6.1.2}Procesamiento de Datos}{53}{subsection.6.1.2}
 \contentsline {subsection}{\numberline {6.1.3}Muestra de Datos}{56}{subsection.6.1.3}
 \contentsline {subsection}{\numberline {6.1.4}Variables}{57}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Procesos en RapidMiner}{59}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.5}Procesos en RapidMiner}{58}{subsection.6.1.5}
 \contentsline {section}{\numberline {6.2}Modelamiento}{61}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}SVN}{62}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Regresi\IeC {\'o}n Lineal}{63}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Red Neuronal}{64}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}\IeC {\'A}rbol de Decisi\IeC {\'o}n}{65}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}Resultados}{67}{section.6.3}
-\contentsline {part}{III\hspace {1em}Conclusiones}{69}{part.3}
-\contentsline {chapter}{Cap\'{i}tulo 7.\ Conclusiones e Implementaci\IeC {\'o}n}{71}{chapter.7}
-\contentsline {section}{\numberline {7.1}Conclusiones}{71}{section.7.1}
-\contentsline {section}{\numberline {7.2}Implementaci\IeC {\'o}n}{72}{section.7.2}
-\contentsline {part}{IV\hspace {1em}Informaci\IeC {\'o}n Adicional}{73}{part.4}
-\contentsline {chapter}{Anexo A.\ Entrevistas con Metodolog\IeC {\'\i }a de la Met\IeC {\'a}fora}{79}{appendix.Alph1}
-\contentsline {chapter}{Anexo B.\ RapidMiner}{113}{appendix.Alph2}
+\contentsline {subsection}{\numberline {6.2.1}SVM}{62}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Regresi\IeC {\'o}n Lineal}{62}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Red Neuronal}{62}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}\IeC {\'A}rbol de Decisi\IeC {\'o}n}{63}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Resultados}{63}{section.6.3}
+\contentsline {part}{III\hspace {1em}Conclusiones}{65}{part.3}
+\contentsline {chapter}{Cap\'{i}tulo 7.\ Conclusiones e Implementaci\IeC {\'o}n}{67}{chapter.7}
+\contentsline {section}{\numberline {7.1}Conclusiones}{67}{section.7.1}
+\contentsline {section}{\numberline {7.2}Implementaci\IeC {\'o}n}{68}{section.7.2}
+\contentsline {part}{IV\hspace {1em}Informaci\IeC {\'o}n Adicional}{69}{part.4}
+\contentsline {chapter}{Anexo A.\ Entrevistas con Metodolog\IeC {\'\i }a de la Met\IeC {\'a}fora}{75}{appendix.Alph1}
+\contentsline {chapter}{Anexo B.\ RapidMiner}{109}{appendix.Alph2}
