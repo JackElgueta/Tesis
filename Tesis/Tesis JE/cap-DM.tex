@@ -5,10 +5,11 @@
 
 El proceso de minería de datos o exploración de datos es un proceso, considerado una etapa de un proceso mayor llamado ``Descubrimiento de Conocimiento en Base de Datos'' (KDD, del inglés, Knowledge Discovery in Databases), ``proceso no trivial de identificar patrones válidos, novedosos, potencialmente útiles y comprensible a partir de los datos''. \footnote{Fayyad et al. 1996}\\
 
-Usualmente ambos conceptos son intercambiables, pero se entiende por KDD al proceso de encontrar información y/o patrones útiles en los datos. En cambio minería de datos, es el uso de algoritmos para extraer información y/o patrones derivados dentro del proceso KDD.\\
+Usualmente ambos conceptos son intercambiables, pero se entiende por KDD al proceso de encontrar información y/o patrones útiles en los datos. En cambio, minería de datos, es el uso de algoritmos para extraer información y/o patrones derivados dentro del proceso KDD.\\
 
 
 Dentro de la definición del proceso KDD se pueden desprender los siguientes conceptos:
+
 
 \begin{itemize}
     \item Patrones válidos:
@@ -49,18 +50,19 @@ El proceso KDD puede ser representado en 7 objetivos, los cuales se logran en di
 
 \subsubsection{Recogida de Datos}
 
-La primeras fases del KDD determinan que las fases sucesivas sean capaces de extraer conocimiento válido y útil a partir de la información original.\\
+Las primeras fases del KDD determinan que las fases sucesivas sean capaces de extraer conocimiento válido y útil a partir de la información original.\\
 
 En la fase de recogida de datos se sigue los siguientes pasos:
 
 \begin{itemize}
-    \item Selección de datos: 
-    Por lo general la información que se quiere investigar sobre un cierto dominio de la organización se encuentra en bases de datos y fuentes internas como externas.
-    \item Pre-proceso o limpieza de datos:
-    En este paso se debe eliminar el mayor número de datos erróneos o inconsistentes e irrelevantes, esto también se conoce como limpieza y selección.
-    \item Transformación de datos:
-    Una vez limpiados y seleccionados los datos, se realiza un proceso de transformación que permite homologar la información, dando como resultado un conjunto de filas y columnas denominado ``Vista Minable'', con el fin de dejar los datos preparados para la modelización.
+	\item Selección de datos: 
+	Por lo general la información que se quiere investigar sobre un cierto dominio de la organización se encuentra en bases de datos y fuentes internas como externas.
+	\item Pre-proceso o limpieza de datos:
+	En este paso se debe eliminar el mayor número de datos erróneos o inconsistentes e irrelevantes, esto también se conoce como limpieza y selección.
+	\item Transformación de datos:
+	Una vez limpiados y seleccionados los datos, se realiza un proceso de transformación que permite homologar la información, dando como resultado un conjunto de filas y columnas denominado ``Vista Minable'', con el fin de dejar los datos preparados para la modelización.
 \end{itemize}
+
 
 \subsubsection{Modelamiento}
 
@@ -82,19 +84,19 @@ El modelamiento o minería de datos es la etapa principal del KDD, aquí se dete
     Son aquellas que exploran las propiedades de los datos analizados para encontrar patrones entre ellos.\\
     
     \begin{itemize}
-        \item Agrupamiento (Clasificación no supervisada):
-        Es similar a la clasificación, excepto que los grupos no son predefinidos. El objetivo es segmentar un conjunto de datos en grupos que pueden ser disjuntos o no. Los grupos se forman basados en la similaridad de los datos en ciertas variables. Como los grupos no son dados a priori se debe dar una interpretación de los grupos que se forman.
-        
-        \item Correlaciones:
-        Identifica el grado de similitud de dos variables numéricas.
-        \item Asociación:
-        Las asociaciones entre dos atributos ocurre cuando la frecuencia de que se den dos valores determinados de cada uno conjuntamente es relativamente alta.
-        \item Reglas de asociación secuenciales:
-        Es una variante de asociación que utiliza la variable tiempo para identificar correlación.
+	\item Agrupamiento (Clasificación no supervisada):
+	Es similar a la clasificación, excepto que los grupos no son predefinidos. El objetivo es segmentar un conjunto de datos en grupos que pueden ser disjuntos o no. Los grupos se forman basados en la similaridad de los datos en ciertas variables. Como los grupos no son dados a priori se debe dar una interpretación de los grupos que se forman.
+	
+	\item Correlaciones:
+	Identifica el grado de similitud de dos variables numéricas.
+	\item Asociación:
+	La asociación entre dos atributos ocurre cuando la frecuencia de que se den dos valores determinados de cada uno conjuntamente es relativamente alta.
+	\item Reglas de asociación secuenciales:
+	Es una variante de asociación que utiliza la variable tiempo para identificar correlación.
+	
+	
+\end{itemize}
 
-        
-    \end{itemize}
-    
 \end{enumerate}
 
 
@@ -117,7 +119,7 @@ alterarse alguno de los pasos anteriores para generar nuevos modelos.
 
 \section{Técnicas de Minería de Datos}
 
-En el capitulo anterior se explico que existen diferentes técnicas y tareas en minería de datos para los distintos tipos de modelamiento.\\
+En el capítulo anterior se explicó que existen diferentes técnicas y tareas en minería de datos para los distintos tipos de modelamiento.\\
 
 El modelamiento acorde a este trabajo, corresponde a un modelo predictivo, en el cual se utilizarán cuatro técnicas en \textit{RapidMiner}, para generar cuatro modelos, estas técnicas son:\\
 

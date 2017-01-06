@@ -10,18 +10,26 @@ El concepto de inteligencia del cliente, entrego herramientas para analizar las 
 
 Si bien se generaron variables para un modelo con inteligencia del cliente, finalmente se utilizaron variables disponibles en los datos otorgados por la institución, las variables extraídas de estos datos fueron principalmente variables estudiadas en otras investigaciones respecto al tema deserción y que se comprobó su influencia en las técnicas de predicción.\\
 
-Dentro de las cuatro técnicas probadas en el modelo generado, tres de las cuatro técnicas obtuvieron una precisión mayor al 80\%, sin embargo seria optimo a futuro probar el modelo resultante de inteligencia del cliente y aplicar la siguiente implementación utilizando los pasos del modelamiento con la herramienta \textit{RapidMiner} con las diferentes técnicas\\
+Dentro de las cuatro técnicas probadas en el modelo generado, tres de las cuatro técnicas obtuvieron una precisión mayor al 80\%, porcentaje alto, es un muy buen resultado, tomando en cuenta que se utilizaron en la mayoría variables que indican el desempeño del alumno.\\
 
-\section{Implementación}
+Sobre los objetivos planteados en el comienzo de este trabajo, se cumplieron todos, solo con algunas diferencias en los datos y variables planteadas con inteligencia del cliente, ya que se logró entender las necesidades y motivaciones del alumno por terminar la carrera, y esto llevado a variables para un modelo, resulto una complicación al no haber fuentes de datos que lograran alimentar estas variables, por lo que se tuvo que replantear las variables con datos que si estaban disponibles, con los cuales se logró hacer los tratamiento de minería de datos y generar modelos a partir de algoritmos de predicción, logrando cumplir así los objetivos planteados al comienzo.\\
+
+Con respecto a la perspectiva de trabajo, en un comienzo hubo mucha investigación sobre el tema deserción en carreras de ingeniería, obteniendo resultados que alarman a las entidades interesadas sobre el tema, ya que los índices de deserción cada vez aumentan más. Por este motivo se esperaba trabajar con datos de dos instituciones, una pública y una privada, para poder hacer un análisis comparativo sobre la situación de deserción en Chile. Sin embargo, para poder haber llevado a cabo ese objetivo, se tendría que haber analizado las necesidades y motivaciones de los alumnos de ambos contextos, lo cual habría diferido mucho entre ambos modelos predictivos, ya que cada institución estudiantil, tiene un perfil de alumno único, que lo diferencia de otras instituciones, además de que cada institución tiene sus propios beneficios, lo que en términos de necesidades del alumno, esto hace la diferencia entre que un alumno deserte o no de la carrera.\\
+
+Al terminar este trabajo se puede concluir que las necesidades y motivaciones del alumno si pueden ser consideradas para un modelo predictivo, analizando las actividades que realiza el alumno con respecto a las actividades que facilita la institución para que el alumno se pueda desarrollar y generar motivos para seguir en la carrera por lo tanto, el planteamiento de este trabajo sobre las necesidades y motivaciones del alumno, genera un aporte en cuanto al interés de la institución en poder brindar apoyo y como este apoyo influye en el desempeño e interés del alumno por seguir su carrera, y como este se va comportando a lo largo de su periodo estudiantil. Sin embargo, seria optimo como trabajo futuro probar el modelo resultante de inteligencia del cliente y aplicar la implementación que se presentará a continuación utilizando los pasos del modelamiento con la herramienta \textit{RapidMiner} con las diferentes técnicas para verificar la influencia de estas variables en la deserción de los alumnos.\\
+
+\section{Implementación y Trabajo Futuro}
 
 El primer paso es generar los procesos de minería de datos, esto quiere decir realizar actividades relacionadas con la automatización de estos procesos, por este motivo se considera las siguientes actividades:
 
 \begin{enumerate}
 	\item Recolectar información de las motivaciones del alumno al finalizar cada semestre.
-	\item Definir el día de la extracción de la información, debiese ser finalizando las encuesta de fin de semestre.
-	\item Automatizar la generación de la base de datos que alimentará el modelo propuesto. Se debe considerar proceso ETL.
+	\item Definir el día de la extracción de la información, debiese ser finalizando las encuestas de fin de semestre.
+	\item Automatizar la generación de la base de datos que alimentará el modelo propuesto. Se debe considerar procesos ETL.
 	\item Procesar el modelo con la herramienta \textit{RapidMiner}.
-	\item Integrar dichos resultados a un sistema que puede ser interno o externo a los sistemas de la institución. La herramienta \textit{RapidMiner} permite generar los resultados en archivos o integrarlos a una base de datos.
+	\item Integrar dichos resultados a un sistema que puede ser interno o externo a los sistemas de la institución. La herramienta \textit{RapidMiner} permite generar los resultados en archivos o integrarlos a una base de datos con la cual se puede visualizar con algún desarrollo web o de escritorio.
 \end{enumerate}
 
-Una vez que el modelo genere la información con los alumnos propensos a desertar de la carrera, esta información debe ser entregada a los entes o áreas de interés para que realicen las acciones necesarias para mantener al alumno en la institución, las cuales pueden vincularse a las actividades que se definieron como motivaciones del alumno en el modelo de la Tabla \ref{tabla:Tablou de variables}.
+Una vez que el modelo genere la información con los alumnos propensos a desertar de la carrera, esta información debe ser entregada a los entes o áreas de interés para que realicen las acciones necesarias para mantener al alumno en la institución, las cuales pueden vincularse a las actividades que se definieron como motivaciones del alumno en el modelo de la Tabla \ref{tabla:Tablou de variables}.\\
+
+Esta metodología de trabajo puede ser implementada en cualquier facultad o carrera, teniendo en cuenta que el trabajo base fundamental debe ser las entrevistas con la metodología de la metáfora, ya que con esto se puede analizar las necesidades y motivaciones de los alumnos, para plantear variables que se relacionen a estas.\\
